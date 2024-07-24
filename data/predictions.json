@@ -11726,39 +11726,39 @@
                             "status": 0
                         },
                         "2": {
-                            "name": "Cecilie Ludwig",
-                            "name_en": "Cecilie Ludwig",
-                            "country_domain": "DEN",
-                            "status": 0
-                        },
-                        "3": {
-                            "name": "Juliette Labous",
-                            "name_en": "Juliette Labous",
-                            "country_domain": "FRA",
-                            "status": 0
-                        },
-                        "4": {
-                            "name": "Niamh Mary Fisher",
-                            "name_en": "Niamh Mary Fisher",
-                            "country_domain": "NZL",
-                            "status": 0
-                        },
-                        "5": {
-                            "name": "Liane Lippert",
-                            "name_en": "Liane Lippert",
-                            "country_domain": "GER",
-                            "status": 0
-                        },
-                        "6": {
                             "name": "Lotte Kopecky",
                             "name_en": "Lotte Kopecky",
                             "country_domain": "BEL",
                             "status": 0
                         },
+                        "3": {
+                            "name": "Cecilie Ludwing",
+                            "name_en": "Cecilie Ludwing",
+                            "country_domain": "DEN",
+                            "status": 0
+                        },
+                        "4": {
+                            "name": "Lorena Wiebes",
+                            "name_en": "Lorena Wiebes",
+                            "country_domain": "NED",
+                            "status": 0
+                        },
+                        "5": {
+                            "name": "Marlen Reusser",
+                            "name_en": "Marlen Reusser",
+                            "country_domain": "SUI",
+                            "status": 0
+                        },
+                        "6": {
+                            "name": "Liane Lippert",
+                            "name_en": "Liane Lippert",
+                            "country_domain": "GER",
+                            "status": 0
+                        },
                         "7": {
-                            "name": "Kim Cadzow",
-                            "name_en": "Kim Cadzow",
-                            "country_domain": "NZL",
+                            "name": "Juliette Labous",
+                            "name_en": "Juliette Labous",
+                            "country_domain": "FRA",
                             "status": 0
                         },
                         "8": {
@@ -11837,27 +11837,27 @@
                     "analysis_en": [],
                     "prediction": {
                         "1": {
-                            "name": "Tadej Pogačar",
-                            "name_en": "Tadej Pogačar",
-                            "country_domain": "SLO",
+                            "name": "Wout Van Aert",
+                            "name_en": "Wout Van Aert",
+                            "country_domain": "BEL",
                             "status": 0
                         },
                         "2": {
-                            "name": "Daniel Felipe Martinez Poveda",
-                            "name_en": "Daniel Felipe Martinez Poveda",
-                            "country_domain": "COL",
+                            "name": "Mathieu Van Der Poel",
+                            "name_en": "Mathieu Van Der Poel",
+                            "country_domain": "NED",
                             "status": 0
                         },
                         "3": {
-                            "name": "Attila Valter",
-                            "name_en": "Attila Valter",
-                            "country_domain": "HUN",
+                            "name": "Christophe Laporte",
+                            "name_en": "Christophe Laporte",
+                            "country_domain": "FRA",
                             "status": 0
                         },
                         "4": {
-                            "name": "Jhonatan Manuel Narvaez Prado",
-                            "name_en": "Jhonatan Manuel Narvaez Prado",
-                            "country_domain": "ECU",
+                            "name": "Mads Pedersen",
+                            "name_en": "Mads Pedersen",
+                            "country_domain": "DEN",
                             "status": 0
                         },
                         "5": {
@@ -11867,15 +11867,15 @@
                             "status": 0
                         },
                         "6": {
-                            "name": "Maximilian Schachmann",
-                            "name_en": "Maximilian Schachmann",
-                            "country_domain": "GER",
+                            "name": "Remco Evenepoel",
+                            "name_en": "Remco Evenepoel",
+                            "country_domain": "BEL",
                             "status": 0
                         },
                         "7": {
-                            "name": "Magnus Sheffield",
-                            "name_en": "Magnus Sheffield",
-                            "country_domain": "USA",
+                            "name": "Jhonatan Manuel Narvaez Prado",
+                            "name_en": "Jhonatan Manuel Narvaez Prado",
+                            "country_domain": "ECU",
                             "status": 0
                         },
                         "8": {
