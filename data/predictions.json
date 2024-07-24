@@ -38543,27 +38543,27 @@
                             "status": 0
                         },
                         "5": {
-                            "name": "ROSE Charlotte",
-                            "name_en": "ROSE Charlotte",
-                            "country_domain": "USA",
-                            "status": 0
-                        },
-                        "6": {
                             "name": "ERDI Maria",
                             "name_en": "ERDI Maria",
                             "country_domain": "HUN",
                             "status": 0
                         },
-                        "7": {
-                            "name": "KARACHALIOU Vasileia",
-                            "name_en": "KARACHALIOU Vasileia",
-                            "country_domain": "POR",
-                            "status": 0
-                        },
-                        "8": {
+                        "6": {
                             "name": "McMAHON Eve",
                             "name_en": "McMAHON Eve",
                             "country_domain": "IRL",
+                            "status": 0
+                        },
+                        "7": {
+                            "name": "CERVERA Louise",
+                            "name_en": "CERVERA Louise",
+                            "country_domain": "FRA",
+                            "status": 0
+                        },
+                        "8": {
+                            "name": "SNELLGROVE Hannah",
+                            "name_en": "SNELLGROVE Hannah",
+                            "country_domain": "GBR",
                             "status": 0
                         }
                     },
@@ -38672,15 +38672,15 @@
                             "status": 0
                         },
                         "7": {
-                            "name": "GAUTREY George",
-                            "name_en": "GAUTREY George",
-                            "country_domain": "NZL",
-                            "status": 0
-                        },
-                        "8": {
                             "name": "STIPANOVIC Tonci",
                             "name_en": "STIPANOVIC Tonci",
                             "country_domain": "CRO",
+                            "status": 0
+                        },
+                        "8": {
+                            "name": "LYNCH Finn",
+                            "name_en": "LYNCH Finn",
+                            "country_domain": "IRL",
                             "status": 0
                         }
                     },
@@ -38908,21 +38908,21 @@
                             "status": 0
                         },
                         "6": {
-                            "name": "YANG Minhai",
-                            "name_en": "YANG Minhai",
-                            "country_domain": "CHN",
+                            "name": "SOE Johan",
+                            "name_en": "SOE Johan",
+                            "country_domain": "DEN",
                             "status": 0
                         },
                         "7": {
-                            "name": "OMER Yoav",
-                            "name_en": "OMER Yoav",
+                            "name": "REUVENY Tom",
+                            "name_en": "REUVENY Tom",
                             "country_domain": "ISR",
                             "status": 0
                         },
                         "8": {
-                            "name": "SOE Johan",
-                            "name_en": "SOE Johan",
-                            "country_domain": "DEN",
+                            "name": "TARNOWSKI Pawel",
+                            "name_en": "TARNOWSKI Pawel",
+                            "country_domain": "POL",
                             "status": 0
                         }
                     },
@@ -39009,8 +39009,8 @@
                             "status": 0
                         },
                         "2": {
-                            "name": "Helene N\u00c6SS / Marie R\u00d8NNINGEN",
-                            "name_en": "Helene N\u00c6SS / Marie R\u00d8NNINGEN",
+                            "name": "Helene Næss / Marie RØNNINGEN",
+                            "name_en": "Helene Næss / Marie RØNNINGEN",
                             "country_domain": "NOR",
                             "status": 0
                         },
@@ -39039,8 +39039,8 @@
                             "status": 0
                         },
                         "7": {
-                            "name": "T\u00e1mara ECHEGOYEN / Paula BARCEL\u00d3",
-                            "name_en": "T\u00e1mara ECHEGOYEN / Paula BARCEL\u00d3",
+                            "name": "Támara ECHEGOYEN / Paula BARCELÓ",
+                            "name_en": "Támara ECHEGOYEN / Paula BARCELÓ",
                             "country_domain": "ESP",
                             "status": 0
                         },
@@ -39245,54 +39245,55 @@
                     "analysis_en": [],
                     "prediction": {
                         "1": {
-                            "name": "TITA Ruggero / BANTI Caterina",
-                            "name_en": "TITA Ruggero / BANTI Caterina",
-                            "country_domain": "ITA",
-                            "status": 0
+                          "name": "TITA Ruggero / BANTI Caterina",
+                          "name_en": "TITA Ruggero / BANTI Caterina",
+                          "country_domain": "ITA",
+                          "status": 0
                         },
                         "2": {
-                            "name": "John GIMSON / Anna BURNET",
-                            "name_en": "John GIMSON / Anna BURNET",
-                            "country_domain": "GBR",
-                            "status": 0
+                          "name": "John GIMSON / Anna BURNET",
+                          "name_en": "John GIMSON / Anna BURNET",
+                          "country_domain": "GBR",
+                          "status": 0
                         },
                         "3": {
-                            "name": "Ida SVENSSON / Marcus DACKHAMMAR",
-                            "name_en": "Ida SVENSSON / Marcus DACKHAMMAR",
-                            "country_domain": "SWE",
-                            "status": 0
+                          "name": "Laila van der MEER / Bjarne BOUWER",
+                          "name_en": "Laila van der MEER / Bjarne BOUWER",
+                          "country_domain": "NED",
+                          "status": 0
                         },
                         "4": {
-                            "name": "WILKINSON Micah / DAWSON Erica",
-                            "name_en": "WILKINSON Micah / DAWSON Erica",
-                            "country_domain": "NZL",
-                            "status": 0
+                          "name": "JARUDD Emil / JONSSON Hanna",
+                          "name_en": "JARUDD Emil / JONSSON Hanna",
+                          "country_domain": "SWE",
+                          "status": 0
                         },
                         "5": {
-                            "name": "MAJDALANI Mateo / BOSCO Eugenia",
-                            "name_en": "MAJDALANI Mateo / BOSCO Eugenia",
-                            "country_domain": "ARG",
-                            "status": 0
+                          "name": "WILKINSON Micah / DAWSON Erica",
+                          "name_en": "WILKINSON Micah / DAWSON Erica",
+                          "country_domain": "NZL",
+                          "status": 0
                         },
                         "6": {
-                            "name": "Laila van der MEER / Bjarne BOUWER",
-                            "name_en": "Laila van der MEER / Bjarne BOUWER",
-                            "country_domain": "NED",
-                            "status": 0
+                          "name": "MAJDALANI Mateo / BOSCO Eugenia",
+                          "name_en": "MAJDALANI Mateo / BOSCO Eugenia",
+                          "country_domain": "ARG",
+                          "status": 0
                         },
                         "7": {
-                            "name": "Sinem KURTBAY\n / Akseli KESKINEN",
-                            "name_en": "Sinem KURTBAY\n  Akseli KESKINEN",
-                            "country_domain": "FIN",
-                            "status": 0
+                          "name": "Sinem KURTBAY / Akseli KESKINEN",
+                          "name_en": "Sinem KURTBAY  Akseli KESKINEN",
+                          "country_domain": "FIN",
+                          "status": 0
                         },
                         "8": {
-                            "name": "Joao SIEMSEN\n / Marina ARNDT",
-                            "name_en": "Joao SIEMSEN\n / Marina ARNDT",
-                            "country_domain": "BRA",
-                            "status": 0
+                          "name": "KOHLHOFF Paul / STUHLEMMER Alica",
+                          "name_en": "KOHLHOFF Paul / STUHLEMMER Alica",
+                          "country_domain": "GER",
+                          "status": 0
+              
                         }
-                    },
+                      },
                     "result": {
                         "1": [
                             {
@@ -39370,54 +39371,54 @@
                     "analysis_en": [],
                     "prediction": {
                         "1": {
-                            "name": "Jordi XAMMAR HERNANDEZ / Nora BRUGMAN CABOT",
-                            "name_en": "Jordi XAMMAR HERNANDEZ / Nora BRUGMAN CABOT",
-                            "country_domain": "ESP",
-                            "status": 0
+                          "name": "Jordi XAMMAR HERNANDEZ / Nora BRUGMAN CABOT",
+                          "name_en": "Jordi XAMMAR HERNANDEZ / Nora BRUGMAN CABOT",
+                          "country_domain": "ESP",
+                          "status": 0
                         },
                         "2": {
-                            "name": "OKADA Keiju / YOSHIOKA Miho",
-                            "name_en": "OKADA Keiju / YOSHIOKA Miho",
-                            "country_domain": "JPN",
-                            "status": 0
+                          "name": "OKADA Keiju / YOSHIOKA Miho",
+                          "name_en": "OKADA Keiju / YOSHIOKA Miho",
+                          "country_domain": "JPN",
+                          "status": 0
                         },
                         "3": {
-                            "name": "Lara VADLAU / Lukas MAEHR",
-                            "name_en": "Lara VADLAU / Lukas MAEHR",
-                            "country_domain": "AUT",
-                            "status": 0
+                          "name": "Lara VADLAU / Lukas MAEHR",
+                          "name_en": "Lara VADLAU / Lukas MAEHR",
+                          "country_domain": "AUT",
+                          "status": 0
                         },
                         "4": {
-                            "name": "Anton DAHLBERG / Lovisa KARLSSON",
-                            "name_en": "Anton DAHLBERG / Lovisa KARLSSON",
-                            "country_domain": "SWE",
-                            "status": 0
+                          "name": "DIESCH Simon / MARKFORT Anna",
+                          "name_en": "DIESCH Simon / MARKFORT Anna",
+                          "country_domain": "GER",
+                          "status": 0
                         },
                         "5": {
-                            "name": "DIESCH Simon / MARKFORT Anna",
-                            "name_en": "DIESCH Simon / MARKFORT Anna",
-                            "country_domain": "GER",
-                            "status": 0
+                          "name": "Camille LECOINTRE / Jeremie MION",
+                          "name_en": "Camille LECOINTRE / Jeremie MION",
+                          "country_domain": "FRA",
+                          "status": 0
                         },
                         "6": {
-                            "name": "Camille LECOINTRE / Jeremie MION",
-                            "name_en": "Camille LECOINTRE / Jeremie MION",
-                            "country_domain": "FRA",
-                            "status": 0
+                          "name": "HASSON Nitai / LASRY Noa",
+                          "name_en": "HASSON Nitai / LASRY Noa",
+                          "country_domain": "ISR",
+                          "status": 0
                         },
                         "7": {
-                            "name": "HASSON Nitai / LASRY Noa",
-                            "name_en": "HASSON Nitai / LASRY Noa",
-                            "country_domain": "ISR",
-                            "status": 0
+                          "name": "Giacomo  FERRARI / Bianca CARUSO",
+                          "name_en": "Giacomo  FERRARI / Bianca CARUSO",
+                          "country_domain": "ITA",
+                          "status": 0
                         },
                         "8": {
-                            "name": "Giacomo FERRARI / Bianca CARUSO",
-                            "name_en": "Giacomo FERRARI / Bianca CARUSO",
-                            "country_domain": "ITA",
-                            "status": 0
+                          "name": "Vita HEATHCOTE / Ryan ORR",
+                          "name_en": "Vita HEATHCOTE / Ryan ORR",
+                          "country_domain": "GBR",
+                          "status": 0
                         }
-                    },
+                      },
                     "result": {
                         "1": [
                             {
@@ -39495,54 +39496,54 @@
                     "analysis_en": [],
                     "prediction": {
                         "1": {
-                            "name": "NOLOT Lauriane",
-                            "name_en": "NOLOT Lauriane",
-                            "country_domain": "FRA",
-                            "status": 0
+                          "name": "NOLOT Lauriane",
+                          "name_en": "NOLOT Lauriane",
+                          "country_domain": "FRA",
+                          "status": 0
                         },
                         "2": {
-                            "name": "ALDRIDGE Eleanor",
-                            "name_en": "ALDRIDGE Eleanor",
-                            "country_domain": "GBR",
-                            "status": 0
+                          "name": "ALDRIDGE Eleanor",
+                          "name_en": "ALDRIDGE Eleanor",
+                          "country_domain": "GBR",
+                          "status": 0
                         },
                         "3": {
-                            "name": "MOROZ Daniela",
-                            "name_en": "MOROZ Daniela",
-                            "country_domain": "USA",
-                            "status": 0
+                          "name": "MOROZ Daniela",
+                          "name_en": "MOROZ Daniela",
+                          "country_domain": "USA",
+                          "status": 0
                         },
                         "4": {
-                            "name": "WHITEHEAD Breiana",
-                            "name_en": "WHITEHEAD Breiana",
-                            "country_domain": "AUS",
-                            "status": 0
+                          "name": "WHITEHEAD Breiana",
+                          "name_en": "WHITEHEAD Breiana",
+                          "country_domain": "AUS",
+                          "status": 0
                         },
                         "5": {
-                            "name": "LENGWILER Elena",
-                            "name_en": "LENGWILER Elena",
-                            "country_domain": "SUI",
-                            "status": 0
+                          "name": "LENGWILER Elena",
+                          "name_en": "LENGWILER Elena",
+                          "country_domain": "SUI",
+                          "status": 0
                         },
                         "6": {
-                            "name": "Maggie Pescetto",
-                            "name_en": "Maggie Pescetto",
-                            "country_domain": "ITA",
-                            "status": 0
+                          "name": "Maggie Pescetto",
+                          "name_en": "Maggie Pescetto",
+                          "country_domain": "ITA",
+                          "status": 0
                         },
                         "7": {
-                            "name": "LAMMERTS Annelous",
-                            "name_en": "LAMMERTS Annelous",
-                            "country_domain": "NED",
-                            "status": 0
+                          "name": "LAMMERTS Annelous",
+                          "name_en": "LAMMERTS Annelous",
+                          "country_domain": "NED",
+                          "status": 0
                         },
                         "8": {
-                            "name": "ZUKERMAN Gal",
-                            "name_en": "ZUKERMAN Gal",
-                            "country_domain": "ISR",
-                            "status": 0
+                          "name": "ZUKERMAN Gal",
+                          "name_en": "ZUKERMAN Gal",
+                          "country_domain": "ISR",
+                          "status": 0
                         }
-                    },
+                      },
                     "result": {
                         "1": [
                             {
