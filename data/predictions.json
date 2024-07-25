@@ -268,7 +268,7 @@
     "events": {
         "atl_100m": {
             "name": "100 m",
-            "name_en": "100 ms",
+            "name_en": "100 m",
             "type": "single",
             "sport": "atl",
             "sex": {
@@ -276,10 +276,6 @@
                     "date": "2024/08/03",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Sha'Carri Richardson",
@@ -393,10 +389,6 @@
                     "date": "2024/08/04",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Kishane Thompson",
@@ -510,7 +502,7 @@
         },
         "atl_200m": {
             "name": "200 m",
-            "name_en": "200 ms",
+            "name_en": "200 m",
             "type": "single",
             "sport": "atl",
             "sex": {
@@ -518,10 +510,6 @@
                     "date": "2024/08/08",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Shericka Jackson",
@@ -635,10 +623,6 @@
                     "date": "2024/08/06",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Noah Lyles",
@@ -752,7 +736,7 @@
         },
         "atl_400m": {
             "name": "400 m",
-            "name_en": "400 ms",
+            "name_en": "400 m",
             "type": "single",
             "sport": "atl",
             "sex": {
@@ -760,10 +744,6 @@
                     "date": "2024/08/09",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Marileidy Paulino",
@@ -877,10 +857,6 @@
                     "date": "2024/08/07",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Michael Norman",
@@ -994,7 +970,7 @@
         },
         "atl_800m": {
             "name": "800 m",
-            "name_en": "800 ms",
+            "name_en": "800 m",
             "type": "single",
             "sport": "atl",
             "sex": {
@@ -1002,10 +978,6 @@
                     "date": "2024/08/05",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Keely Hodgkinson",
@@ -1119,10 +1091,6 @@
                     "date": "2024/08/10",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Gabriel Tual",
@@ -1236,7 +1204,7 @@
         },
         "atl_1500m": {
             "name": "1500 m",
-            "name_en": "1500 ms",
+            "name_en": "1500 m",
             "type": "single",
             "sport": "atl",
             "sex": {
@@ -1244,10 +1212,6 @@
                     "date": "2024/08/10",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Faith Kipyegon",
@@ -1361,10 +1325,6 @@
                     "date": "2024/08/06",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Jakob Ingebrigtsen",
@@ -1478,7 +1438,7 @@
         },
         "atl_5000m": {
             "name": "5000 m",
-            "name_en": "5000 ms",
+            "name_en": "5000 m",
             "type": "single",
             "sport": "atl",
             "sex": {
@@ -1486,10 +1446,6 @@
                     "date": "2024/08/06",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Beatrice Chebet",
@@ -1603,10 +1559,6 @@
                     "date": "2024/08/10",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Jacob Kiplimo",
@@ -1720,7 +1672,7 @@
         },
         "atl_10000m": {
             "name": "10000 m",
-            "name_en": "10000 ms",
+            "name_en": "10000 m",
             "type": "single",
             "sport": "atl",
             "sex": {
@@ -1728,10 +1680,6 @@
                     "date": "2024/08/09",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Beatrice Chebet",
@@ -1845,10 +1793,6 @@
                     "date": "2024/08/02",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Yomif Kejelcha",
@@ -1970,10 +1914,6 @@
                     "date": "2024/08/08",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Grant Holloway",
@@ -2095,10 +2035,6 @@
                     "date": "2024/08/10",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Jasmine Camacho-Quinn",
@@ -2220,10 +2156,6 @@
                     "date": "2024/08/08",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Sydney McLaughlin-Levrone",
@@ -2337,10 +2269,6 @@
                     "date": "2024/08/09",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Karsten Warholm",
@@ -2462,10 +2390,6 @@
                     "date": "2024/08/08",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Winfred Mutile Yavi",
@@ -2579,10 +2503,6 @@
                     "date": "2024/08/07",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Abraham Kibiwot",
@@ -2704,10 +2624,6 @@
                     "date": "2024/08/11",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Tigst Assefa",
@@ -2821,10 +2737,6 @@
                     "date": "2024/08/10",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Benson Kipruto",
@@ -2938,7 +2850,7 @@
         },
         "atl_20km": {
             "name": "20 km Marcha",
-            "name_en": "20 k Race Walk",
+            "name_en": "20 km Race Walk",
             "type": "single",
             "sport": "atl",
             "sex": {
@@ -2946,10 +2858,6 @@
                     "date": "2024/08/01",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "María Pérez",
@@ -3063,10 +2971,6 @@
                     "date": "2024/08/01",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Koki Ikeda",
@@ -3188,10 +3092,6 @@
                     "date": "2024/08/04",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Yaroslava Mahuchikh",
@@ -3305,10 +3205,6 @@
                     "date": "2024/08/10",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Mutaz Essa Barshim",
@@ -3430,10 +3326,6 @@
                     "date": "2024/08/07",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Molly Caudery",
@@ -3547,10 +3439,6 @@
                     "date": "2024/08/05",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Armand Duplantis",
@@ -3672,10 +3560,6 @@
                     "date": "2024/08/08",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Tara Davis-Woodhall",
@@ -3789,10 +3673,6 @@
                     "date": "2024/08/06",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Miltiadis Tentoglou",
@@ -3914,10 +3794,6 @@
                     "date": "2024/08/03",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Leyanis Pérez Hernández",
@@ -4031,10 +3907,6 @@
                     "date": "2024/08/09",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Jordan Alejandro Díaz Fortún",
@@ -4156,10 +4028,6 @@
                     "date": "2024/08/09",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Chase Jackson",
@@ -4273,10 +4141,6 @@
                     "date": "2024/08/03",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Ryan Crouser",
@@ -4398,10 +4262,6 @@
                     "date": "2024/08/04",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Valarie Allman",
@@ -4515,10 +4375,6 @@
                     "date": "2024/08/07",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Mykolas Alekna",
@@ -4640,10 +4496,6 @@
                     "date": "2024/08/06",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Camryn Rogers",
@@ -4757,10 +4609,6 @@
                     "date": "2024/08/04",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Ethan Katzberg",
@@ -4882,10 +4730,6 @@
                     "date": "2024/08/10",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Haruka Kitaguchi",
@@ -4999,10 +4843,6 @@
                     "date": "2024/08/08",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Neeraj Chopra",
@@ -5124,10 +4964,6 @@
                     "date": "2024/08/03",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Pierce Lepage",
@@ -5249,10 +5085,6 @@
                     "date": "2024/08/09",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Nafissatou Thiam",
@@ -5374,10 +5206,6 @@
                     "date": "2024/08/09",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Estados Unidos",
@@ -5491,10 +5319,6 @@
                     "date": "2024/08/09",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Estados Unidos",
@@ -5616,10 +5440,6 @@
                     "date": "2024/08/10",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Estados Unidos",
@@ -5733,10 +5553,6 @@
                     "date": "2024/08/10",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Estados Unidos",
@@ -5850,10 +5666,6 @@
                     "date": "2024/08/03",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Estados Unidos",
@@ -5975,10 +5787,6 @@
                     "date": "2024/08/07",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "España",
@@ -6098,12 +5906,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/05",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Tai Tzu-ying",
@@ -6215,12 +6018,7 @@
                 },
                 "male": {
                     "date": "2024/08/05",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Shi Yuqi",
@@ -6340,12 +6138,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/04",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Chen Qingchen - Jia Yifan",
@@ -6457,12 +6250,7 @@
                 },
                 "male": {
                     "date": "2024/08/03",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Kim Astrup - Anders Skaarup Rasmussen",
@@ -6574,12 +6362,7 @@
                 },
                 "mixed": {
                     "date": "2024/08/02",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Zheng Siwei - Huang Yaqiong",
@@ -6701,10 +6484,6 @@
                     "date": "2024/08/08",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Estados Unidos",
@@ -6818,10 +6597,6 @@
                     "date": "2024/08/10",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Estados Unidos",
@@ -6943,10 +6718,6 @@
                     "date": "2024/08/05",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Estados Unidos",
@@ -7058,12 +6829,7 @@
                 },
                 "male": {
                     "date": "2024/08/05",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Serbia",
@@ -7185,10 +6951,6 @@
                     "date": "2024/08/10",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Francia",
@@ -7302,10 +7064,6 @@
                     "date": "2024/08/11",
                     "date_pred": "2024/07/15",
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Francia",
@@ -7425,12 +7183,7 @@
             "sex": {
                 "male": {
                     "date": "2024/08/08",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Hasanboy Dusmatov",
@@ -7550,12 +7303,7 @@
             "sex": {
                 "male": {
                     "date": "2024/08/07",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Sofiane Oumiha",
@@ -7675,12 +7423,7 @@
             "sex": {
                 "male": {
                     "date": "2024/08/09",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Sewon Okazawa",
@@ -7800,12 +7543,7 @@
             "sex": {
                 "male": {
                     "date": "2024/08/07",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Oleksandr Khyzhniak",
@@ -7925,12 +7663,7 @@
             "sex": {
                 "male": {
                     "date": "2024/08/09",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Julio César La Cruz",
@@ -8050,12 +7783,7 @@
             "sex": {
                 "male": {
                     "date": "2024/08/10",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Bakhodir Jalolov",
@@ -8175,12 +7903,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/09",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Ingrit Valencia",
@@ -8300,12 +8023,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/08",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Tatiana Chagas",
@@ -8425,12 +8143,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/10",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Nesthy Petecio",
@@ -8542,12 +8255,7 @@
                 },
                 "male": {
                     "date": "2024/08/10",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Abdumalik Khalokov",
@@ -8667,12 +8375,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/06",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Beatriz Ferreira",
@@ -8792,12 +8495,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/09",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Busenaz Sürmeneli",
@@ -8917,12 +8615,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/10",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Li Qian",
@@ -9042,12 +8735,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/09",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "B-Girl Ami",
@@ -9167,12 +8855,7 @@
             "sex": {
                 "male": {
                     "date": "2024/08/10",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "B-Boy Phil Wizard",
@@ -9292,12 +8975,7 @@
             "sex": {
                 "female": {
                     "date": "2024/07/31",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Hannah Roberts",
@@ -9409,12 +9087,7 @@
                 },
                 "male": {
                     "date": "2024/07/31",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Logan Martin",
@@ -9534,12 +9207,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/02",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Saya Sakakibara",
@@ -9651,12 +9319,7 @@
                 },
                 "male": {
                     "date": "2024/08/02",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Carlos Alberto Ramirez Yepes",
@@ -9776,12 +9439,7 @@
             "sex": {
                 "female": {
                     "date": "2024/07/28",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Loana Lecomte",
@@ -9893,12 +9551,7 @@
                 },
                 "male": {
                     "date": "2024/07/29",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Thomas Pidcock",
@@ -10018,12 +9671,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/11",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Lea Sophie Friedrich",
@@ -10135,12 +9783,7 @@
                 },
                 "male": {
                     "date": "2024/08/09",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Harrie Lavreysen",
@@ -10260,12 +9903,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/05",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Alemania",
@@ -10377,12 +10015,7 @@
                 },
                 "male": {
                     "date": "2024/08/07",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Países Bajos",
@@ -10502,12 +10135,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/08",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Ellesse Andrews",
@@ -10619,12 +10247,7 @@
                 },
                 "male": {
                     "date": "2024/08/11",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Harrie Lavreysen",
@@ -10744,12 +10367,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/07",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Gran Bretaña",
@@ -10861,12 +10479,7 @@
                 },
                 "male": {
                     "date": "2024/08/07",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Italia",
@@ -10986,12 +10599,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/11",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Jennifer Valente",
@@ -11103,12 +10711,7 @@
                 },
                 "male": {
                     "date": "2024/08/08",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Ethan Edward Hayter",
@@ -11228,12 +10831,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/09",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Francia",
@@ -11345,12 +10943,7 @@
                 },
                 "male": {
                     "date": "2024/08/10",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Gran Bretaña",
@@ -11470,12 +11063,7 @@
             "sex": {
                 "female": {
                     "date": "2024/07/27",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Grace Brown",
@@ -11587,12 +11175,7 @@
                 },
                 "male": {
                     "date": "2024/07/27",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Joshua Tarling",
@@ -11712,12 +11295,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/04",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Demi Vollering",
@@ -11829,12 +11407,7 @@
                 },
                 "male": {
                     "date": "2024/08/03",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Wout Van Aert",
@@ -11954,12 +11527,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/10",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "janja garnbret",
@@ -12071,12 +11639,7 @@
                 },
                 "male": {
                     "date": "2024/08/09",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "tomoa narasaki",
@@ -12196,12 +11759,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/07",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "aleksandra miroslaw",
@@ -12313,12 +11871,7 @@
                 },
                 "male": {
                     "date": "2024/08/08",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "peng wu",
@@ -12438,12 +11991,7 @@
             "sex": {
                 "female": {
                     "date": "2024/07/27",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "CHOI Injeong",
@@ -12555,12 +12103,7 @@
                 },
                 "male": {
                     "date": "2024/07/28",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "BOREL Yannick",
@@ -12680,12 +12223,7 @@
             "sex": {
                 "female": {
                     "date": "2024/07/30",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Italia",
@@ -12797,12 +12335,7 @@
                 },
                 "male": {
                     "date": "2024/08/02",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Italia",
@@ -12922,12 +12455,7 @@
             "sex": {
                 "female": {
                     "date": "2024/07/28",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "KIEFER Lee",
@@ -13039,12 +12567,7 @@
                 },
                 "male": {
                     "date": "2024/07/29",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "MARINI Tommaso",
@@ -13164,12 +12687,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/01",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Estados Unidos ",
@@ -13281,12 +12799,7 @@
                 },
                 "male": {
                     "date": "2024/08/04",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Italia",
@@ -13406,12 +12919,7 @@
             "sex": {
                 "female": {
                     "date": "2024/07/29",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "KHARLAN Olga",
@@ -13523,12 +13031,7 @@
                 },
                 "male": {
                     "date": "2024/07/27",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "OH Sanguk",
@@ -13648,12 +13151,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/03",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Corea del Sur",
@@ -13765,12 +13263,7 @@
                 },
                 "male": {
                     "date": "2024/07/31",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Francia",
@@ -13890,12 +13383,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/10",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "España",
@@ -14007,12 +13495,7 @@
                 },
                 "male": {
                     "date": "2024/08/09",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Francia",
@@ -14132,12 +13615,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/05",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "ZHOU Yaqin",
@@ -14257,12 +13735,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/03",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "NEMOUR Kaylia",
@@ -14382,12 +13855,7 @@
             "sex": {
                 "male": {
                     "date": "2024/08/05",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "MALONE Brody",
@@ -14507,12 +13975,7 @@
             "sex": {
                 "male": {
                     "date": "2024/08/05",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "ZOU Jingyuan",
@@ -14632,12 +14095,7 @@
             "sex": {
                 "male": {
                     "date": "2024/08/04",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "PETROUNIAS Eleftherios",
@@ -14757,12 +14215,7 @@
             "sex": {
                 "male": {
                     "date": "2024/08/03",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "WHITLOCK Max",
@@ -14882,12 +14335,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/03",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "BILES Simone",
@@ -14999,12 +14447,7 @@
                 },
                 "male": {
                     "date": "2024/08/04",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "RADIVILOV Igor",
@@ -15124,12 +14567,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/04",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "BILES Simone",
@@ -15241,12 +14679,7 @@
                 },
                 "male": {
                     "date": "2024/08/03",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "WHITLOCK Max",
@@ -15366,12 +14799,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/01",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "BILES Simone",
@@ -15483,12 +14911,7 @@
                 },
                 "male": {
                     "date": "2024/08/05",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "WHITLOCK Max",
@@ -15608,12 +15031,7 @@
             "sex": {
                 "female": {
                     "date": "2024/07/30",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Estados Unidos",
@@ -15725,12 +15143,7 @@
                 },
                 "male": {
                     "date": "2024/07/29",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "China",
@@ -15850,12 +15263,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/02",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "ZHU Xueying ",
@@ -15967,12 +15375,7 @@
                 },
                 "male": {
                     "date": "2024/08/02",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "LITVINOVICH Ivan",
@@ -16092,12 +15495,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/09",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "NIKOLOVA Stiliana",
@@ -16217,12 +15615,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/10",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Italia",
@@ -16342,12 +15735,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/10",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Nelly Korda",
@@ -16459,12 +15847,7 @@
                 },
                 "male": {
                     "date": "2024/08/04",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Rory McIlroy",
@@ -16584,12 +15967,7 @@
             "sex": {
                 "male": {
                     "date": "2024/08/07",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Li Fabin",
@@ -16709,12 +16087,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/07",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Nina Sterckx",
@@ -16834,12 +16207,7 @@
             "sex": {
                 "male": {
                     "date": "2024/08/08",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Rizki Juniansyah",
@@ -16959,12 +16327,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/08",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Luo Shifang",
@@ -17084,12 +16447,7 @@
             "sex": {
                 "male": {
                     "date": "2024/08/09",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Karlos May Nasar",
@@ -17209,12 +16567,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/09",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Olivia Reeves",
@@ -17334,12 +16687,7 @@
             "sex": {
                 "male": {
                     "date": "2024/08/10",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Akbar Djuraev",
@@ -17459,12 +16807,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/10",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Solfrid Koanda",
@@ -17584,12 +16927,7 @@
             "sex": {
                 "male": {
                     "date": "2024/08/10",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Lasha Talakhadze",
@@ -17709,12 +17047,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/11",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Li Wenwen",
@@ -17834,12 +17167,7 @@
             "sex": {
                 "mixed": {
                     "date": "2024/08/04",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "DUJARDIN, Charlotte",
@@ -17959,12 +17287,7 @@
             "sex": {
                 "mixed": {
                     "date": "2024/08/03",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Alemania",
@@ -18084,12 +17407,7 @@
             "sex": {
                 "mixed": {
                     "date": "2024/08/06",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "PERREAU, Olivier",
@@ -18209,12 +17527,7 @@
             "sex": {
                 "mixed": {
                     "date": "2024/08/02",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Suecia",
@@ -18334,12 +17647,7 @@
             "sex": {
                 "mixed": {
                     "date": "2024/07/29",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "JOHNER, Mélody",
@@ -18459,12 +17767,7 @@
             "sex": {
                 "mixed": {
                     "date": "2024/07/29",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Gran Bretaña",
@@ -18584,12 +17887,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/09",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Países Bajos",
@@ -18701,12 +17999,7 @@
                 },
                 "male": {
                     "date": "2024/08/08",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Alemania",
@@ -18826,12 +18119,7 @@
             "sex": {
                 "female": {
                     "date": "2024/07/27",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "TSUNODA Natsumi",
@@ -18951,12 +18239,7 @@
             "sex": {
                 "male": {
                     "date": "2024/07/27",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "NAGAYAMA Ryuju",
@@ -19076,12 +18359,7 @@
             "sex": {
                 "female": {
                     "date": "2024/07/28",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "ABE Uta",
@@ -19201,12 +18479,7 @@
             "sex": {
                 "male": {
                     "date": "2024/07/28",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "ABE Hifumi",
@@ -19326,12 +18599,7 @@
             "sex": {
                 "female": {
                     "date": "2024/07/29",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "DEGUCHI Christa",
@@ -19451,12 +18719,7 @@
             "sex": {
                 "male": {
                     "date": "2024/07/29",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "HASHIMOTO Soichi",
@@ -19576,12 +18839,7 @@
             "sex": {
                 "female": {
                     "date": "2024/07/30",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "TAKAICHI Miku",
@@ -19701,12 +18959,7 @@
             "sex": {
                 "male": {
                     "date": "2024/07/30",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "NAGASE Takanori",
@@ -19826,12 +19079,7 @@
             "sex": {
                 "female": {
                     "date": "2024/07/31",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "NIIZOE Saki",
@@ -19951,12 +19199,7 @@
             "sex": {
                 "male": {
                     "date": "2024/07/31",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "BEKAURI Lasha",
@@ -20076,12 +19319,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/01",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "BELLANDI Alice",
@@ -20201,12 +19439,7 @@
             "sex": {
                 "male": {
                     "date": "2024/08/01",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "SULAMANIDZE Ilia",
@@ -20326,12 +19559,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/02",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "DICKO Romane",
@@ -20451,12 +19679,7 @@
             "sex": {
                 "male": {
                     "date": "2024/08/02",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "RINER Teddy",
@@ -20576,12 +19799,7 @@
             "sex": {
                 "mixed": {
                     "date": "2024/08/03",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Japón",
@@ -20701,12 +19919,7 @@
             "sex": {
                 "male": {
                     "date": "2024/08/06",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Zholaman SHARSHENBEKOV",
@@ -20826,12 +20039,7 @@
             "sex": {
                 "male": {
                     "date": "2024/08/08",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Luis Alberto ORTA SANCHEZ",
@@ -20951,12 +20159,7 @@
             "sex": {
                 "male": {
                     "date": "2024/08/07",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Akzhol MAKHMUDOV ",
@@ -21076,12 +20279,7 @@
             "sex": {
                 "male": {
                     "date": "2024/08/08",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Semen Sergeevich NOVIKOV",
@@ -21201,12 +20399,7 @@
             "sex": {
                 "male": {
                     "date": "2024/08/07",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Gabriel Alejandro ROSILLO KINDELAN",
@@ -21326,12 +20519,7 @@
             "sex": {
                 "male": {
                     "date": "2024/08/06",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Mijain LOPEZ NUNEZ",
@@ -21451,12 +20639,7 @@
             "sex": {
                 "male": {
                     "date": "2024/08/09",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Zavur UGUEV",
@@ -21576,12 +20759,7 @@
             "sex": {
                 "male": {
                     "date": "2024/08/11",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Vazgen TEVANYAN",
@@ -21701,12 +20879,7 @@
             "sex": {
                 "male": {
                     "date": "2024/08/10",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Kyle DAKE",
@@ -21826,12 +20999,7 @@
             "sex": {
                 "male": {
                     "date": "2024/08/09",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "David TAYLOR",
@@ -21951,12 +21119,7 @@
             "sex": {
                 "male": {
                     "date": "2024/08/11",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Akhmed Magomed O TAZHUDINOV",
@@ -22076,12 +21239,7 @@
             "sex": {
                 "male": {
                     "date": "2024/08/10",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Mason Mark PARRIS",
@@ -22201,12 +21359,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/07",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Yui SUSAKI",
@@ -22326,12 +21479,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/08",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Akari FUJINAMI",
@@ -22451,12 +21599,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/09",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Tsugumi SAKURAI",
@@ -22576,12 +21719,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/10",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Sakura MOTOKI",
@@ -22701,12 +21839,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/06",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Koumba Selene Fanta LARROQUE",
@@ -22826,12 +21959,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/11",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Yasemin ADAR YIGIT",
@@ -22951,12 +22079,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/04",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Sarah Sjöström",
@@ -23068,12 +22191,7 @@
                 },
                 "male": {
                     "date": "2024/08/02",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Cameron McEvoy",
@@ -23193,12 +22311,7 @@
             "sex": {
                 "female": {
                     "date": "2024/07/31",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Mollie O'Callaghan",
@@ -23310,12 +22423,7 @@
                 },
                 "male": {
                     "date": "2024/07/31",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Pan Zhanle",
@@ -23435,12 +22543,7 @@
             "sex": {
                 "female": {
                     "date": "2024/07/29",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Mollie O'Callaghan",
@@ -23552,12 +22655,7 @@
                 },
                 "male": {
                     "date": "2024/07/29",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "David Popovici",
@@ -23677,12 +22775,7 @@
             "sex": {
                 "female": {
                     "date": "2024/07/27",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Summer McIntosh",
@@ -23794,12 +22887,7 @@
                 },
                 "male": {
                     "date": "2024/07/27",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Lukas Märtens",
@@ -23919,12 +23007,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/03",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Katie Ledecky",
@@ -24036,12 +23119,7 @@
                 },
                 "male": {
                     "date": "2024/07/30",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Robert Finke",
@@ -24161,12 +23239,7 @@
             "sex": {
                 "female": {
                     "date": "2024/07/31",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Katie Ledecky",
@@ -24278,12 +23351,7 @@
                 },
                 "male": {
                     "date": "2024/08/04",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Florian Wellbrock",
@@ -24403,12 +23471,7 @@
             "sex": {
                 "female": {
                     "date": "2024/07/30",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Regan Smith",
@@ -24520,12 +23583,7 @@
                 },
                 "male": {
                     "date": "2024/07/29",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Xu Jiayu",
@@ -24645,12 +23703,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/02",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Regan Smith",
@@ -24762,12 +23815,7 @@
                 },
                 "male": {
                     "date": "2024/08/01",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Ryan Murphy",
@@ -24887,12 +23935,7 @@
             "sex": {
                 "female": {
                     "date": "2024/07/29",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Tang Qianting",
@@ -25004,12 +24047,7 @@
                 },
                 "male": {
                     "date": "2024/07/28",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Qin Haiyang",
@@ -25129,12 +24167,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/01",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Kate Douglass",
@@ -25246,12 +24279,7 @@
                 },
                 "male": {
                     "date": "2024/07/31",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Zac Stubblety-Cook",
@@ -25371,12 +24399,7 @@
             "sex": {
                 "female": {
                     "date": "2024/07/28",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Torri Huske",
@@ -25488,12 +24511,7 @@
                 },
                 "male": {
                     "date": "2024/08/03",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Joshua Liendo",
@@ -25613,12 +24631,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/01",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Summer McIntosh",
@@ -25730,12 +24743,7 @@
                 },
                 "male": {
                     "date": "2024/07/31",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Tomoru Honda",
@@ -25855,12 +24863,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/03",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Kate Douglass",
@@ -25972,12 +24975,7 @@
                 },
                 "male": {
                     "date": "2024/08/02",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Léon Marchand",
@@ -26097,12 +25095,7 @@
             "sex": {
                 "female": {
                     "date": "2024/07/29",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Summer McIntosh",
@@ -26214,12 +25207,7 @@
                 },
                 "male": {
                     "date": "2024/07/28",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Léon Marchand",
@@ -26339,12 +25327,7 @@
             "sex": {
                 "female": {
                     "date": "2024/07/27",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Australia",
@@ -26456,12 +25439,7 @@
                 },
                 "male": {
                     "date": "2024/07/27",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Estados Unidos",
@@ -26581,12 +25559,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/01",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Australia",
@@ -26698,12 +25671,7 @@
                 },
                 "male": {
                     "date": "2024/07/30",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Reino Unido",
@@ -26823,12 +25791,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/04",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Estados Unidos",
@@ -26940,12 +25903,7 @@
                 },
                 "male": {
                     "date": "2024/08/04",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "China",
@@ -27057,12 +26015,7 @@
                 },
                 "mixed": {
                     "date": "2024/08/03",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Estados Unidos",
@@ -27182,12 +26135,7 @@
             "sex": {
                 "mixed": {
                     "date": "2024/08/07",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "China",
@@ -27307,12 +26255,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/10",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Liuyi WANG y Qianyi WANG",
@@ -27432,12 +26375,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/08",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Leonie Beck",
@@ -27549,12 +26487,7 @@
                 },
                 "male": {
                     "date": "2024/08/09",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "David Betlehem",
@@ -27674,12 +26607,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/11",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "sotero alice",
@@ -27791,12 +26719,7 @@
                 },
                 "male": {
                     "date": "2024/08/10",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "shaban mohanad",
@@ -27916,12 +26839,7 @@
             "sex": {
                 "female": {
                     "date": "2024/07/31",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Jessica Fox",
@@ -28033,12 +26951,7 @@
                 },
                 "male": {
                     "date": "2024/07/29",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Benjamin Savsek",
@@ -28158,12 +27071,7 @@
             "sex": {
                 "female": {
                     "date": "2024/07/28",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Fox Jessica",
@@ -28275,12 +27183,7 @@
                 },
                 "male": {
                     "date": "2024/08/01",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Jiri Prskavec",
@@ -28400,12 +27303,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/05",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Noemie Fox",
@@ -28517,12 +27415,7 @@
                 },
                 "male": {
                     "date": "2024/08/05",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Joe Clarke",
@@ -28642,12 +27535,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/08",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "China",
@@ -28759,12 +27647,7 @@
                 },
                 "male": {
                     "date": "2024/08/08",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Alemania",
@@ -28884,12 +27767,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/09",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Yarisleidi Cirilos",
@@ -29009,12 +27887,7 @@
             "sex": {
                 "male": {
                     "date": "2024/08/10",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Catalin Chirila",
@@ -29134,12 +28007,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/08",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Polonia",
@@ -29251,12 +28119,7 @@
                 },
                 "male": {
                     "date": "2024/08/08",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Portugal",
@@ -29376,12 +28239,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/09",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Dinamarca",
@@ -29493,12 +28351,7 @@
                 },
                 "male": {
                     "date": "2024/08/09",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Portugal",
@@ -29618,12 +28471,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/10",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Lisa Carrington",
@@ -29743,12 +28591,7 @@
             "sex": {
                 "male": {
                     "date": "2024/08/10",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Fernando Pimenta",
@@ -29868,12 +28711,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/03",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Emma Twigg",
@@ -29985,12 +28823,7 @@
                 },
                 "male": {
                     "date": "2024/08/03",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Oliver Zeidler",
@@ -30110,12 +28943,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/01",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Rumanía",
@@ -30227,12 +29055,7 @@
                 },
                 "male": {
                     "date": "2024/08/01",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Países Bajos",
@@ -30352,12 +29175,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/02",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Reino Unido",
@@ -30469,12 +29287,7 @@
                 },
                 "male": {
                     "date": "2024/08/02",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Suiza",
@@ -30594,12 +29407,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/02",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Países Bajos",
@@ -30711,12 +29519,7 @@
                 },
                 "male": {
                     "date": "2024/08/02",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Reino Unido",
@@ -30836,12 +29639,7 @@
             "sex": {
                 "female": {
                     "date": "2024/07/31",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Reino Unido",
@@ -30953,12 +29751,7 @@
                 },
                 "male": {
                     "date": "2024/07/31",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Países Bajos",
@@ -31078,12 +29871,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/01",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Nueva Zelanda",
@@ -31195,12 +29983,7 @@
                 },
                 "male": {
                     "date": "2024/08/01",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Reino Unido",
@@ -31320,12 +30103,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/03",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Rumanía",
@@ -31437,12 +30215,7 @@
                 },
                 "male": {
                     "date": "2024/08/03",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Reino Unido",
@@ -31562,12 +30335,7 @@
             "sex": {
                 "female": {
                     "date": "2024/07/30",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Australia",
@@ -31679,12 +30447,7 @@
                 },
                 "male": {
                     "date": "2024/07/27",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Fiji",
@@ -31804,12 +30567,7 @@
             "sex": {
                 "female": {
                     "date": "2024/07/27",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Yiping LONG y Yajie SI",
@@ -31921,12 +30679,7 @@
                 },
                 "male": {
                     "date": "2024/08/02",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Zongyuan WANG y Daoyi LONG",
@@ -32046,12 +30799,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/09",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Yiwen CHEN",
@@ -32163,12 +30911,7 @@
                 },
                 "male": {
                     "date": "2024/08/08",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Zongyuan WANG",
@@ -32288,12 +31031,7 @@
             "sex": {
                 "female": {
                     "date": "2024/07/31",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Hongchan QUAN y Yuxi CHEN",
@@ -32405,12 +31143,7 @@
                 },
                 "male": {
                     "date": "2024/07/29",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Hao YANG y Junjie LIAN",
@@ -32530,12 +31263,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/06",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Yuxi CHEN",
@@ -32647,12 +31375,7 @@
                 },
                 "male": {
                     "date": "2024/08/06",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Yuxi CHEN",
@@ -32772,12 +31495,7 @@
             "sex": {
                 "female": {
                     "date": "2024/07/28",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Coco Yoshizawa",
@@ -32889,12 +31607,7 @@
                 },
                 "male": {
                     "date": "2024/07/27",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Ginwoo Onodera",
@@ -33014,12 +31727,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/06",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Sky Brown",
@@ -33131,12 +31839,7 @@
                 },
                 "male": {
                     "date": "2024/08/07",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Keegan Palmer",
@@ -33256,12 +31959,7 @@
             "sex": {
                 "female": {
                     "date": "2024/07/31",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Tyler Wright",
@@ -33373,12 +32071,7 @@
                 },
                 "male": {
                     "date": "2024/07/31",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "John John Florence",
@@ -33498,12 +32191,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/07",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Panipak Wongphattanakit",
@@ -33623,12 +32311,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/08",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Luo Zongshi",
@@ -33748,12 +32431,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/09",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Sarah Chaari",
@@ -33873,12 +32551,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/10",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Lee Da-Bin",
@@ -33998,12 +32671,7 @@
             "sex": {
                 "male": {
                     "date": "2024/08/07",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Mohamed Khalil Jendoubi",
@@ -34123,12 +32791,7 @@
             "sex": {
                 "male": {
                     "date": "2024/08/08",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Rashitov Ulugbek",
@@ -34248,12 +32911,7 @@
             "sex": {
                 "male": {
                     "date": "2024/08/09",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Simone Alessio",
@@ -34373,12 +33031,7 @@
             "sex": {
                 "male": {
                     "date": "2024/08/10",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Caden Cunningham",
@@ -34498,12 +33151,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/03",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Iga Świątek",
@@ -34615,12 +33263,7 @@
                 },
                 "male": {
                     "date": "2024/08/04",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Novak Djokovic",
@@ -34740,12 +33383,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/04",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Danielle Collins - Desirae Krawczyk",
@@ -34857,12 +33495,7 @@
                 },
                 "male": {
                     "date": "2024/08/03",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Marcel Granollers - Pablo Carreño Busta",
@@ -34974,12 +33607,7 @@
                 },
                 "mixed": {
                     "date": "2024/08/02",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Ellen Perez - Matthew Ebden",
@@ -35099,12 +33727,7 @@
             "sex": {
                 "mixed": {
                     "date": "2024/07/30",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "China",
@@ -35224,12 +33847,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/03",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "SUN Yingsha",
@@ -35341,12 +33959,7 @@
                 },
                 "male": {
                     "date": "2024/08/04",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "FAN Zhendong",
@@ -35466,12 +34079,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/10",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "China",
@@ -35583,12 +34191,7 @@
                 },
                 "male": {
                     "date": "2024/08/09",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "China",
@@ -35708,12 +34311,7 @@
             "sex": {
                 "mixed": {
                     "date": "2024/08/05",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Estados Unidos ",
@@ -35833,12 +34431,7 @@
             "sex": {
                 "mixed": {
                     "date": "2024/07/30",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "India",
@@ -35958,12 +34551,7 @@
             "sex": {
                 "mixed": {
                     "date": "2024/07/27",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "China",
@@ -36083,12 +34671,7 @@
             "sex": {
                 "female": {
                     "date": "2024/07/31",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "GALVEZ Fatima",
@@ -36200,12 +34783,7 @@
                 },
                 "male": {
                     "date": "2024/07/30",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "HALES Nathan",
@@ -36325,12 +34903,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/04",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "VIZZI Dania Jo",
@@ -36442,12 +35015,7 @@
                 },
                 "male": {
                     "date": "2024/08/03",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "HANCOCK Vincent",
@@ -36567,12 +35135,7 @@
             "sex": {
                 "male": {
                     "date": "2024/08/05",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "SONG Jong-Ho",
@@ -36692,12 +35255,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/03",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "MAJOR Veronika",
@@ -36817,12 +35375,7 @@
             "sex": {
                 "female": {
                     "date": "2024/07/28",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "KORAKAKI Anna",
@@ -36934,12 +35487,7 @@
                 },
                 "male": {
                     "date": "2024/07/28",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "WALTER Robin",
@@ -37059,12 +35607,7 @@
             "sex": {
                 "female": {
                     "date": "2024/07/29",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "HAN Jiayu",
@@ -37176,12 +35719,7 @@
                 },
                 "male": {
                     "date": "2024/07/29",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "SHENG Lihao",
@@ -37301,12 +35839,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/02",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "MCINTOSH Seonaid",
@@ -37418,12 +35951,7 @@
                 },
                 "male": {
                     "date": "2024/08/01",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "LIU Yukun",
@@ -37543,12 +36071,7 @@
             "sex": {
                 "female": {
                     "date": "2024/07/28",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Corea del Sur",
@@ -37660,12 +36183,7 @@
                 },
                 "male": {
                     "date": "2024/07/29",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Corea del Sur",
@@ -37777,12 +36295,7 @@
                 },
                 "mixed": {
                     "date": "2024/08/02",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Corea del Sur",
@@ -37902,12 +36415,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/03",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Yang Xiaolei",
@@ -38019,12 +36527,7 @@
                 },
                 "male": {
                     "date": "2024/08/04",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Kim Woo-jin",
@@ -38144,12 +36647,7 @@
             "sex": {
                 "female": {
                     "date": "2024/07/31",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Georgia Taylor-Brown",
@@ -38261,12 +36759,7 @@
                 },
                 "male": {
                     "date": "2024/07/30",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Csongor Lehmann",
@@ -38386,12 +36879,7 @@
             "sex": {
                 "mixed": {
                     "date": "2024/08/05",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Francia",
@@ -38511,12 +36999,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/06",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "RINDOM Anne-Marie",
@@ -38628,12 +37111,7 @@
                 },
                 "male": {
                     "date": "2024/08/06",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "BECKETT Michael",
@@ -38753,12 +37231,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/02",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "WILSON Emma",
@@ -38870,12 +37343,7 @@
                 },
                 "male": {
                     "date": "2024/08/02",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "RENNA Nicolo",
@@ -38995,12 +37463,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/01",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "BOBECK Vilma / NETZLER Rebecca",
@@ -39112,12 +37575,7 @@
                 },
                 "male": {
                     "date": "2024/08/01",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "LAMBRIEX Bart / van de WERKEN Floris",
@@ -39237,12 +37695,7 @@
             "sex": {
                 "mixed": {
                     "date": "2024/08/07",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "TITA Ruggero / BANTI Caterina",
@@ -39362,12 +37815,7 @@
             "sex": {
                 "mixed": {
                     "date": "2024/08/07",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Jordi XAMMAR HERNANDEZ / Nora BRUGMAN CABOT",
@@ -39487,12 +37935,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/08",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "NOLOT Lauriane",
@@ -39604,12 +38047,7 @@
                 },
                 "male": {
                     "date": "2024/08/08",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "PIANOSI Riccardo",
@@ -39729,12 +38167,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/11",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Brasil",
@@ -39846,12 +38279,7 @@
                 },
                 "male": {
                     "date": "2024/08/10",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Polonia",
@@ -39971,12 +38399,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/09",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Eduarda Santos Lisboa / Ana Patrícia Ramos",
@@ -40088,12 +38511,7 @@
                 },
                 "male": {
                     "date": "2024/08/10",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "David Åhman / Jonatan Hellvig",
@@ -40213,12 +38631,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/10",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Estados Unidos",
@@ -40330,12 +38743,7 @@
                 },
                 "male": {
                     "date": "2024/08/11",
-                    "date_pred": null,
                     "finished": false,
-                    "previa": [],
-                    "analysis": [],
-                    "previa_en": [],
-                    "analysis_en": [],
                     "prediction": {
                         "1": {
                             "name": "Croacia",
