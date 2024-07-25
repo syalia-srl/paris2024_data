@@ -1,267 +1,338 @@
 {
+    "team": {
+        "yac": {
+            "name": "Yudivián Almeida"
+        },
+        "amo": {
+            "name": "Anthuán Montes de Oca"
+        },
+        "cmc": {
+            "name": "Carlos M. Chang"
+        },
+        "ebr": {
+            "name": "Edián Broche"
+        },
+        "mpa": {
+            "name": "Massiel Paz"
+        },
+        "cmg": {
+            "name": "Carlos M. García"
+        },
+        "ala": {
+            "name": "Alejandro Lamelas"
+        },
+        "mag": {
+            "name": "Manuel A. Gamboa"
+        },
+        "rca": {
+            "name": "Reinaldo Cánovas"
+        },
+        "mao": {
+            "name": "Marco A. Ochill"
+        },
+        "asb": {
+            "name": "Alex S. Bas"
+        },
+        "ssu": {
+            "name": "Sebastián Suárez"
+        },
+        "dpo": {
+            "name": "Daniel Polanco"
+        },
+        "fpr": {
+            "name": "Francisco Préstamo"
+        },
+        "ana": {
+            "name": "Adrian Navarro"
+        },
+        "csp": {
+            "name": "Carla S. Pérez"
+        },
+        "ljr": {
+            "name": "Leonardo J. Ramírez"
+        },
+        "dlo": {
+            "name": "Darío López"
+        },
+        "ara": {
+            "name": "Alejandro Ramírez"
+        },
+        "gnr": {
+            "name": "Glenda N. Ríos"
+        },
+        "ell": {
+            "name": "Eric L. López"
+        },
+        "ago": {
+            "name": "Ariel González"
+        },
+        "lar": {
+            "name": "Leonardo Artiles"
+        }
+    },
     "sports": {
         "atl": {
             "name": "Atletismo",
             "name_en": "Athletics",
-            "predicted": true,
+            "prediction": "yac",
             "multiple_bronce": false
         },
         "bad": {
             "name": "Badminton",
             "name_en": "Badminton",
-            "predicted": true,
+            "prediction": "amo",
             "multiple_bronce": false
         },
         "bas": {
             "name": "Baloncesto",
             "name_en": "Basketball",
-            "predicted": true,
+            "prediction": "cmc",
             "multiple_bronce": false
         },
         "ba3": {
             "name": "Baloncesto 3x3",
             "name_en": "3x3 Basketball",
-            "predicted": true,
+            "prediction": "cmc",
             "multiple_bronce": false
         },
         "bal": {
             "name": "Balonmano",
             "name_en": "Handball",
-            "predicted": true,
+            "prediction": "cmc",
             "multiple_bronce": false
         },
         "box": {
             "name": "Boxeo",
             "name_en": "Boxing",
-            "predicted": true,
+            "prediction": "ebr",
             "multiple_bronce": true
         },
         "bre": {
             "name": "Breakdance",
             "name_en": "Breaking",
-            "predicted": true,
+            "prediction": "mpa",
             "multiple_bronce": false
         },
         "bmx": {
             "name": "Ciclismo BMX",
             "name_en": "BMX",
-            "predicted": true,
+            "prediction": "cng",
             "multiple_bronce": false
         },
         "cim": {
             "name": "Ciclismo Mountain Bike",
             "name_en": "Mountain Biking",
-            "predicted": true,
+            "prediction": "cng",
             "multiple_bronce": false
         },
         "cip": {
             "name": "Ciclismo Pista",
             "name_en": "Track Cycling",
-            "predicted": true,
+            "prediction": "cng",
             "multiple_bronce": false
         },
         "cir": {
             "name": "Ciclismo Ruta",
             "name_en": "Road Cycling",
-            "predicted": true,
+            "prediction": "cng",
             "multiple_bronce": false
         },
         "esc": {
             "name": "Escalada",
             "name_en": "Sport Climbing",
-            "predicted": true,
+            "prediction": "ala",
             "multiple_bronce": false
         },
         "esg": {
             "name": "Esgrima",
             "name_en": "Fencing",
-            "predicted": true,
+            "prediction": "mag",
             "multiple_bronce": false
         },
         "fut": {
             "name": "Fútbol",
             "name_en": "Football",
-            "predicted": true,
+            "prediction": "yac",
             "multiple_bronce": false
         },
         "gia": {
             "name": "Gimnasia Artística",
             "name_en": "Artistic Gymnastics",
-            "predicted": true,
+            "prediction": "mpa",
             "multiple_bronce": false
         },
         "git": {
             "name": "Gimnasia con Trampolín",
             "name_en": "Trampoline",
-            "predicted": true,
+            "prediction": "rca",
             "multiple_bronce": false
         },
         "gir": {
             "name": "Gimnasia Rítmica",
             "name_en": "Rythmic Gymnastics",
-            "predicted": true,
+            "prediction": "rca",
             "multiple_bronce": false
         },
         "gol": {
             "name": "Golf",
             "name_en": "Golf",
-            "predicted": true,
+            "prediction": "mao",
             "multiple_bronce": false
         },
         "hal": {
             "name": "Halterofilia",
             "name_en": "Weightlifting",
-            "predicted": true,
+            "prediction": "asb",
             "multiple_bronce": false
         },
         "hip": {
             "name": "Hípica",
             "name_en": "Equestrian",
-            "predicted": true,
+            "prediction": "ssu",
             "multiple_bronce": false
         },
         "hoc": {
             "name": "Hockey sobre Césped",
             "name_en": "Field Hockey",
-            "predicted": true,
+            "prediction": "dpo",
             "multiple_bronce": false
         },
         "jud": {
             "name": "Judo",
             "name_en": "Judo",
-            "predicted": true,
+            "prediction": "fpr",
             "multiple_bronce": true
         },
         "luc": {
             "name": "Lucha",
             "name_en": "Wrestling",
-            "predicted": true,
+            "prediction": "mag",
             "multiple_bronce": true
         },
         "nat": {
             "name": "Natación",
             "name_en": "Swimming",
-            "predicted": true,
+            "prediction": "ana",
             "multiple_bronce": false
         },
         "nas": {
             "name": "Natación Artística",
             "name_en": "Artistic Swimming",
-            "predicted": true,
+            "prediction": "csp",
             "multiple_bronce": false
         },
         "naa": {
             "name": "Natación Aguas Abiertas",
             "name_en": "Marathon Swimming",
-            "predicted": true,
+            "prediction": "ana",
             "multiple_bronce": false
         },
         "pen": {
             "name": "Pentatlón Moderno",
             "name_en": "Modern Pentathlon",
-            "predicted": true,
+            "prediction": "ljr",
             "multiple_bronce": false
         },
         "pis": {
             "name": "Piragüismo Slalom",
             "name_en": "Canoeing Slalom",
-            "predicted": true,
+            "prediction": "dlo",
             "multiple_bronce": false
         },
         "pic": {
             "name": "Piragüismo Sprint",
             "name_en": "Canoeing Sprint",
-            "predicted": true,
+            "prediction": "dlo",
             "multiple_bronce": false
         },
         "rem": {
             "name": "Remo",
             "name_en": "Rowing",
-            "predicted": true,
+            "prediction": "dlo",
             "multiple_bronce": false
         },
         "rug": {
             "name": "Rugby 7",
             "name_en": "Rugny Sevens",
-            "predicted": true,
+            "prediction": "yac",
             "multiple_bronce": false
         },
         "sal": {
             "name": "Saltos",
             "name_en": "Diving",
-            "predicted": true,
+            "prediction": "csp",
             "multiple_bronce": false
         },
         "ska": {
             "name": "Skateboarding",
             "name_en": "Skateboarding",
-            "predicted": true,
+            "prediction": "ara",
             "multiple_bronce": false
         },
         "sur": {
             "name": "Surf",
             "name_en": "Surf",
-            "predicted": true,
+            "prediction": "ara",
             "multiple_bronce": false
         },
         "tae": {
             "name": "Taekwondo",
             "name_en": "Taekwondo",
-            "predicted": true,
+            "prediction": "gnr",
             "multiple_bronce": true
         },
         "ten": {
             "name": "Tenis",
             "name_en": "Tennis",
-            "predicted": true,
+            "prediction": "amo",
             "multiple_bronce": false
         },
         "tem": {
             "name": "Tenis de Mesa",
             "name_en": "Table Tennis",
-            "predicted": true,
+            "prediction": "dpo",
             "multiple_bronce": false
         },
         "tir": {
             "name": "Tiro",
             "name_en": "Shooting",
-            "predicted": true,
+            "prediction": "ell",
             "multiple_bronce": false
         },
         "tia": {
             "name": "Tiro con Arco",
             "name_en": "Archery",
-            "predicted": true,
+            "prediction": "gnr",
             "multiple_bronce": false
         },
         "tri": {
             "name": "Triatlón",
             "name_en": "Triathlon",
-            "predicted": true,
+            "prediction": "ana",
             "multiple_bronce": false
         },
         "vel": {
             "name": "Vela",
             "name_en": "Sailing",
-            "predicted": true,
+            "prediction": "fpr",
             "multiple_bronce": false
         },
         "vol": {
             "name": "Voleibol",
             "name_en": "Volleyball",
-            "predicted": true,
+            "prediction": "ago",
             "multiple_bronce": false
         },
         "vop": {
             "name": "Voleibol de Playa",
             "name_en": "Beach Volleyball",
-            "predicted": true,
+            "prediction": "ago",
             "multiple_bronce": false
         },
         "wap": {
             "name": "Waterpolo",
             "name_en": "Waterpolo",
-            "predicted": true,
+            "prediction": "lar",
             "multiple_bronce": false
         }
     },
