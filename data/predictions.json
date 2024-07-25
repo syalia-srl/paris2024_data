@@ -18965,21 +18965,21 @@
                             "status": 0
                         },
                         "2": {
+                            "name": "GARRIGOS Francisco",
+                            "name_en": "GARRIGOS Francisco",
+                            "country_domain": "ESP",
+                            "status": 0
+                        },
+                        "3": {
                             "name": "MKHEIDZE Luka",
                             "name_en": "MKHEIDZE Luka",
                             "country_domain": "FRA",
                             "status": 0
                         },
-                        "3": {
+                        "4": {
                             "name": "LEE Harim",
                             "name_en": "LEE Harim",
                             "country_domain": "KOR",
-                            "status": 0
-                        },
-                        "4": {
-                            "name": "GARRIGOS Francisco",
-                            "name_en": "GARRIGOS Francisco",
-                            "country_domain": "ESP",
                             "status": 0
                         },
                         "5": {
@@ -19209,8 +19209,8 @@
                     "analysis_en": [],
                     "prediction": {
                         "1": {
-                            "name": "TANAKA Ryoma",
-                            "name_en": "TANAKA Ryoma",
+                            "name": "ABE Hifumi",
+                            "name_en": "ABE Hifumi",
                             "country_domain": "JPN",
                             "status": 0
                         },
@@ -19227,21 +19227,21 @@
                             "status": 0
                         },
                         "4": {
+                            "name": "AN Baul",
+                            "name_en": "AN Baul",
+                            "country_domain": "KOR",
+                            "status": 0
+                        },
+                        "5": {
                             "name": "MARGVELASHVILI Vazha",
                             "name_en": "MARGVELASHVILI Vazha",
                             "country_domain": "GEO",
                             "status": 0
                         },
-                        "5": {
+                        "6": {
                             "name": "BATTOGTOKH Erkhembayar",
                             "name_en": "BATTOGTOKH Erkhembayar",
-                            "country_domain": "MGL",
-                            "status": 0
-                        },
-                        "6": {
-                            "name": "AN Baul",
-                            "name_en": "AN Baul",
-                            "country_domain": "KOR",
+                            "country_domain": "MNG",
                             "status": 0
                         },
                         "7": {
@@ -19477,21 +19477,21 @@
                             "status": 0
                         },
                         "4": {
+                            "name": "STUMP Nils",
+                            "name_en": "STUMP Nils",
+                            "country_domain": "SUI",
+                            "status": 0
+                        },
+                        "5": {
                             "name": "CARGNIN Daniel",
                             "name_en": "CARGNIN Daniel",
                             "country_domain": "BRA",
                             "status": 0
                         },
-                        "5": {
+                        "6": {
                             "name": "SHAVDATUASHVILI Lasha",
                             "name_en": "SHAVDATUASHVILI Lasha",
                             "country_domain": "GEO",
-                            "status": 0
-                        },
-                        "6": {
-                            "name": "STUMP Nils",
-                            "name_en": "STUMP Nils",
-                            "country_domain": "SUI",
                             "status": 0
                         },
                         "7": {
@@ -20090,15 +20090,15 @@
                             "status": 0
                         },
                         "2": {
-                            "name": "TAKAYAMA Rika",
-                            "name_en": "TAKAYAMA Rika",
-                            "country_domain": "JPN",
+                            "name": "MALONGA Madeleine",
+                            "name_en": "MALONGA Madeleine",
+                            "country_domain": "FRA",
                             "status": 0
                         },
                         "3": {
-                            "name": "AGUIAR Mayra",
-                            "name_en": "AGUIAR Mayra",
-                            "country_domain": "BRA",
+                            "name": "TAKAYAMA Rika",
+                            "name_en": "TAKAYAMA Rika",
+                            "country_domain": "JPN",
                             "status": 0
                         },
                         "4": {
@@ -20108,21 +20108,21 @@
                             "status": 0
                         },
                         "5": {
-                            "name": "STEENHUIS Guusje",
-                            "name_en": "STEENHUIS Guusje",
-                            "country_domain": "NED",
+                            "name": "AGUIAR Mayra",
+                            "name_en": "AGUIAR Mayra",
+                            "country_domain": "BRA",
                             "status": 0
                         },
                         "6": {
-                            "name": "SAMPAIO Patricia",
-                            "name_en": "SAMPAIO Patricia",
-                            "country_domain": "POR",
+                            "name": "STEENHUIS Guusje",
+                            "name_en": "STEENHUIS Guusje",
+                            "country_domain": "NLD",
                             "status": 0
                         },
                         "7": {
-                            "name": "TCHEUMEO Audrey",
-                            "name_en": "TCHEUMEO Audrey",
-                            "country_domain": "FRA",
+                            "name": "SAMPAIO Patricia",
+                            "name_en": "SAMPAIO Patricia",
+                            "country_domain": "PRT",
                             "status": 0
                         },
                         "8": {
@@ -20340,33 +20340,33 @@
                             "status": 0
                         },
                         "2": {
-                            "name": "TOMITA Wakaba",
-                            "name_en": "TOMITA Wakaba",
+                            "name": "SONE Akira",
+                            "name_en": "SONE Akira",
                             "country_domain": "JPN",
                             "status": 0
                         },
                         "3": {
-                            "name": "KIM Hayun",
-                            "name_en": "KIM Hayun",
-                            "country_domain": "KOR",
-                            "status": 0
-                        },
-                        "4": {
-                            "name": "SOUZA Beatriz",
-                            "name_en": "SOUZA Beatriz",
-                            "country_domain": "BRA",
-                            "status": 0
-                        },
-                        "5": {
                             "name": "OZDEMIR Kayra",
                             "name_en": "OZDEMIR Kayra",
                             "country_domain": "TUR",
                             "status": 0
                         },
-                        "6": {
+                        "4": {
+                            "name": "KIM Hayun",
+                            "name_en": "KIM Hayun",
+                            "country_domain": "KOR",
+                            "status": 0
+                        },
+                        "5": {
                             "name": "HERSHKO Raz",
                             "name_en": "HERSHKO Raz",
                             "country_domain": "ISR",
+                            "status": 0
+                        },
+                        "6": {
+                            "name": "SOUZA Beatriz",
+                            "name_en": "SOUZA Beatriz",
+                            "country_domain": "BRA",
                             "status": 0
                         },
                         "7": {
@@ -20376,9 +20376,9 @@
                             "status": 0
                         },
                         "8": {
-                            "name": "STARTSEVA Elis",
-                            "name_en": "STARTSEVA Elis",
-                            "country_domain": "AIN",
+                            "name": "ORTIZ Idalys",
+                            "name_en": "ORTIZ Idalys",
+                            "country_domain": "CUB",
                             "status": 0
                         }
                     },
@@ -20477,21 +20477,21 @@
                             "status": 0
                         },
                         "4": {
+                            "name": "RAKHIMOV Temur",
+                            "name_en": "RAKHIMOV Temur",
+                            "country_domain": "TJK",
+                            "status": 0
+                        },
+                        "5": {
                             "name": "KIM Minjong",
                             "name_en": "KIM Minjong",
                             "country_domain": "KOR",
                             "status": 0
                         },
-                        "5": {
+                        "6": {
                             "name": "TUSHISHVILI Guram",
                             "name_en": "TUSHISHVILI Guram",
                             "country_domain": "GEO",
-                            "status": 0
-                        },
-                        "6": {
-                            "name": "RAKHIMOV Temur",
-                            "name_en": "RAKHIMOV Temur",
-                            "country_domain": "TJK",
                             "status": 0
                         },
                         "7": {
@@ -20503,7 +20503,7 @@
                         "8": {
                             "name": "SNIPPE Jelle",
                             "name_en": "SNIPPE Jelle",
-                            "country_domain": "NED",
+                            "country_domain": "NLD",
                             "status": 0
                         }
                     },
