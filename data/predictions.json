@@ -14750,43 +14750,51 @@
                     "finished": false,
                     "prediction": {
                         "1": {
-                            "name": "DUJARDIN, Charlotte",
-                            "country_domain": "GBR",
-                            "status": 0
-                        },
-                        "2": {
                             "name": "WERTH, Isabell",
+                            "name_en": "WERTH, Isabell",
                             "country_domain": "GER",
                             "status": 0
                         },
+                        "2": {
+                            "name": "LAUDRUP-DUFOUR, Cathrine",
+                            "name_en": "LAUDRUP-DUFOUR, Cathrine",
+                            "country_domain": "DEN",
+                            "status": 0
+                        },
                         "3": {
-                            "name": "WANDRES, Frederic",
+                            "name": "VON BREDOW-WERNDL, Jessica",
+                            "name_en": "VON BREDOW-WERNDL, Jessica",
                             "country_domain": "GER",
                             "status": 0
                         },
                         "4": {
-                            "name": "KITTEL, Patrik",
-                            "country_domain": "SWE",
-                            "status": 0
-                        },
-                        "5": {
-                            "name": "VON BREDOW-WERNDL, Jessica",
+                            "name": "WANDRES, Frederic",
+                            "name_en": "WANDRES, Frederic",
                             "country_domain": "GER",
                             "status": 0
                         },
-                        "6": {
+                        "5": {
                             "name": "LYLE, Adrienne",
+                            "name_en": "LYLE, Adrienne",
                             "country_domain": "USA",
+                            "status": 0
+                        },
+                        "6": {
+                            "name": "KITTEL, Patrik",
+                            "name_en": "KITTEL, Patrik",
+                            "country_domain": "SWE",
                             "status": 0
                         },
                         "7": {
                             "name": "PETERS, Steffen",
+                            "name_en": "PETERS, Steffen",
                             "country_domain": "USA",
                             "status": 0
                         },
                         "8": {
-                            "name": "BACHMANN ANDERSEN, Daniel",
-                            "country_domain": "DEN",
+                            "name": "BASQUIN, Pauline",
+                            "name_en": "BASQUIN, Pauline",
+                            "country_domain": "FRA",
                             "status": 0
                         }
                     },
