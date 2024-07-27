@@ -9607,52 +9607,46 @@
                         {
                             "name": "Sports Illustrated",
                             "prediction": {
-                                "1" : {
+                                "1": {
                                     "name": "Ellen van Dijk",
                                     "country_domain": "NED",
                                     "status": 0,
                                     "cstatus": 1
-
                                 },
-                                "2" : {
+                                "2": {
                                     "name": "Chloé Dygert",
                                     "country_domain": "USA",
                                     "status": 3,
                                     "cstatus": 2
-
                                 },
-                                "3" : {
+                                "3": {
                                     "name": "Demi Vollering ",
                                     "country_domain": "NED",
                                     "status": 1,
                                     "cstatus": 1
-
                                 }
                             }
                         },
                         {
                             "name": "L'Equipe",
                             "prediction": {
-                                "1" : {
+                                "1": {
                                     "name": "Chloé Dygert",
                                     "country_domain": "USA",
                                     "status": 3,
                                     "cstatus": 3
-
                                 },
-                                "2" : {
+                                "2": {
                                     "name": "Ellen van Dijk",
                                     "country_domain": "NED",
                                     "status": 0,
                                     "cstatus": 3
-
                                 },
-                                "3" : {
+                                "3": {
                                     "name": "Grace Brown",
                                     "country_domain": "",
                                     "status": 4,
                                     "cstatus": 4
-
                                 }
                             }
                         }
@@ -9757,52 +9751,46 @@
                         {
                             "name": "Sports Illustrated",
                             "prediction": {
-                                "1" : {
+                                "1": {
                                     "name": "Joshua Tarling",
                                     "country_domain": "GBR",
                                     "status": 1,
                                     "cstatus": 2
-
                                 },
-                                "2" : {
+                                "2": {
                                     "name": "Filippo Ganna",
                                     "country_domain": "ITA",
                                     "status": 2,
                                     "cstatus": 0
-
                                 },
-                                "3" : {
+                                "3": {
                                     "name": "Remco Evenepoel",
                                     "country_domain": "DEL",
                                     "status": 4,
                                     "cstatus": 3
-
                                 }
                             }
                         },
                         {
                             "name": "L'Equipe",
                             "prediction": {
-                                "1" : {
+                                "1": {
                                     "name": "Joshua Tarling",
                                     "country_domain": "GBR",
                                     "status": 1,
                                     "cstatus": 2
-
                                 },
-                                "2" : {
+                                "2": {
                                     "name": "Filippo Ganna",
                                     "country_domain": "ITA",
                                     "status": 2,
                                     "cstatus": 0
-
                                 },
-                                "3" : {
+                                "3": {
                                     "name": "Remco Evenepoel",
                                     "country_domain": "DEL",
                                     "status": 4,
                                     "cstatus": 3
-
                                 }
                             }
                         }
@@ -15680,37 +15668,37 @@
             "sex": {
                 "female": {
                     "date": "2024/07/27",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "TSUNODA Natsumi",
                             "country_domain": "JPN",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "BOUKLI Shirine",
                             "country_domain": "FRA",
-                            "status": 0
+                            "status": 3
                         },
                         "3": {
                             "name": "SCUTTO Assunta",
                             "country_domain": "ITA",
-                            "status": 0
+                            "status": 1
                         },
                         "4": {
                             "name": "BABULFATH Tara",
                             "country_domain": "SWE",
-                            "status": 0
+                            "status": 2
                         },
                         "5": {
                             "name": "ABUZHAKYNOVA Abiba",
                             "country_domain": "KAZ",
-                            "status": 0
+                            "status": 2
                         },
                         "6": {
                             "name": "BAVUUDORJ Baasankhuu",
                             "country_domain": "MNG",
-                            "status": 0
+                            "status": 3
                         },
                         "7": {
                             "name": "COSTA Catarina",
@@ -15726,53 +15714,113 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "TSUNODA Natsumi",
+                                "country_domain": "JPN"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "BAVUUDORJ Baasankhuu",
+                                "country_domain": "MGL"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "BABULFATH Tara",
+                                "country_domain": "SWE"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "BOUKLI Shirine",
+                                "country_domain": "FRA"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "MARTÍNEZ Laura",
+                                "country_domain": "ESP"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "ABUZHAKYNOVA Abiba",
+                                "country_domain": "KAZ"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "SCUTTO Assunta",
+                                "country_domain": "ITA"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "NARVÁEZ Gabriela",
+                                "country_domain": "PAR"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "TSUNODA Natsumi",
+                                    "country_domain": "JPN",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "SCUTTO Assunta",
+                                    "country_domain": "ITA",
+                                    "status": 1,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "Bavuudorj Baasankhuu",
+                                    "country_domain": "MGL",
+                                    "status": 3,
+                                    "cstatus": 1
+                                },
+                                "4": {
+                                    "name": "BOUKLI Shirine",
+                                    "country_domain": "FRA",
+                                    "status": 2,
+                                    "cstatus": 2
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "BOUKLI Shirine",
+                                    "country_domain": "FRA",
+                                    "status": 3,
+                                    "cstatus": 3    
+                                },
+                                "2": {
+                                    "name": "BABULFATH Tara",
+                                    "country_domain": "SWE",
+                                    "status": 3,
+                                    "cstatus": 3
+                                },
+                                "3": {
+                                    "name": "TSUNODA Natsumi",
+                                    "country_domain": "JPN",
+                                    "status": 4,
+                                    "cstatus": 4
+                                },
+                                "4": {
+                                    "name": "SCUTTO Assunta",
+                                    "country_domain": "ITA",
+                                    "status": 1,
+                                    "cstatus": 1
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
@@ -15783,22 +15831,22 @@
             "sex": {
                 "male": {
                     "date": "2024/07/27",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "NAGAYAMA Ryuju",
                             "country_domain": "JPN",
-                            "status": 0
+                            "status": 3
                         },
                         "2": {
                             "name": "GARRIGOS Francisco",
                             "country_domain": "ESP",
-                            "status": 0
+                            "status": 3
                         },
                         "3": {
                             "name": "MKHEIDZE Luka",
                             "country_domain": "FRA",
-                            "status": 0
+                            "status": 3
                         },
                         "4": {
                             "name": "LEE Harim",
@@ -15808,7 +15856,7 @@
                         "5": {
                             "name": "SARDALASHVILI Giorgi",
                             "country_domain": "GEO",
-                            "status": 0
+                            "status": 2
                         },
                         "6": {
                             "name": "SERIKBAYEV Nurkanat",
@@ -15829,53 +15877,121 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "SMETOS Yeldos",
+                                "country_domain": "KAX"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "MKHEIDZE Luka",
+                                "country_domain": "FRA"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "GARRIGOS Francisco",
+                                "country_domain": "ESP"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "NAGAYAMA Ryuju",
+                                "country_domain": "JPN"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "SARDALASHVILI Giorgi",
+                                "country_domain": "GEO"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "YILDIZ Salih",
+                                "country_domain": "TUR"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "YUNG-WEI Yang",
+                                "country_domain": "TPE"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "WON-JIN Kim",
+                                "country_domain": "KOR"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1" : {
+                                    "name": "GARRIGOS Francisco",
+                                    "country_domain": "ESP",
+                                    "status": 3,
+                                    "cstatus": 3
+
+                                },
+                                "2" : {
+                                    "name": "SARDALASHVILI Giorgi",
+                                    "country_domain": "GEO",
+                                    "status": 1,
+                                    "cstatus": 1
+
+                                },
+                                "3" : {
+                                    "name": "BARATOV Dilshodbek",
+                                    "country_domain": "UZB",
+                                    "status": 0,
+                                    "cstatus": 0
+
+                                },
+                                "4" : {
+                                    "name": "ARIUNBOLD Enkhtaivan",
+                                    "country_domain": "UZB",
+                                    "status": 0,
+                                    "cstatus": 0
+
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1" : {
+                                    "name": "MKHEIDZE Luka",
+                                    "country_domain": "FRA",
+                                    "status": 3,
+                                    "cstatus": 3
+
+                                },
+                                "2" : {
+                                    "name": "SARDALASHVILI Giorgi",
+                                    "country_domain": "GEO",
+                                    "status": 1,
+                                    "cstatus": 1
+
+                                },
+                                "3" : {
+                                    "name": "GARRIGOS Francisco",
+                                    "country_domain": "ESP",
+                                    "status": 2,
+                                    "cstatus": 3
+
+                                },
+                                "4" : {
+                                    "name": "YUNG-WEI Yang",
+                                    "country_domain": "TPE",
+                                    "status": 1,
+                                    "cstatus": 0
+
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
@@ -26258,52 +26374,46 @@
                         {
                             "name": "Sports Illustrated",
                             "prediction": {
-                                "1" : {
+                                "1": {
                                     "name": "Nueva Zelanda",
                                     "country_domain": "NZL",
                                     "status": 0,
                                     "cstatus": 3
-
                                 },
-                                "2" : {
+                                "2": {
                                     "name": "Australia",
                                     "country_domain": "AUS",
                                     "status": 0,
                                     "cstatus": 4
-
                                 },
-                                "3" : {
+                                "3": {
                                     "name": "Francia",
                                     "country_domain": "FRA",
                                     "status": 0,
                                     "cstatus": 2
-
                                 }
                             }
                         },
                         {
                             "name": "L'Equipe",
                             "prediction": {
-                                "1" : {
+                                "1": {
                                     "name": "Nueva Zelanda",
                                     "country_domain": "NZL",
                                     "status": 0,
                                     "cstatus": 3
-
                                 },
-                                "2" : {
+                                "2": {
                                     "name": "Francia",
                                     "country_domain": "FRA",
                                     "status": 0,
                                     "cstatus": 3
-
                                 },
-                                "3" : {
+                                "3": {
                                     "name": "Australia",
                                     "country_domain": "AUS",
                                     "status": 0,
                                     "cstatus": 4
-
                                 }
                             }
                         }
@@ -26408,52 +26518,46 @@
                         {
                             "name": "Sports Illustrated",
                             "prediction": {
-                                "1" : {
+                                "1": {
                                     "name": "Fiji",
                                     "country_domain": "FIJ",
                                     "status": 0,
                                     "cstatus": 0
-
                                 },
-                                "2" : {
+                                "2": {
                                     "name": "Nueva Zelanda",
                                     "country_domain": "NZL",
                                     "status": 0,
                                     "cstatus": 0
-
                                 },
-                                "3" : {
+                                "3": {
                                     "name": "Australia",
                                     "country_domain": "AUS",
                                     "status": 0,
                                     "cstatus": 0
-
                                 }
                             }
                         },
                         {
                             "name": "L'Equipe",
                             "prediction": {
-                                "1" : {
+                                "1": {
                                     "name": "Francia",
                                     "country_domain": "FRA",
                                     "status": 0,
                                     "cstatus": 3
-
                                 },
-                                "2" : {
+                                "2": {
                                     "name": "Fiji",
                                     "country_domain": "FIJ",
                                     "status": 0,
                                     "cstatus": 4
-
                                 },
-                                "3" : {
+                                "3": {
                                     "name": "Argentina",
                                     "country_domain": "ARG",
                                     "status": 0,
                                     "cstatus": 2
-
                                 }
                             }
                         }
@@ -26565,52 +26669,46 @@
                         {
                             "name": "Sports Illustrated",
                             "prediction": {
-                                "1" : {
+                                "1": {
                                     "name": "China",
                                     "country_domain": "CHN",
                                     "status": 2,
                                     "cstatus": 2
-
                                 },
-                                "2" : {
+                                "2": {
                                     "name": "Gran Bretaña",
                                     "country_domain": "GBR",
                                     "status": 3,
                                     "cstatus": 1
-
                                 },
-                                "3" : {
+                                "3": {
                                     "name": "Estados Unidos ",
                                     "country_domain": "USA",
                                     "status": 3,
                                     "cstatus": 0
-
                                 }
                             }
                         },
                         {
                             "name": "L'Equipe",
                             "prediction": {
-                                "1" : {
+                                "1": {
                                     "name": "China",
                                     "country_domain": "CHN",
                                     "status": 2,
                                     "cstatus": 2
-
                                 },
-                                "2" : {
+                                "2": {
                                     "name": "Australia",
                                     "country_domain": "AUS",
                                     "status": 1,
                                     "cstatus": 1
-
                                 },
-                                "3" : {
+                                "3": {
                                     "name": "Gran Bretaña",
                                     "country_domain": "GBR",
                                     "status": 2,
                                     "cstatus": 1
-
                                 }
                             }
                         }
@@ -30037,52 +30135,46 @@
                         {
                             "name": "Sports Illustrated",
                             "prediction": {
-                                "1" : {
+                                "1": {
                                     "name": "China",
                                     "country_domain": "CHN",
                                     "status": 2,
                                     "cstatus": 2
-
                                 },
-                                "2" : {
+                                "2": {
                                     "name": "France",
                                     "country_domain": "CHN",
                                     "status": 0,
                                     "cstatus": 0
-
                                 },
-                                "3" : {
+                                "3": {
                                     "name": "India",
                                     "country_domain": "IND",
                                     "status": 1,
                                     "cstatus": 1
-
                                 }
                             }
                         },
                         {
                             "name": "L'Equipe",
                             "prediction": {
-                                "1" : {
+                                "1": {
                                     "name": "China",
                                     "country_domain": "CHN",
                                     "status": 2,
                                     "cstatus": 2
-
                                 },
-                                "2" : {
+                                "2": {
                                     "name": "Corea del Sur",
                                     "country_domain": "KOR",
                                     "status": 2,
                                     "cstatus": 2
-
                                 },
-                                "3" : {
+                                "3": {
                                     "name": "China",
                                     "country_domain": "CHN",
                                     "status": 1,
                                     "cstatus": 0
-
                                 }
                             }
                         }
