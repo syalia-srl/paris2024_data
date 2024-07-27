@@ -29665,22 +29665,22 @@
         },
         "tir_r10m": {
             "name": "Rifle de aire 10 m Mixto",
-            "type": "group",
+            "type": "true",
             "sport": "tir",
             "sex": {
                 "mixed": {
                     "date": "2024/07/27",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "China",
                             "country_domain": "CHN",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "Corea del Sur",
                             "country_domain": "KOR",
-                            "status": 0
+                            "status": 2
                         },
                         "3": {
                             "name": "Hungria",
@@ -29690,7 +29690,7 @@
                         "4": {
                             "name": "India",
                             "country_domain": "IND",
-                            "status": 0
+                            "status": 1
                         },
                         "5": {
                             "name": "Polonia",
@@ -29700,7 +29700,7 @@
                         "6": {
                             "name": "Alemania",
                             "country_domain": "GER",
-                            "status": 0
+                            "status": 1
                         },
                         "7": {
                             "name": "Australia",
@@ -29716,53 +29716,107 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "China",
+                                "country_domain": "CHN"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Corea del Sur",
+                                "country_domain": "KOR"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Kazajastán",
+                                "country_domain": "KAZ"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Alemania",
+                                "country_domain": "GER"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Noruega",
+                                "country_domain": "NOR"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "India",
+                                "country_domain": "IND"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "México",
+                                "country_domain": "MEX"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "China",
+                                "country_domain": "CHN"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1" : {
+                                    "name": "China",
+                                    "country_domain": "CHN",
+                                    "status": 2,
+                                    "cstatus": 2
+
+                                },
+                                "2" : {
+                                    "name": "France",
+                                    "country_domain": "CHN",
+                                    "status": 0,
+                                    "cstatus": 0
+
+                                },
+                                "3" : {
+                                    "name": "India",
+                                    "country_domain": "IND",
+                                    "status": 1,
+                                    "cstatus": 1
+
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1" : {
+                                    "name": "China",
+                                    "country_domain": "CHN",
+                                    "status": 2,
+                                    "cstatus": 2
+
+                                },
+                                "2" : {
+                                    "name": "Corea del Sur",
+                                    "country_domain": "KOR",
+                                    "status": 2,
+                                    "cstatus": 2
+
+                                },
+                                "3" : {
+                                    "name": "China",
+                                    "country_domain": "CHN",
+                                    "status": 1,
+                                    "cstatus": 0
+
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
