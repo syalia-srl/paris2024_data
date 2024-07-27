@@ -26252,45 +26252,45 @@
             "sex": {
                 "female": {
                     "date": "2024/07/27",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
-                            "name": "Yiping LONG y Yajie SI",
+                            "name": "China",
                             "country_domain": "CHN",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
-                            "name": "Alysha KOLOI y Maddison KEENEY",
+                            "name": "Australia",
                             "country_domain": "AUS",
-                            "status": 0
+                            "status": 1
                         },
                         "3": {
-                            "name": "Celine VAN DUIJN y Inge JANSEN",
+                            "name": "Holanda",
                             "country_domain": "NED",
                             "status": 0
                         },
                         "4": {
-                            "name": "Anna PYSMENSKA y Viktoriya KESAR",
+                            "name": "Ucrania",
                             "country_domain": "UKR",
-                            "status": 0
+                            "status": 1
                         },
                         "5": {
-                            "name": "Maria PAPWORTH BURREL y Rocio VELAZQUEZ",
+                            "name": "España",
                             "country_domain": "ESP",
                             "status": 0
                         },
                         "6": {
-                            "name": "Angeline Lee JING LING y Ameera Irdina BT MAZWAN ",
+                            "name": "Malasia ",
                             "country_domain": "MAS",
                             "status": 0
                         },
                         "7": {
-                            "name": "Amy ROLLINSON y Desharne BENT-ASHMEIL ",
+                            "name": "Gran Bretaña",
                             "country_domain": "GBR",
-                            "status": 0
+                            "status": 3
                         },
                         "8": {
-                            "name": "Nahyun KIM y Halim KWON",
+                            "name": "Corea del Sur",
                             "country_domain": "KOR",
                             "status": 0
                         }
@@ -26298,95 +26298,149 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "China",
+                                "country_domain": "CHN"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Estados Unidos ",
+                                "country_domain": "USA"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Gran Bretaña",
+                                "country_domain": "GBR"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Italia",
+                                "country_domain": "ITA"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Australia",
+                                "country_domain": "AUS"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Alemania",
+                                "country_domain": "GER"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Ucrania",
+                                "country_domain": "UKR"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Francia",
+                                "country_domain": "FRA"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1" : {
+                                    "name": "China",
+                                    "country_domain": "CHN",
+                                    "status": 2,
+                                    "cstatus": 2
+
+                                },
+                                "2" : {
+                                    "name": "Gran Bretaña",
+                                    "country_domain": "GBR",
+                                    "status": 3,
+                                    "cstatus": 1
+
+                                },
+                                "3" : {
+                                    "name": "Estados Unidos ",
+                                    "country_domain": "USA",
+                                    "status": 3,
+                                    "cstatus": 0
+
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1" : {
+                                    "name": "China",
+                                    "country_domain": "CHN",
+                                    "status": 2,
+                                    "cstatus": 2
+
+                                },
+                                "2" : {
+                                    "name": "Australia",
+                                    "country_domain": "AUS",
+                                    "status": 1,
+                                    "cstatus": 1
+
+                                },
+                                "3" : {
+                                    "name": "Gran Bretaña",
+                                    "country_domain": "GBR",
+                                    "status": 2,
+                                    "cstatus": 1
+
+                                }
+                            }
+                        }
+                    ]
                 },
                 "male": {
                     "date": "2024/08/02",
                     "finished": false,
                     "prediction": {
                         "1": {
-                            "name": "Zongyuan WANG y Daoyi LONG",
+                            "name": "China",
                             "country_domain": "CHN",
                             "status": 0
                         },
                         "2": {
-                            "name": "Adrian  ABADIA y Nicolas  GARCIA BOISSIER",
+                            "name": "España",
                             "country_domain": "ESP",
                             "status": 0
                         },
                         "3": {
-                            "name": "Giovanni  TOCCI y Lorenzo  MARSAGLIA",
+                            "name": "Italia",
                             "country_domain": "ITA",
                             "status": 0
                         },
                         "4": {
-                            "name": "Jules  BOUYER y Alexis  JANDARD",
+                            "name": "Francia",
                             "country_domain": "FRA",
                             "status": 0
                         },
                         "5": {
-                            "name": "Tyler  DOWNS y Greg  DUNCAN",
+                            "name": "Estados Unidos",
                             "country_domain": "USA",
                             "status": 0
                         },
                         "6": {
-                            "name": "Tyler  DOWNS y Greg  DUNCAN",
+                            "name": "Ucrania",
                             "country_domain": "UKR",
                             "status": 0
                         },
                         "7": {
-                            "name": " Osmar  OLVERA IBARRA y Rodrigo  DIEGO LOPEZ",
+                            "name": "México",
                             "country_domain": "MEX",
                             "status": 0
                         },
                         "8": {
-                            "name": "Anthony Harding y Jack Laugher",
+                            "name": "Gran Bretaña",
                             "country_domain": "GBR",
                             "status": 0
                         }
@@ -26653,42 +26707,42 @@
                     "finished": false,
                     "prediction": {
                         "1": {
-                            "name": "Hongchan QUAN y Yuxi CHEN",
+                            "name": "China",
                             "country_domain": "CHN",
                             "status": 0
                         },
                         "2": {
-                            "name": "Gabriela  AGUNDEZ GARCIA y Alejandra  OROZCO LOZA ",
+                            "name": "México",
                             "country_domain": "MEX",
                             "status": 0
                         },
                         "3": {
-                            "name": "Kate MILLER y Caeli MCKAY",
+                            "name": "Canadá",
                             "country_domain": "CAN",
                             "status": 0
                         },
                         "4": {
-                            "name": "Kseniia  BAILO y Sofiia  LYSKUN",
+                            "name": "Ucrania",
                             "country_domain": "UKR",
                             "status": 0
                         },
                         "5": {
-                            "name": "Delaney  SCHNELL y Jessica  PARRATTO",
+                            "name": "Estados Unidos",
                             "country_domain": "USA",
                             "status": 0
                         },
                         "6": {
-                            "name": "Jade  GILLET y Emily  HALLIFAX",
+                            "name": "Francia",
                             "country_domain": "FRA",
                             "status": 0
                         },
                         "7": {
-                            "name": "Andrea Spendolini-Sirieix y Lois Toulson",
+                            "name": "Gran Bretaña",
                             "country_domain": "GBR",
                             "status": 0
                         },
                         "8": {
-                            "name": "Kim Mi-rae y Jin Mi-jo",
+                            "name": "Corea del Norte",
                             "country_domain": "PRK",
                             "status": 0
                         }
@@ -26749,42 +26803,42 @@
                     "finished": false,
                     "prediction": {
                         "1": {
-                            "name": "Hao YANG y Junjie LIAN",
+                            "name": "China",
                             "country_domain": "CHN",
                             "status": 0
                         },
                         "2": {
-                            "name": "Rylan WIENS y Nathan ZSOMBOR-MURRAY",
+                            "name": "Canadá",
                             "country_domain": "CAN",
                             "status": 0
                         },
                         "3": {
-                            "name": "Kevin Berlín y Randal Willars ",
+                            "name": "México",
                             "country_domain": "MEX",
                             "status": 0
                         },
                         "4": {
-                            "name": "Tom Daley y Noah Williams",
+                            "name": "Gran Bretaña",
                             "country_domain": "GBR",
                             "status": 0
                         },
                         "5": {
-                            "name": "Cassiel  ROUSSEAU y Domonic  BEDGGOOD ",
+                            "name": "Australia",
                             "country_domain": "AUS",
                             "status": 0
                         },
                         "6": {
-                            "name": "Ole Johannes  ROSLER y Espen  PRENZYNA ",
+                            "name": "Ucrania",
                             "country_domain": "UKR",
                             "status": 0
                         },
                         "7": {
-                            "name": "Timo  BARTHEL y Jaden Shiloh  EIKERMANN GREGORCHUK",
+                            "name": "Alemania",
                             "country_domain": "GER",
                             "status": 0
                         },
                         "8": {
-                            "name": "Gary Hunt y Loïs Szymczak",
+                            "name": "Francia",
                             "country_domain": "FRA",
                             "status": 0
                         }
