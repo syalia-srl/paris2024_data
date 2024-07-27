@@ -19597,42 +19597,50 @@
                     "prediction": {
                         "1": {
                             "name": "Mollie O'Callaghan",
+                            "name_en": "Mollie O'Callaghan",
                             "country_domain": "AUS",
                             "status": 0
                         },
                         "2": {
                             "name": "Siobhán Haughey",
+                            "name_en": "Siobhan Haughey",
                             "country_domain": "HKG",
                             "status": 0
                         },
                         "3": {
-                            "name": "Summer McIntosh",
-                            "country_domain": "CAN",
+                            "name": "Ariarne Titmus",
+                            "name_en": "Ariarne Titmus",
+                            "country_domain": "AUS",
                             "status": 0
                         },
                         "4": {
-                            "name": "Ariarne Titmus",
+                            "name": "Yang Junxuan",
+                            "name_en": "Yang Junxuan",
                             "country_domain": "CHN",
                             "status": 0
                         },
                         "5": {
-                            "name": "Yang Junxuan",
-                            "country_domain": "USA",
-                            "status": 0
-                        },
-                        "6": {
                             "name": "Erika Fairweather",
+                            "name_en": "Erika Fairweather",
                             "country_domain": "NZL",
                             "status": 0
                         },
-                        "7": {
+                        "6": {
                             "name": "Li Bingjie",
+                            "name_en": "Li Bingjie",
                             "country_domain": "CHN",
                             "status": 0
                         },
-                        "8": {
+                        "7": {
                             "name": "Barbora Seemanová",
+                            "name_en": "Barbora Seemanova",
                             "country_domain": "CZE",
+                            "status": 0
+                        },
+                        "8": {
+                            "name": "Claire Weinstein",
+                            "name_en": "Claire Weinstein",
+                            "country_domain": "USA",
                             "status": 0
                         }
                     },
@@ -19796,42 +19804,50 @@
                     "prediction": {
                         "1": {
                             "name": "Summer McIntosh",
+                            "name_en": "Summer McIntosh",
                             "country_domain": "CAN",
                             "status": 0
                         },
                         "2": {
                             "name": "Katie Ledecky",
+                            "name_en": "Katie Ledecky",
                             "country_domain": "USA",
                             "status": 0
                         },
                         "3": {
                             "name": "Ariarne Titmus",
+                            "name_en": "Ariarne Titmus",
                             "country_domain": "AUS",
                             "status": 0
                         },
                         "4": {
                             "name": "Erika Fairweather",
+                            "name_en": "Erika Fairweather",
                             "country_domain": "NZL",
                             "status": 0
                         },
                         "5": {
-                            "name": "Lani Pallister",
-                            "country_domain": "AUS",
-                            "status": 0
-                        },
-                        "6": {
                             "name": "Li Bingjie",
+                            "name_en": "Li Bingjie",
                             "country_domain": "CHN",
                             "status": 0
                         },
-                        "7": {
+                        "6": {
                             "name": "Isabel Gose",
+                            "name_en": "Isabel Gose",
                             "country_domain": "GER",
                             "status": 0
                         },
-                        "8": {
+                        "7": {
                             "name": "Paige Madden",
+                            "name_en": "Paige Madden",
                             "country_domain": "USA",
+                            "status": 0
+                        },
+                        "8": {
+                            "name": "Maria Fernanda de Oliveira da Silva Costa",
+                            "name_en": "Maria Fernanda de Oliveira da Silva Costa",
+                            "country_domain": "BRA",
                             "status": 0
                         }
                     },
@@ -20393,41 +20409,49 @@
                     "prediction": {
                         "1": {
                             "name": "Regan Smith",
+                            "name_en": "Regan Smith",
                             "country_domain": "USA",
                             "status": 0
                         },
                         "2": {
                             "name": "Kaylee McKeown",
+                            "name_en": "Kaylee McKeown",
                             "country_domain": "AUS",
                             "status": 0
                         },
                         "3": {
                             "name": "Katharine Berkoff",
+                            "name_en": "Katharine Berkoff",
                             "country_domain": "USA",
                             "status": 0
                         },
                         "4": {
                             "name": "Kylie Masse",
+                            "name_en": "Kylie Masse",
                             "country_domain": "CAN",
                             "status": 0
                         },
                         "5": {
-                            "name": "Mollie O'Callaghan",
+                            "name": "Iona Anderson",
+                            "name_en": "Iona Anderson",
                             "country_domain": "AUS",
                             "status": 0
                         },
                         "6": {
                             "name": "Wan Letian",
+                            "name_en": "Wan Letian",
                             "country_domain": "CHN",
                             "status": 0
                         },
                         "7": {
                             "name": "Ingrid Wilm",
+                            "name_en": "Ingrid Wilm",
                             "country_domain": "CAN",
                             "status": 0
                         },
                         "8": {
                             "name": "Wang Xue'er",
+                            "name_en": "Wang Xue'er",
                             "country_domain": "CHN",
                             "status": 0
                         }
@@ -20627,7 +20651,7 @@
                         },
                         "8": {
                             "name": "Anastasiya Shkurdai",
-                            "country_domain": "BLR",
+                            "country_domain": "AIN",
                             "status": 0
                         }
                     },
@@ -21484,42 +21508,50 @@
                     "prediction": {
                         "1": {
                             "name": "Tomoru Honda",
+                            "name_en": "Tomoru Honda",
                             "country_domain": "JPN",
                             "status": 0
                         },
                         "2": {
                             "name": "Kristóf Milák",
+                            "name_en": "Kristof Milak",
                             "country_domain": "HUN",
                             "status": 0
                         },
                         "3": {
                             "name": "Léon Marchand",
+                            "name_en": "Leon Marchand",
                             "country_domain": "FRA",
                             "status": 0
                         },
                         "4": {
                             "name": "Krzysztof Chmielewski",
+                            "name_en": "Krzysztof Chmielewski",
                             "country_domain": "POL",
                             "status": 0
                         },
                         "5": {
-                            "name": "Ilya Kharun",
-                            "country_domain": "CAN",
-                            "status": 0
-                        },
-                        "6": {
-                            "name": "Alberto Razzetti",
-                            "country_domain": "ITA",
-                            "status": 0
-                        },
-                        "7": {
-                            "name": "Luca Urlando",
+                            "name": "Thomas Heilman",
+                            "name_en": "Thomas Heilman",
                             "country_domain": "USA",
                             "status": 0
                         },
-                        "8": {
+                        "6": {
                             "name": "Noè Ponti",
+                            "name_en": "Noe Ponti",
                             "country_domain": "SUI",
+                            "status": 0
+                        },
+                        "7": {
+                            "name": "Alberto Razzetti",
+                            "name_en": "Alberto Razzetti",
+                            "country_domain": "ITA",
+                            "status": 0
+                        },
+                        "8": {
+                            "name": "Ilya Kharun",
+                            "name_en": "Ilya Kharun",
+                            "country_domain": "CAN",
                             "status": 0
                         }
                     },
@@ -21786,42 +21818,50 @@
                     "prediction": {
                         "1": {
                             "name": "Summer McIntosh",
+                            "name_en": "Summer McIntosh",
                             "country_domain": "CAN",
                             "status": 0
                         },
                         "2": {
                             "name": "Katie Grimes",
+                            "name_en": "Katie Grimes",
                             "country_domain": "USA",
                             "status": 0
                         },
                         "3": {
-                            "name": "Freya Constance Colbert",
-                            "country_domain": "GBR",
+                            "name": "Jenna Forrester",
+                            "name_en": "Jenna Forrester",
+                            "country_domain": "AUS",
                             "status": 0
                         },
                         "4": {
-                            "name": "Mio Narita",
-                            "country_domain": "JPN",
+                            "name": "Freya Constance Colbert",
+                            "name_en": "Freya Constance Colbert",
+                            "country_domain": "GBR",
                             "status": 0
                         },
                         "5": {
-                            "name": "Emma Weyant",
-                            "country_domain": "USA",
+                            "name": "Mio Narita",
+                            "name_en": "Mio Narita",
+                            "country_domain": "JPN",
                             "status": 0
                         },
                         "6": {
                             "name": "Anastasia Gorbenko",
+                            "name_en": "Anastasia Gorbenko",
                             "country_domain": "ISR",
                             "status": 0
                         },
                         "7": {
-                            "name": "Ageha Tanigawa",
-                            "country_domain": "JPN",
+                            "name": "Emma Weyant",
+                            "name_en": "Emma Weyant",
+                            "country_domain": "USA",
                             "status": 0
                         },
                         "8": {
-                            "name": "Katie Shanahan",
-                            "country_domain": "GBR",
+                            "name": "Ageha Tanigawa",
+                            "name_en": "Ageha Tanigawa",
+                            "country_domain": "JPN",
                             "status": 0
                         }
                     },
@@ -21882,42 +21922,50 @@
                     "prediction": {
                         "1": {
                             "name": "Léon Marchand",
+                            "name_en": "Leon Marchand",
                             "country_domain": "FRA",
                             "status": 0
                         },
                         "2": {
                             "name": "Carson Foster",
+                            "name_en": "Carson Foster",
                             "country_domain": "USA",
                             "status": 0
                         },
                         "3": {
-                            "name": "Chase Kalisz",
-                            "country_domain": "USA",
+                            "name": "Daiya Seto",
+                            "name_en": "Daiya Seto",
+                            "country_domain": "JPN",
                             "status": 0
                         },
                         "4": {
-                            "name": "Brendon Smith ",
-                            "country_domain": "AUS",
+                            "name": "Chase Kalisz",
+                            "name_en": "Chase Kalisz",
+                            "country_domain": "USA",
                             "status": 0
                         },
                         "5": {
-                            "name": "Lewis Clareburt",
-                            "country_domain": "NZL",
+                            "name": "Brendon Smith",
+                            "name_en": "Brendon Smith",
+                            "country_domain": "AUS",
                             "status": 0
                         },
                         "6": {
                             "name": "Alberto Razzetti",
+                            "name_en": "Alberto Razzetti",
                             "country_domain": "ITA",
                             "status": 0
                         },
                         "7": {
-                            "name": "Max Litchfield",
-                            "country_domain": "GBR",
+                            "name": "Lewis Clareburt",
+                            "name_en": "Lewis Clareburt",
+                            "country_domain": "NZL",
                             "status": 0
                         },
                         "8": {
-                            "name": "Tomoyuki Matsushita",
-                            "country_domain": "JPN",
+                            "name": "Max Litchfield",
+                            "name_en": "Max Litchfield",
+                            "country_domain": "GBR",
                             "status": 0
                         }
                     },
@@ -21985,42 +22033,50 @@
                     "prediction": {
                         "1": {
                             "name": "Australia",
+                            "name_en": "Australia",
                             "country_domain": "AUS",
                             "status": 0
                         },
                         "2": {
                             "name": "Estados Unidos",
+                            "name_en": "United States",
                             "country_domain": "USA",
                             "status": 0
                         },
                         "3": {
                             "name": "China",
+                            "name_en": "China",
                             "country_domain": "CHN",
                             "status": 0
                         },
                         "4": {
                             "name": "Francia",
+                            "name_en": "France",
                             "country_domain": "FRA",
                             "status": 0
                         },
                         "5": {
                             "name": "Países Bajos",
+                            "name_en": "Netherlands",
                             "country_domain": "NED",
                             "status": 0
                         },
                         "6": {
                             "name": "Suecia",
+                            "name_en": "Sweden",
                             "country_domain": "SWE",
                             "status": 0
                         },
                         "7": {
                             "name": "Canadá",
+                            "name_en": "Canada",
                             "country_domain": "CAN",
                             "status": 0
                         },
                         "8": {
-                            "name": "Japón",
-                            "country_domain": "JPN",
+                            "name": "Reino Unido",
+                            "name_en": "Great Britain",
+                            "country_domain": "GBR",
                             "status": 0
                         }
                     },
