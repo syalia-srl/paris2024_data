@@ -9660,22 +9660,22 @@
                 },
                 "male": {
                     "date": "2024/07/27",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Joshua Tarling",
                             "country_domain": "GBR",
-                            "status": 0
+                            "status": 1
                         },
                         "2": {
                             "name": "Remco Evenepoel",
                             "country_domain": "BEL",
-                            "status": 0
+                            "status": 4
                         },
                         "3": {
                             "name": "Wout Van Aert",
                             "country_domain": "BEL",
-                            "status": 0
+                            "status": 2
                         },
                         "4": {
                             "name": "Derek Gee",
@@ -9700,59 +9700,113 @@
                         "8": {
                             "name": "Brandon Mcnulty",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 1
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Remco Evenepoel",
+                                "country_domain": "BEL"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Filippo Ganna",
+                                "country_domain": "ITA"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Wout Van Aert",
+                                "country_domain": "BEL"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Joshua Tarling",
+                                "country_domain": "GBR"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Brandon Mcnulty",
+                                "country_domain": "USA"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Stefan Bissegger",
+                                "country_domain": "SUI"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Nelson Oliveira",
+                                "country_domain": "POR"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Stefan Kueng",
+                                "country_domain": "SUI"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1" : {
+                                    "name": "Joshua Tarling",
+                                    "country_domain": "GBR",
+                                    "status": 1,
+                                    "cstatus": 2
+
+                                },
+                                "2" : {
+                                    "name": "Filippo Ganna",
+                                    "country_domain": "ITA",
+                                    "status": 2,
+                                    "cstatus": 0
+
+                                },
+                                "3" : {
+                                    "name": "Remco Evenepoel",
+                                    "country_domain": "DEL",
+                                    "status": 4,
+                                    "cstatus": 3
+
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1" : {
+                                    "name": "Joshua Tarling",
+                                    "country_domain": "GBR",
+                                    "status": 1,
+                                    "cstatus": 2
+
+                                },
+                                "2" : {
+                                    "name": "Filippo Ganna",
+                                    "country_domain": "ITA",
+                                    "status": 2,
+                                    "cstatus": 0
+
+                                },
+                                "3" : {
+                                    "name": "Remco Evenepoel",
+                                    "country_domain": "DEL",
+                                    "status": 4,
+                                    "cstatus": 3
+
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
@@ -26199,7 +26253,61 @@
                                 "country_domain": ""
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1" : {
+                                    "name": "Nueva Zelanda",
+                                    "country_domain": "NZL",
+                                    "status": 0,
+                                    "cstatus": 3
+
+                                },
+                                "2" : {
+                                    "name": "Australia",
+                                    "country_domain": "AUS",
+                                    "status": 0,
+                                    "cstatus": 4
+
+                                },
+                                "3" : {
+                                    "name": "Francia",
+                                    "country_domain": "FRA",
+                                    "status": 0,
+                                    "cstatus": 2
+
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1" : {
+                                    "name": "Nueva Zelanda",
+                                    "country_domain": "NZL",
+                                    "status": 0,
+                                    "cstatus": 3
+
+                                },
+                                "2" : {
+                                    "name": "Francia",
+                                    "country_domain": "FRA",
+                                    "status": 0,
+                                    "cstatus": 3
+
+                                },
+                                "3" : {
+                                    "name": "Australia",
+                                    "country_domain": "AUS",
+                                    "status": 0,
+                                    "cstatus": 4
+
+                                }
+                            }
+                        }
+                    ]
                 },
                 "male": {
                     "date": "2024/07/27",
@@ -26295,7 +26403,61 @@
                                 "country_domain": ""
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1" : {
+                                    "name": "Fiji",
+                                    "country_domain": "FIJ",
+                                    "status": 0,
+                                    "cstatus": 0
+
+                                },
+                                "2" : {
+                                    "name": "Nueva Zelanda",
+                                    "country_domain": "NZL",
+                                    "status": 0,
+                                    "cstatus": 0
+
+                                },
+                                "3" : {
+                                    "name": "Australia",
+                                    "country_domain": "AUS",
+                                    "status": 0,
+                                    "cstatus": 0
+
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1" : {
+                                    "name": "Francia",
+                                    "country_domain": "FRA",
+                                    "status": 0,
+                                    "cstatus": 3
+
+                                },
+                                "2" : {
+                                    "name": "Fiji",
+                                    "country_domain": "FIJ",
+                                    "status": 0,
+                                    "cstatus": 4
+
+                                },
+                                "3" : {
+                                    "name": "Argentina",
+                                    "country_domain": "ARG",
+                                    "status": 0,
+                                    "cstatus": 2
+
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
