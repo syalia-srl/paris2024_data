@@ -108,22 +108,22 @@
         },
         "bmx": {
             "name": "Ciclismo BMX",
-            "prediction_by": "cng",
+            "prediction_by": "cmg",
             "multiple_bronce": false
         },
         "cim": {
             "name": "Ciclismo Mountain Bike",
-            "prediction_by": "cng",
+            "prediction_by": "cmg",
             "multiple_bronce": false
         },
         "cip": {
             "name": "Ciclismo Pista",
-            "prediction_by": "cng",
+            "prediction_by": "cmg",
             "multiple_bronce": false
         },
         "cir": {
             "name": "Ciclismo Ruta",
-            "prediction_by": "cng",
+            "prediction_by": "cmg",
             "multiple_bronce": false
         },
         "esc": {
@@ -9510,17 +9510,17 @@
             "sex": {
                 "female": {
                     "date": "2024/07/27",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Grace Brown",
                             "country_domain": "AUS",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "Chloe Dygert",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 3
                         },
                         "3": {
                             "name": "Ellen Van Dijk",
@@ -9535,17 +9535,17 @@
                         "5": {
                             "name": "Demi Vollering",
                             "country_domain": "NED",
-                            "status": 0
+                            "status": 2
                         },
                         "6": {
                             "name": "Lotte Kopecky",
                             "country_domain": "BEL",
-                            "status": 0
+                            "status": 2
                         },
                         "7": {
                             "name": "Juliette Labous",
                             "country_domain": "FRA",
-                            "status": 0
+                            "status": 1
                         },
                         "8": {
                             "name": "Vittoria Guazzini",
@@ -9556,53 +9556,107 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Grace Brown",
+                                "country_domain": "AUS"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Anna Henderson",
+                                "country_domain": "GBR"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Chloé Dygert ",
+                                "country_domain": "USA"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Juliette Labous",
+                                "country_domain": "FRA"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Demi Vollering",
+                                "country_domain": "NED"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Lotte Kopecky",
+                                "country_domain": "BEL"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Kim Cadzow",
+                                "country_domain": "NZL"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Elisa Longo Borghini",
+                                "country_domain": "ITA"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1" : {
+                                    "name": "Ellen van Dijk",
+                                    "country_domain": "NED",
+                                    "status": 0,
+                                    "cstatus": 1
+
+                                },
+                                "2" : {
+                                    "name": "Chloé Dygert",
+                                    "country_domain": "USA",
+                                    "status": 3,
+                                    "cstatus": 2
+
+                                },
+                                "3" : {
+                                    "name": "Demi Vollering ",
+                                    "country_domain": "NED",
+                                    "status": 1,
+                                    "cstatus": 1
+
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1" : {
+                                    "name": "Chloé Dygert",
+                                    "country_domain": "USA",
+                                    "status": 3,
+                                    "cstatus": 3
+
+                                },
+                                "2" : {
+                                    "name": "Ellen van Dijk",
+                                    "country_domain": "NED",
+                                    "status": 0,
+                                    "cstatus": 3
+
+                                },
+                                "3" : {
+                                    "name": "Grace Brown",
+                                    "country_domain": "",
+                                    "status": 4,
+                                    "cstatus": 4
+
+                                }
+                            }
+                        }
+                    ]
                 },
                 "male": {
                     "date": "2024/07/27",
