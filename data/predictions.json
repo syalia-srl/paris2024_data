@@ -27595,38 +27595,38 @@
                             "status": 0
                         },
                         "2": {
-                            "name": "Pamela  WARE",
-                            "country_domain": "CAN",
-                            "status": 0
-                        },
-                        "3": {
                             "name": "Yani CHANG",
                             "country_domain": "CHN",
                             "status": 0
                         },
-                        "4": {
-                            "name": "Scarlett  MEW JENSEN",
-                            "country_domain": "GBR",
-                            "status": 0
-                        },
-                        "5": {
+                        "3": {
                             "name": "Alison  GIBSON",
                             "country_domain": "USA",
                             "status": 0
                         },
+                        "4": {
+                            "name": "Chiara Pellacani",
+                            "country_domain": "ITA",
+                            "status": 0
+                        },
+                        "5": {
+                            "name": "Aranza  VAZQUEZ MONTANO",
+                            "country_domain": "MEX",
+                            "status": 0
+                        },
                         "6": {
-                            "name": "Georgia  SHEEHAN ",
+                            "name": "Alysha  KOLOI ",
                             "country_domain": "AUS",
                             "status": 0
                         },
                         "7": {
-                            "name": "Hailey  HERNANDEZ",
-                            "country_domain": "USA",
+                            "name": "Margo  ERLAM ",
+                            "country_domain": "CAN",
                             "status": 0
                         },
                         "8": {
-                            "name": "Chiara  PELLACANI",
-                            "country_domain": "ITA",
+                            "name": "Saskia  OETTINGHAUS ",
+                            "country_domain": "GER",
                             "status": 0
                         }
                     },
@@ -27696,33 +27696,33 @@
                             "status": 0
                         },
                         "3": {
-                            "name": "Jordan Christopher  HOULDEN",
+                            "name": "Jordan Christopher  HOULDEN  ",
                             "country_domain": "GBR",
                             "status": 0
                         },
                         "4": {
-                            "name": "Daniel  GOODFELLOW",
-                            "country_domain": "GBR",
-                            "status": 0
-                        },
-                        "5": {
-                            "name": "Ross  HASLAM",
-                            "country_domain": "GBR",
-                            "status": 0
-                        },
-                        "6": {
-                            "name": "Haram  WOO",
+                            "name": "Haram  WOO ",
                             "country_domain": "KOR",
                             "status": 0
                         },
+                        "5": {
+                            "name": "Moritz  WESEMANN",
+                            "country_domain": "GER",
+                            "status": 0
+                        },
+                        "6": {
+                            "name": "Sho  SAKAI ",
+                            "country_domain": "JPN",
+                            "status": 0
+                        },
                         "7": {
-                            "name": "Shixin  LI",
+                            "name": "Kurtis  MATHEWS",
                             "country_domain": "AUS",
                             "status": 0
                         },
                         "8": {
-                            "name": "Moritz  WESEMANN",
-                            "country_domain": "GER",
+                            "name": "Yona  KNIGHT-WISDOM",
+                            "country_domain": "JAM",
                             "status": 0
                         }
                     },
@@ -27993,7 +27993,7 @@
                             "status": 0
                         },
                         "2": {
-                            "name": "Hongchan QUAN",
+                            "name": " Hongchan QUAN",
                             "country_domain": "CHN",
                             "status": 0
                         },
@@ -28008,7 +28008,7 @@
                             "status": 0
                         },
                         "5": {
-                            "name": "Lois  TOULSON",
+                            "name": " Lois  TOULSON",
                             "country_domain": "GBR",
                             "status": 0
                         },
@@ -28018,13 +28018,13 @@
                             "status": 0
                         },
                         "7": {
-                            "name": "Elena  WASSEN",
-                            "country_domain": "GER",
+                            "name": "Alejandra  OROZCO LOZA",
+                            "country_domain": "MEX",
                             "status": 0
                         },
                         "8": {
-                            "name": " Alejandra  OROZCO LOZA",
-                            "country_domain": "MEX",
+                            "name": " Ellie  COLE",
+                            "country_domain": "AUS",
                             "status": 0
                         }
                     },
@@ -28084,43 +28084,43 @@
                     "finished": false,
                     "prediction": {
                         "1": {
-                            "name": "Yuxi CHEN",
+                            "name": "Yuan CAO",
                             "country_domain": "CHN",
                             "status": 0
                         },
                         "2": {
-                            "name": "Hongchan QUAN",
+                            "name": "Hao YANG",
                             "country_domain": "CHN",
                             "status": 0
                         },
                         "3": {
-                            "name": "Caeli  MCKAY",
-                            "country_domain": "CAN",
-                            "status": 0
-                        },
-                        "4": {
-                            "name": "Matsuri  ARAI",
-                            "country_domain": "JPN",
-                            "status": 0
-                        },
-                        "5": {
-                            "name": "Lois  TOULSON",
+                            "name": "Kyle  KOTHARI",
                             "country_domain": "GBR",
                             "status": 0
                         },
+                        "4": {
+                            "name": "Rylan  WIENS",
+                            "country_domain": "CAN",
+                            "status": 0
+                        },
+                        "5": {
+                            "name": "Oleksii  SEREDA",
+                            "country_domain": "UKR",
+                            "status": 0
+                        },
                         "6": {
-                            "name": "Gabriela  AGUNDEZ GARCIA",
-                            "country_domain": "MEX",
+                            "name": "Noah  WILLIAMS",
+                            "country_domain": "GBR",
                             "status": 0
                         },
                         "7": {
-                            "name": "Elena  WASSEN",
-                            "country_domain": "GER",
+                            "name": "Cassiel  ROUSSEAU",
+                            "country_domain": "AUS",
                             "status": 0
                         },
                         "8": {
-                            "name": " Alejandra  OROZCO LOZA",
-                            "country_domain": "MEX",
+                            "name": "Rikuto  TAMAI",
+                            "country_domain": "JPN",
                             "status": 0
                         }
                     },
