@@ -8209,7 +8209,55 @@
                                 "country_domain": ""
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Pauline Ferrand Prevot",
+                                    "country_domain": "FRA",
+                                    "status": 0,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Puck Pieterse",
+                                    "country_domain": "NED",
+                                    "status": 0,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "Jolanda Nef",
+                                    "country_domain": "SUI",
+                                    "status": 0,
+                                    "cstatus": 1
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Pauline Ferrand Prevot",
+                                    "country_domain": "FRA",
+                                    "status": 0,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Puck Pieterse",
+                                    "country_domain": "NED",
+                                    "status": 0,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "Alessandra Keller",
+                                    "country_domain": "SUI",
+                                    "status": 0,
+                                    "cstatus": 1
+                                }
+                            }
+                        }
+                    ]
                 },
                 "male": {
                     "date": "2024/07/29",
