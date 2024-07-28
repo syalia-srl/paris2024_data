@@ -16141,54 +16141,46 @@
                     "finished": false,
                     "prediction": {
                         "1": {
-                          "name": "ABE Uta",
-                          "name_en": "ABE Uta",
-                          "country_domain": "JPN",
-                          "status": 0
+                            "name": "ABE Uta",
+                            "country_domain": "JPN",
+                            "status": 0
                         },
                         "2": {
-                          "name": "KRASNIQI Distria",
-                          "name_en": "KRASNIQI Distria",
-                          "country_domain": "KOS",
-                          "status": 0
+                            "name": "KRASNIQI Distria",
+                            "country_domain": "KOS",
+                            "status": 0
                         },
                         "3": {
-                          "name": "GIUFFRIDA Odette",
-                          "name_en": "GIUFFRIDA Odette",
-                          "country_domain": "ITA",
-                          "status": 0
+                            "name": "GIUFFRIDA Odette",
+                            "country_domain": "ITA",
+                            "status": 0
                         },
                         "4": {
-                          "name": "BUCHARD Amandine",
-                          "name_en": "BUCHARD Amandine",
-                          "country_domain": "FRA",
-                          "status": 0
+                            "name": "BUCHARD Amandine",
+                            "country_domain": "FRA",
+                            "status": 0
                         },
                         "5": {
-                          "name": "GILES Chelsie",
-                          "name_en": "GILES Chelsie",
-                          "country_domain": "GBR",
-                          "status": 0
+                            "name": "GILES Chelsie",
+                            "country_domain": "GBR",
+                            "status": 0
                         },
                         "6": {
-                          "name": "PUPP Reka",
-                          "name_en": "PUPP Reka",
-                          "country_domain": "HUN",
-                          "status": 0
+                            "name": "PUPP Reka",
+                            "country_domain": "HUN",
+                            "status": 0
                         },
                         "7": {
-                          "name": "BISHRELT Khorloodoi",
-                          "name_en": "BISHRELT Khorloodoi",
-                          "country_domain": "UAE",
-                          "status": 0
+                            "name": "BISHRELT Khorloodoi",
+                            "country_domain": "UAE",
+                            "status": 0
                         },
                         "8": {
-                          "name": "PRIMO Gefen",
-                          "name_en": "PRIMO Gefen",
-                          "country_domain": "ISR",
-                          "status": 0
+                            "name": "PRIMO Gefen",
+                            "country_domain": "ISR",
+                            "status": 0
                         }
-                      },
+                    },
                     "result": {
                         "1": [
                             {
@@ -16238,7 +16230,67 @@
                                 "country_domain": ""
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "KRASNIQI Distria",
+                                    "country_domain": "KOS",
+                                    "status": 0,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "ABE Uta",
+                                    "country_domain": "JPN",
+                                    "status": 0,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "BUCHARD Amandin",
+                                    "country_domain": "FRA",
+                                    "status": 0,
+                                    "cstatus": 2
+                                },
+                                "4": {
+                                    "name": "KELDIYOROVA Diyora ",
+                                    "country_domain": "UZB",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "ABE Uta",
+                                    "country_domain": "JPN",
+                                    "status": 0,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "KRASNIQI Distria",
+                                    "country_domain": "KOS",
+                                    "status": 0,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "GIUFFRIDA Odette",
+                                    "country_domain": "ITA",
+                                    "status": 0,
+                                    "cstatus": 2
+                                },
+                                "4": {
+                                    "name": "BUCHARD Amandine",
+                                    "country_domain": "FRA",
+                                    "status": 0,
+                                    "cstatus": 2
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
@@ -16252,54 +16304,46 @@
                     "finished": false,
                     "prediction": {
                         "1": {
-                          "name": "ABE Hifumi",
-                          "name_en": "ABE Hifumi",
-                          "country_domain": "JPN",
-                          "status": 0
+                            "name": "ABE Hifumi",
+                            "country_domain": "JPN",
+                            "status": 0
                         },
                         "2": {
-                          "name": "AN Baul",
-                          "name_en": "AN Baul",
-                          "country_domain": "KOR",
-                          "status": 0
+                            "name": "AN Baul",
+                            "country_domain": "KOR",
+                            "status": 0
                         },
                         "3": {
-                          "name": "EMOMALI Nurali",
-                          "name_en": "EMOMALI Nurali",
-                          "country_domain": "TJK",
-                          "status": 0
+                            "name": "EMOMALI Nurali",
+                            "country_domain": "TJK",
+                            "status": 0
                         },
                         "4": {
-                          "name": "MARGVELASHVILI Vazha",
-                          "name_en": "MARGVELASHVILI Vazha",
-                          "country_domain": "GEO",
-                          "status": 0
+                            "name": "MARGVELASHVILI Vazha",
+                            "country_domain": "GEO",
+                            "status": 0
                         },
                         "5": {
-                          "name": "YONDONPERENLEI Baskhuu",
-                          "name_en": "YONDONPERENLEI Baskhuu",
-                          "country_domain": "MGL",
-                          "status": 0
+                            "name": "YONDONPERENLEI Baskhuu",
+                            "country_domain": "MGL",
+                            "status": 0
                         },
                         "6": {
-                          "name": "VIERU Denis",
-                          "name_en": "VIERU Denis",
-                          "country_domain": "MDA",
-                          "status": 0
+                            "name": "VIERU Denis",
+                            "country_domain": "MDA",
+                            "status": 0
                         },
                         "7": {
-                          "name": "NAJAFOV Yashar",
-                          "name_en": "NAJAFOV Yashar",
-                          "country_domain": "AZE",
-                          "status": 0
+                            "name": "NAJAFOV Yashar",
+                            "country_domain": "AZE",
+                            "status": 0
                         },
                         "8": {
-                          "name": "NURILLAEV Sardor",
-                          "name_en": "NURILLAEV Sardor",
-                          "country_domain": "UZB",
-                          "status": 0
+                            "name": "NURILLAEV Sardor",
+                            "country_domain": "UZB",
+                            "status": 0
                         }
-                      },
+                    },
                     "result": {
                         "1": [
                             {
@@ -16349,7 +16393,67 @@
                                 "country_domain": ""
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "ABE Hifumi",
+                                    "country_domain": "JPN",
+                                    "status": 0,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "KHYAR Walibre",
+                                    "country_domain": "FRA",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "AN Baul",
+                                    "country_domain": "KOR",
+                                    "status": 0,
+                                    "cstatus": 3
+                                },
+                                "4": {
+                                    "name": "VIERU Denis",
+                                    "country_domain": "MDA",
+                                    "status": 0,
+                                    "cstatus": 1
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "ABE Hifumi",
+                                    "country_domain": "JPN",
+                                    "status": 0,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "MARGVELASHVILI Vazha",
+                                    "country_domain": "GEO",
+                                    "status": 0,
+                                    "cstatus": 3
+                                },
+                                "3": {
+                                    "name": "AN Baul",
+                                    "country_domain": "KOR",
+                                    "status": 0,
+                                    "cstatus": 3
+                                },
+                                "4": {
+                                    "name": "VIERU Denis",
+                                    "country_domain": "MDA",
+                                    "status": 0,
+                                    "cstatus": 1
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
@@ -23164,42 +23268,42 @@
                     "finished": false,
                     "prediction": {
                         "1": {
-                            "name": "Liuyi WANG y Qianyi WANG",
+                            "name": "China",
                             "country_domain": "CHN",
                             "status": 0
                         },
                         "2": {
-                            "name": "Maryna ALEKSIIVA y Vladyslava ALEKSIIVA",
+                            "name": "Ucrania",
                             "country_domain": "UKR",
                             "status": 0
                         },
                         "3": {
-                            "name": "Kate SHORTMAN y Isabelle THORPE",
+                            "name": "Gran Bretaña",
                             "country_domain": "GBR",
                             "status": 0
                         },
                         "4": {
-                            "name": "Moe HIGA y Mashiro YASUNAGA",
+                            "name": "Japón",
                             "country_domain": "JPN",
                             "status": 0
                         },
                         "5": {
-                            "name": "Alisa OZHOGINA OZHOGIN y Iris TIO CASAS",
+                            "name": "España",
                             "country_domain": "ESP",
                             "status": 0
                         },
                         "6": {
-                            "name": "Anna-Maria ALEXANDRI y Eirini-Marina ALEXANDRI",
+                            "name": "Austria",
                             "country_domain": "AUT",
                             "status": 0
                         },
                         "7": {
-                            "name": "Audrey LAMOTHE y Jacqueline SIMONEAU",
+                            "name": "Canadá",
                             "country_domain": "CAN",
                             "status": 0
                         },
                         "8": {
-                            "name": "Anastasia BAYANDINA y Eve PLANEIX",
+                            "name": "Francia",
                             "country_domain": "FRA",
                             "status": 0
                         }
@@ -27511,33 +27615,33 @@
                             "status": 0
                         },
                         "3": {
-                            "name": "México",
-                            "country_domain": "MEX",
-                            "status": 0
-                        },
-                        "4": {
-                            "name": "Gran Bretaña",
-                            "country_domain": "GBR",
-                            "status": 0
-                        },
-                        "5": {
-                            "name": "Australia",
-                            "country_domain": "AUS",
-                            "status": 0
-                        },
-                        "6": {
-                            "name": "Ucrania",
-                            "country_domain": "UKR",
-                            "status": 0
-                        },
-                        "7": {
                             "name": "Alemania",
                             "country_domain": "GER",
                             "status": 0
                         },
-                        "8": {
+                        "4": {
+                            "name": "México",
+                            "country_domain": "MEX",
+                            "status": 0
+                        },
+                        "5": {
+                            "name": "Gran Bretaña",
+                            "country_domain": "GBR",
+                            "status": 0
+                        },
+                        "6": {
                             "name": "Francia",
                             "country_domain": "FRA",
+                            "status": 0
+                        },
+                        "7": {
+                            "name": "Australia",
+                            "country_domain": "AUS",
+                            "status": 0
+                        },
+                        "8": {
+                            "name": "Ucrania",
+                            "country_domain": "UKR",
                             "status": 0
                         }
                     },
