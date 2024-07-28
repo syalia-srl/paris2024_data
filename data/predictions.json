@@ -22473,7 +22473,7 @@
                                     "name": "Australia",
                                     "country_domain": "AUS",
                                     "status": 3,
-                                    "cstatus": 3    
+                                    "cstatus": 3
                                 },
                                 "2": {
                                     "name": "Estados Unidos",
@@ -31205,7 +31205,55 @@
                                 "country_domain": ""
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "JIANG Ranxin",
+                                    "country_domain": "CHN",
+                                    "status": 0,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "ARUNOVIC Zorana",
+                                    "country_domain": "SRB",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "KORAKAKI Anna",
+                                    "country_domain": "GRE",
+                                    "status": 0,
+                                    "cstatus": 4
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "KORAKAKI Anna",
+                                    "country_domain": "GRE",
+                                    "status": 0,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "ARUNOVIC Zorana",
+                                    "country_domain": "SRB",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "JIANG Ranxin",
+                                    "country_domain": "CHN",
+                                    "status": 0,
+                                    "cstatus": 3
+                                }
+                            }
+                        }
+                    ]
                 },
                 "male": {
                     "date": "2024/07/28",
@@ -31301,7 +31349,55 @@
                                 "country_domain": ""
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "BOWEN Zhang",
+                                    "country_domain": "CHN",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "2": {
+                                    "name": "WALTER Robin",
+                                    "country_domain": "GER",
+                                    "status": 0,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "KOROSTYLOV Pavlo",
+                                    "country_domain": "UKR",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "MIKEC Damir",
+                                    "country_domain": "SRB",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "2": {
+                                    "name": "BOWEN Zhang",
+                                    "country_domain": "CHN",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "WALTER Robin",
+                                    "country_domain": "GER",
+                                    "status": 0,
+                                    "cstatus": 4
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
