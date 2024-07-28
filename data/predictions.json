@@ -27996,7 +27996,61 @@
                                 "country_domain": ""
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1" : {
+                                    "name": "Rayssa Leal",
+                            "country_domain": "BRA",
+                                    "status": 0,
+                                    "cstatus": 1
+
+                                },
+                                "2" : {
+                                    "name": "Chloe Covell",
+                            "country_domain": "AUS",
+                                    "status": 0,
+                                    "cstatus": 2
+
+                                },
+                                "3" : {
+                                    "name": "Funa Nakayam",
+                                    "country_domain": "JPN",
+                                    "status": 0,
+                                    "cstatus": 0
+
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1" : {
+                                    "name": "Rayssa Leal",
+                            "country_domain": "BRA",
+                                    "status": 0,
+                                    "cstatus": 1
+
+                                },
+                                "2" : {
+                                    "name": "Chloe Covell",
+                            "country_domain": "AUS",
+                                    "status": 0,
+                                    "cstatus": 2
+
+                                },
+                                "3" : {
+                                    "name": "Liz Akama",
+                                    "country_domain": "",
+                                    "status": 0,
+                                    "cstatus": 1
+
+                                }
+                            }
+                        }
+                    ]
                 },
                 "male": {
                     "date": "2024/07/27",
