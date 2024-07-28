@@ -24057,7 +24057,61 @@
                                 "country_domain": ""
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1" : {
+                                    "name": "Fox Jessica",
+                            "country_domain": "AUS",
+                                    "status": 0,
+                                    "cstatus": 2
+
+                                },
+                                "2" : {
+                                    "name": "Funk Ricarda",
+                            "country_domain": "GER",
+                                    "status": 0,
+                                    "cstatus": 2
+
+                                },
+                                "3" : {
+                                    "name": "Maialen Chourraut",
+                                    "country_domain": "ESP",
+                                    "status": 0,
+                                    "cstatus": 0
+
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1" : {
+                                    "name": "Funk Ricarda",
+                            "country_domain": "GER",
+                                    "status": 0,
+                                    "cstatus": 3
+
+                                },
+                                "2" : {
+                                    "name": "Fox Jessica",
+                            "country_domain": "AUS",
+                                    "status": 0,
+                                    "cstatus": 4
+
+                                },
+                                "3" : {
+                                    "name": "Kimberley Woods",
+                                    "country_domain": "GBR",
+                                    "status": 0,
+                                    "cstatus": 0
+
+                                }
+                            }
+                        }
+                    ]
                 },
                 "male": {
                     "date": "2024/08/01",
