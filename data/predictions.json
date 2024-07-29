@@ -32301,12 +32301,12 @@
             "sex": {
                 "female": {
                     "date": "2024/07/28",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Corea del Sur",
                             "country_domain": "KOR",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "Francia",
@@ -32316,27 +32316,27 @@
                         "3": {
                             "name": "China",
                             "country_domain": "CHN",
-                            "status": 0
+                            "status": 3
                         },
                         "4": {
                             "name": "India",
                             "country_domain": "IND",
-                            "status": 0
+                            "status": 1
                         },
                         "5": {
                             "name": "Alemania",
                             "country_domain": "GER",
-                            "status": 0
+                            "status": 1
                         },
                         "6": {
                             "name": "Mexico",
                             "country_domain": "MEX",
-                            "status": 0
+                            "status": 3
                         },
                         "7": {
-                            "name": "Taipei",
+                            "name": "China Taipei",
                             "country_domain": "TPE",
-                            "status": 0
+                            "status": 1
                         },
                         "8": {
                             "name": "Estados Unidos",
@@ -32347,50 +32347,50 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Corea del Sur",
+                                "country_domain": "KOR"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "China",
+                                "country_domain": "CHN"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Mexico",
+                                "country_domain": "MEX"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Países Bajos",
+                                "country_domain": "NED"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "China Taipei",
+                                "country_domain": "TPE"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Indonesia",
+                                "country_domain": "INA"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Alemania",
+                                "country_domain": "GER"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "India",
+                                "country_domain": "IND"
                             }
                         ]
                     },
@@ -32401,13 +32401,13 @@
                                 "1": {
                                     "name": "Corea del Sur",
                                     "country_domain": "KOR",
-                                    "status": 0,
+                                    "status": 2,
                                     "cstatus": 2
                                 },
                                 "2": {
                                     "name": "Alemania",
                                     "country_domain": "GER",
-                                    "status": 0,
+                                    "status": 1,
                                     "cstatus": 1
                                 },
                                 "3": {
@@ -32424,7 +32424,7 @@
                                 "1": {
                                     "name": "Corea del Sur",
                                     "country_domain": "KOR",
-                                    "status": 0,
+                                    "status": 2,
                                     "cstatus": 2
                                 },
                                 "2": {
@@ -32436,7 +32436,7 @@
                                 "3": {
                                     "name": "China",
                                     "country_domain": "CHN",
-                                    "status": 0,
+                                    "status": 3,
                                     "cstatus": 2
                                 }
                             }
