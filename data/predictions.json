@@ -8117,7 +8117,7 @@
             "sex": {
                 "female": {
                     "date": "2024/07/28",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Loana Lecomte",
@@ -8127,17 +8127,17 @@
                         "2": {
                             "name": "Pauline Ferrand Prevot",
                             "country_domain": "FRA",
-                            "status": 0
+                            "status": 4
                         },
                         "3": {
                             "name": "Jenny Rissveds",
                             "country_domain": "SWE",
-                            "status": 0
+                            "status": 2
                         },
                         "4": {
                             "name": "Puck Pieterse",
                             "country_domain": "NED",
-                            "status": 0
+                            "status": 2
                         },
                         "5": {
                             "name": "Anne Terpstra",
@@ -8147,7 +8147,7 @@
                         "6": {
                             "name": "Evie Richards",
                             "country_domain": "GBR",
-                            "status": 0
+                            "status": 1
                         },
                         "7": {
                             "name": "Jolanda Neff",
@@ -8157,56 +8157,56 @@
                         "8": {
                             "name": "Alessandra Keller",
                             "country_domain": "SUI",
-                            "status": 0
+                            "status": 1
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Pauline Ferrand Prevot",
+                                "country_domain": "FRA"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Haley Batten",
+                                "country_domain": "USA"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Jenny Rissveds",
+                                "country_domain": "SWE"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Puck Pieterse",
+                                "country_domain": "NED"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Evie Richards",
+                                "country_domain": "GBR"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Laura Stigger",
+                                "country_domain": "AUT"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Alessandra Keller",
+                                "country_domain": "SUI"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Sammie Maxwell",
+                                "country_domain": "AUS"
                             }
                         ]
                     },
@@ -8217,13 +8217,13 @@
                                 "1": {
                                     "name": "Pauline Ferrand Prevot",
                                     "country_domain": "FRA",
-                                    "status": 0,
+                                    "status": 2,
                                     "cstatus": 3
                                 },
                                 "2": {
                                     "name": "Puck Pieterse",
                                     "country_domain": "NED",
-                                    "status": 0,
+                                    "status": 1,
                                     "cstatus": 1
                                 },
                                 "3": {
@@ -8240,19 +8240,19 @@
                                 "1": {
                                     "name": "Pauline Ferrand Prevot",
                                     "country_domain": "FRA",
-                                    "status": 0,
+                                    "status": 2,
                                     "cstatus": 3
                                 },
                                 "2": {
                                     "name": "Puck Pieterse",
                                     "country_domain": "NED",
-                                    "status": 0,
+                                    "status": 1,
                                     "cstatus": 1
                                 },
                                 "3": {
                                     "name": "Alessandra Keller",
                                     "country_domain": "SUI",
-                                    "status": 0,
+                                    "status": 1,
                                     "cstatus": 1
                                 }
                             }
@@ -31608,7 +31608,7 @@
             "sex": {
                 "female": {
                     "date": "2024/07/28",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "KORAKAKI Anna",
@@ -31618,7 +31618,7 @@
                         "2": {
                             "name": "JIANG Ranxin",
                             "country_domain": "CHN",
-                            "status": 0
+                            "status": 1
                         },
                         "3": {
                             "name": "SANGWAN Rhythm",
@@ -31643,61 +31643,61 @@
                         "7": {
                             "name": "TRINH Thu Vinh",
                             "country_domain": "VIE",
-                            "status": 0
+                            "status": 1
                         },
                         "8": {
                             "name": "LI Xue",
                             "country_domain": "CHN",
-                            "status": 0
+                            "status": 1
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "YE-Jin Oh",
+                                "country_domain": "KOR"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "YE-JI Kim",
+                                "country_domain": "KOR"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "BHAKER Manu",
+                                "country_domain": "IND"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "TRINH Thu Vinh",
+                                "country_domain": "VIE"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "LI Xue",
+                                "country_domain": "CHN"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "JIANG Ranxin",
+                                "country_domain": "CHN"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "TARHAN Şevval İlayda",
+                                "country_domain": "TUR"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "MAJOR Veronika",
+                                "country_domain": "HUN"
                             }
                         ]
                     },
@@ -31708,7 +31708,7 @@
                                 "1": {
                                     "name": "JIANG Ranxin",
                                     "country_domain": "CHN",
-                                    "status": 0,
+                                    "status": 1,
                                     "cstatus": 3
                                 },
                                 "2": {
@@ -31743,7 +31743,7 @@
                                 "3": {
                                     "name": "JIANG Ranxin",
                                     "country_domain": "CHN",
-                                    "status": 0,
+                                    "status": 1,
                                     "cstatus": 3
                                 }
                             }
@@ -31752,12 +31752,12 @@
                 },
                 "male": {
                     "date": "2024/07/28",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "WALTER Robin",
                             "country_domain": "GER",
-                            "status": 0
+                            "status": 1
                         },
                         "2": {
                             "name": "TUZINSKY Juraj",
@@ -31767,7 +31767,7 @@
                         "3": {
                             "name": "MONNA Paolo",
                             "country_domain": "ITA",
-                            "status": 0
+                            "status": 2
                         },
                         "4": {
                             "name": "STRAUTMANIS Lauris",
@@ -31782,7 +31782,7 @@
                         "6": {
                             "name": "LEE Wonho",
                             "country_domain": "KOR",
-                            "status": 0
+                            "status": 1
                         },
                         "7": {
                             "name": "FOUQUET Florian",
@@ -31798,50 +31798,50 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "YU Xie",
+                                "country_domain": "CHN"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "MALDINI Federico Nilo",
+                                "country_domain": "ITA"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "MONNA Paolo",
+                                "country_domain": "ITA"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "LEE Wonho",
+                                "country_domain": "KOR"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "REITZ Christian",
+                                "country_domain": "GER"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "WALTER Robin",
+                                "country_domain": "GER"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "MIKEC Damir",
+                                "country_domain": "SRB"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "DAVAAKHUU Enkhtaivany",
+                                "country_domain": "MGL"
                             }
                         ]
                     },
@@ -31858,7 +31858,7 @@
                                 "2": {
                                     "name": "WALTER Robin",
                                     "country_domain": "GER",
-                                    "status": 0,
+                                    "status": 1,
                                     "cstatus": 4
                                 },
                                 "3": {
@@ -31875,7 +31875,7 @@
                                 "1": {
                                     "name": "MIKEC Damir",
                                     "country_domain": "SRB",
-                                    "status": 0,
+                                    "status": 1,
                                     "cstatus": 0
                                 },
                                 "2": {
@@ -31887,7 +31887,7 @@
                                 "3": {
                                     "name": "WALTER Robin",
                                     "country_domain": "GER",
-                                    "status": 0,
+                                    "status": 1,
                                     "cstatus": 4
                                 }
                             }
