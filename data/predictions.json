@@ -13394,32 +13394,32 @@
                 },
                 "male": {
                     "date": "2024/07/29",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "China",
                             "country_domain": "CHN",
-                            "status": 0
+                            "status": 3
                         },
                         "2": {
                             "name": "Japón",
                             "country_domain": "JPN",
-                            "status": 0
+                            "status": 4
                         },
                         "3": {
                             "name": "Gran Bretaña",
                             "country_domain": "GBR",
-                            "status": 0
+                            "status": 2
                         },
                         "4": {
                             "name": "Estados Unidos",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 1
                         },
                         "5": {
                             "name": "Ucrania",
                             "country_domain": "UKR",
-                            "status": 0
+                            "status": 1
                         },
                         "6": {
                             "name": "Turquía",
@@ -13434,59 +13434,107 @@
                         "8": {
                             "name": "Italia",
                             "country_domain": "ITA",
-                            "status": 0
+                            "status": 1
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Japón",
+                                "country_domain": "JPN"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "China",
+                                "country_domain": "CHN"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Gran Bretaña",
+                                "country_domain": "GBR"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Ucrania",
+                                "country_domain": "UKR"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Estados Unidos",
+                                "country_domain": "USA"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Italia",
+                                "country_domain": "ITA"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Suiza",
+                                "country_domain": "SUI"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Canadá",
+                                "country_domain": "CAN"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Japón",
+                                    "country_domain": "JPN",
+                                    "status": 2,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "China",
+                                    "country_domain": "CHN",
+                                    "status": 2,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "Bulgaria",
+                                    "country_domain": "BUL",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "China",
+                                    "country_domain": "CHN",
+                                    "status": 3,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Japón",
+                                    "country_domain": "JPN",
+                                    "status": 4,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "Estados Unidos",
+                                    "country_domain": "USA",
+                                    "status": 1,
+                                    "cstatus": 1
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
