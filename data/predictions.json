@@ -21347,7 +21347,7 @@
                 },
                 "male": {
                     "date": "2024/07/28",
-                    "finished": true,
+                    "finished": false,
                     "prediction": {
                         "1": {
                             "name": "Qin Haiyang",
