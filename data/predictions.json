@@ -10594,12 +10594,12 @@
                 },
                 "male": {
                     "date": "2024/07/28",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "BOREL Yannick",
                             "country_domain": "FRA",
-                            "status": 0
+                            "status": 3
                         },
                         "2": {
                             "name": "DI VEROLI Davide",
@@ -10614,12 +10614,12 @@
                         "4": {
                             "name": "KANO Koki",
                             "country_domain": "JPN",
-                            "status": 0
+                            "status": 4
                         },
                         "5": {
                             "name": "YAMADA Masaru",
                             "country_domain": "JPN",
-                            "status": 0
+                            "status": 1
                         },
                         "6": {
                             "name": "CANNONE Romain",
@@ -10640,50 +10640,50 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "KANO Koki",
+                                "country_domain": "JPN"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "BOREL Yannick",
+                                "country_domain": "FRA"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "EL-SAYD Mohamed",
+                                "country_domain": "EGY"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "ANDRASFI Tibor",
+                                "country_domain": "HUN"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "KURBANOV Ruslan",
+                                "country_domain": "KAZ"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "YAMADA Masaru",
+                                "country_domain": "JPN"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "LOYOLA Neisser",
+                                "country_domain": "BEL"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "VISMARA Federico",
+                                "country_domain": "ita"
                             }
                         ]
                     },
@@ -10723,7 +10723,7 @@
                                 "2": {
                                     "name": "KANO Koki",
                                     "country_domain": "JPN",
-                                    "status": 0,
+                                    "status": 4,
                                     "cstatus": 1
                                 },
                                 "3": {
@@ -10944,17 +10944,17 @@
             "sex": {
                 "female": {
                     "date": "2024/07/28",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "KIEFER Lee",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "ERRIGO Arianna",
                             "country_domain": "ITA",
-                            "status": 0
+                            "status": 1
                         },
                         "3": {
                             "name": "THIBUS Ysaora",
@@ -10964,12 +10964,12 @@
                         "4": {
                             "name": "FAVARETTO Martina",
                             "country_domain": "ITA",
-                            "status": 0
+                            "status": 1
                         },
                         "5": {
                             "name": "VOLPI Alice",
                             "country_domain": "ITA",
-                            "status": 0
+                            "status": 1
                         },
                         "6": {
                             "name": "UENO Yuka",
@@ -10984,56 +10984,56 @@
                         "8": {
                             "name": "SCRUGGS Lauren",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 3
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "KIEFER Lee",
+                                "country_domain": "USA"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "SCRUGGS Lauren",
+                                "country_domain": "USA"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Eleanor Harvey",
+                                "country_domain": "CAN"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "VOLPI Alice",
+                                "country_domain": "ITA"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "PASZTOR Flóra",
+                                "country_domain": "HUN"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "ERRIGO Arianna",
+                                "country_domain": "ITA"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "FAVARETTO Martina",
+                                "country_domain": "ITA"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "SAUER Anne",
+                                "country_domain": "GER"
                             }
                         ]
                     },
@@ -11044,19 +11044,19 @@
                                 "1": {
                                     "name": "VOLPI Alice",
                                     "country_domain": "ITA",
-                                    "status": 0,
+                                    "status": 1,
                                     "cstatus": 1
                                 },
                                 "2": {
                                     "name": "ERRIGO Arianna",
                                     "country_domain": "ITA",
-                                    "status": 0,
+                                    "status": 1,
                                     "cstatus": 2
                                 },
                                 "3": {
                                     "name": "KIEFER Lee",
                                     "country_domain": "USA",
-                                    "status": 0,
+                                    "status": 4,
                                     "cstatus": 4
                                 }
                             }
@@ -11067,19 +11067,19 @@
                                 "1": {
                                     "name": "KIEFER Lee",
                                     "country_domain": "USA",
-                                    "status": 0,
+                                    "status": 2,
                                     "cstatus": 2
                                 },
                                 "2": {
                                     "name": "FAVARETTO Martina",
                                     "country_domain": "ITA",
-                                    "status": 0,
+                                    "status": 1,
                                     "cstatus": 1
                                 },
                                 "3": {
                                     "name": "ERRIGO Arianna",
                                     "country_domain": "ITA",
-                                    "status": 0,
+                                    "status": 1,
                                     "cstatus": 3
                                 }
                             }
