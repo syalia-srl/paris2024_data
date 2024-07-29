@@ -16234,7 +16234,7 @@
             "sex": {
                 "female": {
                     "date": "2024/07/28",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "ABE Uta",
@@ -16244,17 +16244,17 @@
                         "2": {
                             "name": "KRASNIQI Distria",
                             "country_domain": "KOS",
-                            "status": 0
+                            "status": 2
                         },
                         "3": {
                             "name": "GIUFFRIDA Odette",
                             "country_domain": "ITA",
-                            "status": 0
+                            "status": 1
                         },
                         "4": {
                             "name": "BUCHARD Amandine",
                             "country_domain": "FRA",
-                            "status": 0
+                            "status": 2
                         },
                         "5": {
                             "name": "GILES Chelsie",
@@ -16264,7 +16264,7 @@
                         "6": {
                             "name": "PUPP Reka",
                             "country_domain": "HUN",
-                            "status": 0
+                            "status": 2
                         },
                         "7": {
                             "name": "BISHRELT Khorloodoi",
@@ -16274,56 +16274,56 @@
                         "8": {
                             "name": "PRIMO Gefen",
                             "country_domain": "ISR",
-                            "status": 0
+                            "status": 2
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "KELDIYOROVA Diyora",
+                                "country_domain": "UZB"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "KRASNIQI Distria",
+                                "country_domain": "KOS"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "PIMENTA Larissa",
+                                "country_domain": "BRA"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "BUCHARD Amandine",
+                                "country_domain": "FRA"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "GIUFFRIDA Odette",
+                                "country_domain": "ITA"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "PUPP Reka",
+                                "country_domain": "HUN"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Mascha Ballhaus",
+                                "country_domain": "GER"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "PRIMO Gefen",
+                                "country_domain": "ISR"
                             }
                         ]
                     },
@@ -16334,7 +16334,7 @@
                                 "1": {
                                     "name": "KRASNIQI Distria",
                                     "country_domain": "KOS",
-                                    "status": 0,
+                                    "status": 3,
                                     "cstatus": 3
                                 },
                                 "2": {
@@ -16346,13 +16346,13 @@
                                 "3": {
                                     "name": "BUCHARD Amandin",
                                     "country_domain": "FRA",
-                                    "status": 0,
+                                    "status": 2,
                                     "cstatus": 2
                                 },
                                 "4": {
                                     "name": "KELDIYOROVA Diyora ",
                                     "country_domain": "UZB",
-                                    "status": 0,
+                                    "status": 4,
                                     "cstatus": 0
                                 }
                             }
@@ -16369,19 +16369,19 @@
                                 "2": {
                                     "name": "KRASNIQI Distria",
                                     "country_domain": "KOS",
-                                    "status": 0,
+                                    "status": 2,
                                     "cstatus": 2
                                 },
                                 "3": {
                                     "name": "GIUFFRIDA Odette",
                                     "country_domain": "ITA",
-                                    "status": 0,
+                                    "status": 1,
                                     "cstatus": 2
                                 },
                                 "4": {
                                     "name": "BUCHARD Amandine",
                                     "country_domain": "FRA",
-                                    "status": 0,
+                                    "status": 2,
                                     "cstatus": 2
                                 }
                             }
@@ -16397,12 +16397,12 @@
             "sex": {
                 "male": {
                     "date": "2024/07/28",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "ABE Hifumi",
                             "country_domain": "JPN",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "AN Baul",
@@ -16412,7 +16412,7 @@
                         "3": {
                             "name": "EMOMALI Nurali",
                             "country_domain": "TJK",
-                            "status": 0
+                            "status": 1
                         },
                         "4": {
                             "name": "MARGVELASHVILI Vazha",
@@ -16422,12 +16422,12 @@
                         "5": {
                             "name": "YONDONPERENLEI Baskhuu",
                             "country_domain": "MGL",
-                            "status": 0
+                            "status": 1
                         },
                         "6": {
                             "name": "VIERU Denis",
                             "country_domain": "MDA",
-                            "status": 0
+                            "status": 3
                         },
                         "7": {
                             "name": "NAJAFOV Yashar",
@@ -16443,50 +16443,50 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "ABE Hifumi",
+                                "country_domain": "JPN"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "LIMA Willian",
+                                "country_domain": "BRA"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "KYGYXBAYEV Gusman",
+                                "country_domain": "KAZ"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "VIERU Denis",
+                                "country_domain": "MDA"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "BUNCIC Strahinja",
+                                "country_domain": "kaz"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "KHYAR Walidee",
+                                "country_domain": "FRA"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "YONDONPERENLEI Baskhuu",
+                                "country_domain": "MGL"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "EMOMALI Nurali",
+                                "country_domain": "TJK"
                             }
                         ]
                     },
@@ -16497,13 +16497,13 @@
                                 "1": {
                                     "name": "ABE Hifumi",
                                     "country_domain": "JPN",
-                                    "status": 0,
+                                    "status": 2,
                                     "cstatus": 2
                                 },
                                 "2": {
-                                    "name": "KHYAR Walibre",
+                                    "name": "KHYAR Walide",
                                     "country_domain": "FRA",
-                                    "status": 0,
+                                    "status": 1,
                                     "cstatus": 0
                                 },
                                 "3": {
@@ -16515,7 +16515,7 @@
                                 "4": {
                                     "name": "VIERU Denis",
                                     "country_domain": "MDA",
-                                    "status": 0,
+                                    "status": 2,
                                     "cstatus": 1
                                 }
                             }
@@ -16526,7 +16526,7 @@
                                 "1": {
                                     "name": "ABE Hifumi",
                                     "country_domain": "JPN",
-                                    "status": 0,
+                                    "status": 2,
                                     "cstatus": 2
                                 },
                                 "2": {
@@ -16544,7 +16544,7 @@
                                 "4": {
                                     "name": "VIERU Denis",
                                     "country_domain": "MDA",
-                                    "status": 0,
+                                    "status": 2,
                                     "cstatus": 1
                                 }
                             }
@@ -28226,7 +28226,6 @@
                             "status": 0
                         }
                     },
-                    
                     "result": {
                         "1": [
                             {
