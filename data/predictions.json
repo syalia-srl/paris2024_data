@@ -32191,7 +32191,7 @@
             "sex": {
                 "female": {
                     "date": "2024/07/29",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "HAN Jiayu",
@@ -32201,12 +32201,12 @@
                         "2": {
                             "name": "HUANG Yuting",
                             "country_domain": "CHN",
-                            "status": 0
+                            "status": 2
                         },
                         "3": {
                             "name": "MULLER Oceanne",
                             "country_domain": "FRA",
-                            "status": 0
+                            "status": 1
                         },
                         "4": {
                             "name": "TUCKER Mary Carolynn",
@@ -32216,7 +32216,7 @@
                         "5": {
                             "name": "DUESTAD Jeanette Hegg",
                             "country_domain": "NOR",
-                            "status": 0
+                            "status": 1
                         },
                         "6": {
                             "name": "STANKIEWICZ Aneta",
@@ -32237,67 +32237,115 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "HYO-JIN Ban",
+                                "country_domain": "KOR"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "HUANG Yuting",
+                                "country_domain": "CHN"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "GOGNIAT Audrey",
+                                "country_domain": "SUI"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "MAGDALENA Sagen",
+                                "country_domain": "USA"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "MULLER Oceanne",
+                                "country_domain": "FRA"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "LE Alexandra",
+                                "country_domain": "KAZ"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "JINDAL Ramita",
+                                "country_domain": "IND"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "DUESTAD Jeanette Hegg",
+                                "country_domain": "NOR"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "HAN Jiayu",
+                                    "country_domain": "CHN",
+                                    "status": 0,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "JANSSEN Anna",
+                                    "country_domain": "GER",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "HUANG Yuting",
+                                    "country_domain": "CHN",
+                                    "status": 3,
+                                    "cstatus": 3
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "HAN Jiayu",
+                                    "country_domain": "CHN",
+                                    "status": 0,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "JANSSEN Anna",
+                                    "country_domain": "GER",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "MULLER Oceanne",
+                                    "country_domain": "FRA",
+                                    "status": 1,
+                                    "cstatus": 2
+                                }
+                            }
+                        }
+                    ]
                 },
                 "male": {
                     "date": "2024/07/29",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "SHENG Lihao",
                             "country_domain": "CHN",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "BABUTA Arjun",
                             "country_domain": "IND",
-                            "status": 0
+                            "status": 1
                         },
                         "3": {
                             "name": "STREMPFL Martin",
@@ -32307,7 +32355,7 @@
                         "4": {
                             "name": "SOLLAZZO Danilo Dennis",
                             "country_domain": "ITA",
-                            "status": 0
+                            "status": 1
                         },
                         "5": {
                             "name": "PRIVRATSKY Jiri",
@@ -32333,53 +32381,101 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "SHENG Lihao",
+                                "country_domain": "CHN"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "LINDGREN Victor",
+                                "country_domain": "SWE"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "MARICIC Miran",
+                                "country_domain": "CRO"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "BABUTA Arjun",
+                                "country_domain": "IND"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "SOLLAZZO Danilo Dennis",
+                                "country_domain": "ITA"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "GORSA Petar",
+                                "country_domain": "CRO"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "DAE-HAN Choe",
+                                "country_domain": "KOR"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "GUTIÉRREZ Julián",
+                                "country_domain": "ARG"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "SOLLAZZO Danilo Dennis",
+                                    "country_domain": "ITA",
+                                    "status": 1,
+                                    "cstatus": 1
+                                },
+                                "2": {
+                                    "name": "LINDGREN Victor",
+                                    "country_domain": "SWE",
+                                    "status": 2,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "SHENG Lihao",
+                                    "country_domain": "CHN",
+                                    "status": 4,
+                                    "cstatus": 4
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "LINSHU Du",
+                                    "country_domain": "CHN",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "2": {
+                                    "name": "HEGG Jon-Hermann",
+                                    "country_domain": "NOR",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "SHENG Lihao",
+                                    "country_domain": "CHN",
+                                    "status": 4,
+                                    "cstatus": 4
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
