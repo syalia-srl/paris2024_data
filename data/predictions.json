@@ -16752,27 +16752,27 @@
             "sex": {
                 "female": {
                     "date": "2024/07/29",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "DEGUCHI Christa",
                             "country_domain": "CAN",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "HUH Mimi",
                             "country_domain": "KOR",
-                            "status": 0
+                            "status": 2
                         },
                         "3": {
                             "name": "LIPARTELIANI Eteri",
                             "country_domain": "GEO",
-                            "status": 0
+                            "status": 1
                         },
                         "4": {
                             "name": "FUNAKUBO Haruka",
                             "country_domain": "JPN",
-                            "status": 0
+                            "status": 2
                         },
                         "5": {
                             "name": "LIEN Chen-Ling",
@@ -16792,59 +16792,119 @@
                         "8": {
                             "name": "SILVA Rafaela",
                             "country_domain": "BRA",
-                            "status": 0
+                            "status": 1
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "DEGUCHI Christa",
+                                "country_domain": "CAN"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "HUH Mimi",
+                                "country_domain": "KOR"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "CYSIQUE Sarah-Leonie",
+                                "country_domain": "FRA"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "FUNAKUBO Haruka",
+                                "country_domain": "JPN"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "LIPARTELIANI Eteri",
+                                "country_domain": "GEO"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "SILVA Rafaela",
+                                "country_domain": "BRA"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "PERISIC Marica",
+                                "country_domain": "SRB"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "ENKHRIILEN Lkhagvatogoogiin",
+                                "country_domain": "MGL"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "FUNAKUBO Haruka",
+                                    "country_domain": "JPN",
+                                    "status": 3,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "DEGUCHI Christa",
+                                    "country_domain": "CAN",
+                                    "status": 4,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "HUH Mimi",
+                                    "country_domain": "KOR",
+                                    "status": 3,
+                                    "cstatus": 3
+                                },
+                                "4": {
+                                    "name": "ENKHRIILEN Lkhagvatogoogiin",
+                                    "country_domain": "MGL",
+                                    "status": 1,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "BILODID Daria",
+                                    "country_domain": "UKR",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "2": {
+                                    "name": "DEGUCHI Christa",
+                                    "country_domain": "CAN",
+                                    "status": 4,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "FUNAKUBO Haruka",
+                                    "country_domain": "JPN",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "4": {
+                                    "name": "GJAKOVA Nora",
+                                    "country_domain": "KOS",
+                                    "status": 0,
+                                    "cstatus": 1
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
@@ -16855,17 +16915,17 @@
             "sex": {
                 "male": {
                     "date": "2024/07/29",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "HASHIMOTO Soichi",
                             "country_domain": "JPN",
-                            "status": 0
+                            "status": 3
                         },
                         "2": {
                             "name": "LOMBARDO Manuel",
                             "country_domain": "ITA",
-                            "status": 0
+                            "status": 1
                         },
                         "3": {
                             "name": "CARGNIN Daniel",
@@ -16901,53 +16961,113 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "HEYDAROV Hidayet",
+                                "country_domain": "AZE"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "GABA Joan-Benjamin",
+                                "country_domain": "FRA"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "OSMANOV Adil",
+                                "country_domain": "MDA"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "HASHIMOTO Soichi",
+                                "country_domain": "JPN"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "LOMBARDO Manuel",
+                                "country_domain": "ITA"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "GJAKOVA Akil",
+                                "country_domain": "KOS"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "MARGELIDON Arthur",
+                                "country_domain": "CAN"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "ERDENEBAYAR Batzayaagiin",
+                                "country_domain": "MGL"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "STUMP Nils",
+                                    "country_domain": "SUI",
+                                    "status": 0,
+                                    "cstatus": 1
+                                },
+                                "2": {
+                                    "name": "HASHIMOTO Soichi",
+                                    "country_domain": "JPN",
+                                    "status": 3,
+                                    "cstatus": 3
+                                },
+                                "3": {
+                                    "name": "LOMBARDO Manuel",
+                                    "country_domain": "ITA",
+                                    "status": 1,
+                                    "cstatus": 3
+                                },
+                                "4": {
+                                    "name": "HEYDAROV Hidayet",
+                                    "country_domain": "AZE",
+                                    "status": 4,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "HEYDAROV Hidayet",
+                                    "country_domain": "AZE",
+                                    "status": 2,
+                                    "cstatus": 0
+                                },
+                                "2": {
+                                    "name": "SHAVDATUASHVILI Lasha",
+                                    "country_domain": "GEO",
+                                    "status": 0,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "HASHIMOTO Soichi",
+                                    "country_domain": "JPN",
+                                    "status": 2,
+                                    "cstatus": 4
+                                },
+                                "4": {
+                                    "name": "Akhaddov",
+                                    "country_domain": "UZB",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
