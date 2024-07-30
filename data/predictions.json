@@ -31971,12 +31971,12 @@
                 },
                 "male": {
                     "date": "2024/07/30",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "HALES Nathan",
                             "country_domain": "GBR",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "DE FILIPPIS Mauro",
@@ -31986,12 +31986,12 @@
                         "3": {
                             "name": "WILLETT James",
                             "country_domain": "AUS",
-                            "status": 0
+                            "status": 1
                         },
                         "4": {
                             "name": "CERNOGORAZ Giovanni",
                             "country_domain": "CRO",
-                            "status": 0
+                            "status": 1
                         },
                         "5": {
                             "name": "PELLIELO Giovanni",
@@ -32006,7 +32006,7 @@
                         "7": {
                             "name": "CERNOGORAZ Giovanni",
                             "country_domain": "CRO",
-                            "status": 0
+                            "status": 2
                         },
                         "8": {
                             "name": "KOVACOCY Marian",
@@ -32017,53 +32017,101 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "HALES Nathan",
+                                "country_domain": "GBR"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "QI Ying",
+                                "country_domain": "CHN"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "BROL CARDENAS Jean Pierre",
+                                "country_domain": "GUA"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "LEVIN-ANDERSSON Rickard",
+                                "country_domain": "SWE"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "MEIN Derrick Scott",
+                                "country_domain": "USA"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "WILLETT James",
+                                "country_domain": "AUS"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "CERNOGORAZ Giovanni",
+                                "country_domain": "CRO"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "YU Haicheng",
+                                "country_domain": "CHN"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "WILLETT James",
+                                    "country_domain": "AUS",
+                                    "status": 1,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "FERNÁNDEZ Alberto",
+                                    "country_domain": "ESP",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "CERNOGORAZ Giovanni",
+                                    "country_domain": "CRO",
+                                    "status": 1,
+                                    "cstatus": 1
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "FERNÁNDEZ Alberto",
+                                    "country_domain": "ESP",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "2": {
+                                    "name": "COWARD-HOLLEY Matthew John",
+                                    "country_domain": "GBR",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "DE FILIPPIS Mauro",
+                                    "country_domain": "ITA",
+                                    "status": 0,
+                                    "cstatus": 3
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
