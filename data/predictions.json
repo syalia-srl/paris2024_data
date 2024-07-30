@@ -27776,32 +27776,32 @@
                         "1": {
                             "name": "Australia",
                             "country_domain": "AUS",
-                            "status": 0
+                            "status": 1
                         },
                         "2": {
                             "name": "Nueva Zelanda",
                             "country_domain": "NZL",
-                            "status": 0
+                            "status": 4
                         },
                         "3": {
                             "name": "Francia",
                             "country_domain": "FRA",
-                            "status": 0
+                            "status": 1
                         },
                         "4": {
                             "name": "Gran Bretaña",
                             "country_domain": "GBR",
-                            "status": 0
+                            "status": 1
                         },
                         "5": {
                             "name": "Canadà",
                             "country_domain": "CAN",
-                            "status": 0
+                            "status": 3
                         },
                         "6": {
                             "name": "Irlanda",
                             "country_domain": "IRL",
-                            "status": 0
+                            "status": 1
                         },
                         "7": {
                             "name": "Japón",
@@ -27817,26 +27817,26 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Nueva Zelanda",
+                                "country_domain": "NZL"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Canadà",
+                                "country_domain": "CAN"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Estados Unidos",
+                                "country_domain": "USA"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Australia",
+                                "country_domain": "AUS"
                             }
                         ],
                         "5": [
@@ -27871,19 +27871,19 @@
                                 "1": {
                                     "name": "Nueva Zelanda",
                                     "country_domain": "NZL",
-                                    "status": 0,
+                                    "status": 2,
                                     "cstatus": 3
                                 },
                                 "2": {
                                     "name": "Australia",
                                     "country_domain": "AUS",
-                                    "status": 0,
+                                    "status": 1,
                                     "cstatus": 4
                                 },
                                 "3": {
                                     "name": "Francia",
                                     "country_domain": "FRA",
-                                    "status": 0,
+                                    "status": 1,
                                     "cstatus": 2
                                 }
                             }
@@ -27894,19 +27894,19 @@
                                 "1": {
                                     "name": "Nueva Zelanda",
                                     "country_domain": "NZL",
-                                    "status": 0,
+                                    "status": 2,
                                     "cstatus": 3
                                 },
                                 "2": {
                                     "name": "Francia",
                                     "country_domain": "FRA",
-                                    "status": 0,
+                                    "status": 1,
                                     "cstatus": 3
                                 },
                                 "3": {
                                     "name": "Australia",
                                     "country_domain": "AUS",
-                                    "status": 0,
+                                    "status": 1,
                                     "cstatus": 4
                                 }
                             }
@@ -30969,12 +30969,12 @@
             "sex": {
                 "mixed": {
                     "date": "2024/07/30",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "China",
                             "country_domain": "CHN",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "Japon",
@@ -30994,7 +30994,7 @@
                         "5": {
                             "name": "Corea del Sur",
                             "country_domain": "KOR",
-                            "status": 0
+                            "status": 3
                         },
                         "6": {
                             "name": "Australia",
@@ -31004,64 +31004,112 @@
                         "7": {
                             "name": "China Taipei",
                             "country_domain": "TPE",
-                            "status": 0
+                            "status": 1
                         },
                         "8": {
                             "name": "Rumania",
                             "country_domain": "ROU",
-                            "status": 0
+                            "status": 1
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "China",
+                                "country_domain": "CHN"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Corea del Norte",
+                                "country_domain": "PRK"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Corea del Sur",
+                                "country_domain": "KOR"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Hong Kong",
+                                "country_domain": "HKG"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "China Taipei",
+                                "country_domain": "TPE"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Suecia",
+                                "country_domain": "SWE"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Rumania",
+                                "country_domain": "ROU"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "España",
+                                "country_domain": "ESP"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "China",
+                                    "country_domain": "CHN",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Japón",
+                                    "country_domain": "JPN",
+                                    "status": 2,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "Hong Kong",
+                                    "country_domain": "HKG",
+                                    "status": 1,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "China",
+                                    "country_domain": "CHN",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Japón",
+                                    "country_domain": "JPN",
+                                    "status": 2,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "China Taipei",
+                                    "country_domain": "TPE",
+                                    "status": 1,
+                                    "cstatus": 1
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
