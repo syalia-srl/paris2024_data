@@ -10731,7 +10731,7 @@
                         "8": [
                             {
                                 "name": "VISMARA Federico",
-                                "country_domain": "ita"
+                                "country_domain": "ITA"
                             }
                         ]
                     },
@@ -11136,7 +11136,7 @@
                 },
                 "male": {
                     "date": "2024/07/29",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "MARINI Tommaso",
@@ -11151,12 +11151,12 @@
                         "3": {
                             "name": "ITKIN Nick",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 2
                         },
                         "4": {
                             "name": "IIMURA Kazuki",
                             "country_domain": "JPN",
-                            "status": 0
+                            "status": 2
                         },
                         "5": {
                             "name": "MEINHARDT Gerek",
@@ -11166,69 +11166,117 @@
                         "6": {
                             "name": "BIANCHI Guillaume",
                             "country_domain": "ITA",
-                            "status": 0
+                            "status": 1
                         },
                         "7": {
                             "name": "PAUTY Maxime",
                             "country_domain": "FRA",
-                            "status": 0
+                            "status": 1
                         },
                         "8": {
                             "name": "LEFORT Enzo",
                             "country_domain": "FRA",
-                            "status": 0
+                            "status": 1
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "KA-LONG Cheung",
+                                "country_domain": "HKG"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "MACCHI Filippo",
+                                "country_domain": "ITA"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "ITKIN Nick",
+                                "country_domain": "USA"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "IIMURA Kazuki",
+                                "country_domain": "JPN"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "LEFORT Enzo",
+                                "country_domain": "FRA"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "HAMZA Mohamed",
+                                "country_domain": "EGY"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "BIANCHI Guillaume",
+                                "country_domain": "ITA"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "PAUTY Maxime",
+                                "country_domain": "FRA"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "MARINI Tommaso",
+                                    "country_domain": "ITA",
+                                    "status": 0,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "MATSUYAMA Kyosuke",
+                                    "country_domain": "JPN",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "ITKIN Nick",
+                                    "country_domain": "USA",
+                                    "status": 2,
+                                    "cstatus": 2
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "MARINI Tommaso",
+                                    "country_domain": "ITA",
+                                    "status": 0,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "LEFORT Enzo",
+                                    "country_domain": "FRA",
+                                    "status": 1,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "MASSIALAS Alexander",
+                                    "country_domain": "USA",
+                                    "status": 0,
+                                    "cstatus": 3
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
@@ -11438,12 +11486,12 @@
             "sex": {
                 "female": {
                     "date": "2024/07/29",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "KHARLAN Olga",
                             "country_domain": "UKR",
-                            "status": 0
+                            "status": 3
                         },
                         "2": {
                             "name": "MARTON Anna",
@@ -11453,7 +11501,7 @@
                         "3": {
                             "name": "BALZER Sara",
                             "country_domain": "FRA",
-                            "status": 0
+                            "status": 3
                         },
                         "4": {
                             "name": "BERDER Cecilia",
@@ -11463,7 +11511,7 @@
                         "5": {
                             "name": "APITHY-BRUNET Manon",
                             "country_domain": "FRA",
-                            "status": 0
+                            "status": 4
                         },
                         "6": {
                             "name": "PUSZTAI Liza",
@@ -11478,59 +11526,107 @@
                         "8": {
                             "name": "GKOUNTOURA Theodora",
                             "country_domain": "GRE",
-                            "status": 0
+                            "status": 1
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "APITHY-BRUNET Manon",
+                                "country_domain": "FRA"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "BALZER Sara",
+                                "country_domain": "FRA"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "KHARLAN Olga",
+                                "country_domain": "UKR"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "SE-BIN Choi",
+                                "country_domain": "KOR"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "GKOUNTOURA Theodora",
+                                "country_domain": "GRE"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "SZUCS Luca",
+                                "country_domain": "HUN"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "MARTON Anna",
+                                "country_domain": "HUN"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "HA-YOUNG Jeon",
+                                "country_domain": "KOR"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "EMURA Misaki",
+                                    "country_domain": "JPN",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "2": {
+                                    "name": "GEORDGIADOU Despina",
+                                    "country_domain": "GRE",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "ILIEVA Yoana",
+                                    "country_domain": "BUL",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "BALZER Sara",
+                                "country_domain": "FRA",
+                                    "status": 3,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "KHARLAN Olga",
+                            "country_domain": "UKR",
+                                    "status": 3,
+                                    "cstatus": 3
+                                },
+                                "3": {
+                                    "name": "EMURA Misaki",
+                                    "country_domain": "",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        }
+                    ]
                 },
                 "male": {
                     "date": "2024/07/27",
