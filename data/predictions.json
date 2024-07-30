@@ -17222,7 +17222,7 @@
             "sex": {
                 "female": {
                     "date": "2024/07/30",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "TAKAICHI Miku",
@@ -17232,12 +17232,12 @@
                         "2": {
                             "name": "AGBEGNENOU Clarisse",
                             "country_domain": "FRA",
-                            "status": 0
+                            "status": 3
                         },
                         "3": {
                             "name": "BEAUCHEMIN-PINARD Catherine",
                             "country_domain": "CAN",
-                            "status": 0
+                            "status": 1
                         },
                         "4": {
                             "name": "RENSHALL Lucy",
@@ -17252,7 +17252,7 @@
                         "6": {
                             "name": "LESKI Andreja",
                             "country_domain": "SLO",
-                            "status": 0
+                            "status": 4
                         },
                         "7": {
                             "name": "KIM Jisu",
@@ -17262,59 +17262,119 @@
                         "8": {
                             "name": "FAZLIU Laura",
                             "country_domain": "KOS",
-                            "status": 0
+                            "status": 3
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "LESKI Andreja",
+                                "country_domain": "SLO"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "AWITI Prisca",
+                                "country_domain": "MEX"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "AGBEGNENOU Clarisse",
+                                "country_domain": "FRA"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "FAZLIU Laura",
+                                "country_domain": "KOS"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "PIOVESANA Lubjana",
+                                "country_domain": "AUT"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "KRISTO Katarina",
+                                "country_domain": "CRO"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "BEAUCHEMIN-PINARD Catherine",
+                                "country_domain": "CAN"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "JI-SU Kim",
+                                "country_domain": "KOR"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "AGBEGNENOU Clarisse",
+                                    "country_domain": "FRA",
+                                    "status": 3,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "LESKI Andreja",
+                                    "country_domain": "SLO",
+                                    "status": 4,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "TAKAICHI Miku",
+                                    "country_domain": "JPN",
+                                    "status": 0,
+                                    "cstatus": 3
+                                },
+                                "4": {
+                                    "name": "VAN LIESHOUT Joanne",
+                                    "country_domain": "NED",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "AGBEGNENOU Clarisse",
+                                    "country_domain": "FRA",
+                                    "status": 3,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "TAKAICHI Miku",
+                                    "country_domain": "JPN",
+                                    "status": 0,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "FAZLIU Laura",
+                                    "country_domain": "KOS",
+                                    "status": 2,
+                                    "cstatus": 1
+                                },
+                                "4": {
+                                    "name": "VAN LIESHOUT Joanne",
+                                    "country_domain": "NED",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
@@ -17325,22 +17385,22 @@
             "sex": {
                 "male": {
                     "date": "2024/07/30",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "NAGASE Takanori",
                             "country_domain": "JPN",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "GRIGALASHVILI Tato",
                             "country_domain": "GEO",
-                            "status": 0
+                            "status": 2
                         },
                         "3": {
                             "name": "CASSE Matthias",
                             "country_domain": "BEL",
-                            "status": 0
+                            "status": 1
                         },
                         "4": {
                             "name": "TCKAEV Zelim",
@@ -17350,7 +17410,7 @@
                         "5": {
                             "name": "LEE Joonhwan",
                             "country_domain": "KOR",
-                            "status": 0
+                            "status": 3
                         },
                         "6": {
                             "name": "SCHIMIDT Guilherme",
@@ -17365,59 +17425,119 @@
                         "8": {
                             "name": "MAKHMADBEKOV Somon",
                             "country_domain": "TJK",
-                            "status": 0
+                            "status": 3
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "NAGASE Takanori",
+                                "country_domain": "JPN"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "GRIGALASHVILI Tato",
+                                "country_domain": "GEO"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "LEE Joonhwan",
+                                "country_domain": "KOR"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "MAKHMADBEKOV Somon",
+                                "country_domain": "TJK"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "CASSE Matthias",
+                                "country_domain": "BEL"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "ESPOSITO Antonio",
+                                "country_domain": "ITA"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "GAUTHIER-DRAPEAU Francois",
+                                "country_domain": "CAN"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "BOLTABOEV Sharofiddin",
+                                "country_domain": "UZB"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "GRIGALASHVILI Tato",
+                                    "country_domain": "GEO",
+                                    "status": 3,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "CASSE Matthias",
+                                    "country_domain": "BEL",
+                                    "status": 1,
+                                    "cstatus": 3
+                                },
+                                "3": {
+                                    "name": "BORCHASHVILI Wachid",
+                                    "country_domain": "AUT",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "4": {
+                                    "name": "NAGASE Takanori",
+                                    "country_domain": "JPN",
+                                    "status": 4,
+                                    "cstatus": 4
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "GRIGALASHVILI Tato",
+                                    "country_domain": "GEO",
+                                    "status": 3,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "LEE Joonhwan",
+                                    "country_domain": "KOR",
+                                    "status": 3,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "NAGASE Takanori",
+                                    "country_domain": "JPN",
+                                    "status": 4,
+                                    "cstatus": 4
+                                },
+                                "4": {
+                                    "name": "TCKAEV Zelim",
+                                    "country_domain": "AZE",
+                                    "status": 0,
+                                    "cstatus": 2
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
