@@ -25077,12 +25077,12 @@
             "sex": {
                 "female": {
                     "date": "2024/07/31",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Jessica Fox",
                             "country_domain": "AUS",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "Mallory Franklin",
@@ -25097,17 +25097,17 @@
                         "4": {
                             "name": "Ana Satila",
                             "country_domain": "BRA",
-                            "status": 0
+                            "status": 1
                         },
                         "5": {
                             "name": "Monica Vilarrubla",
                             "country_domain": "AND",
-                            "status": 0
+                            "status": 1
                         },
                         "6": {
                             "name": "Zuzana Paňková",
                             "country_domain": "SVK",
-                            "status": 0
+                            "status": 1
                         },
                         "7": {
                             "name": "Marjorie Delassus",
@@ -25117,59 +25117,107 @@
                         "8": {
                             "name": "Gabriela Satková",
                             "country_domain": "CZE",
-                            "status": 0
+                            "status": 1
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Jessica Fox",
+                                "country_domain": "AUS"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Elena Lilik",
+                                "country_domain": "GER"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Evy Leibfarth",
+                                "country_domain": "USA"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Zuzana Paňková",
+                                "country_domain": "SVK"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Ana Satila",
+                                "country_domain": "BRA"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Monica Vilarrubla",
+                                "country_domain": "AND"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Gabriela Satková",
+                                "country_domain": "CZE"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Alena Marx",
+                                "country_domain": "SUI"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Mallory Franklin",
+                                    "country_domain": "GBR",
+                                    "status": 0,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Jessica Fox",
+                                    "country_domain": "AUS",
+                                    "status": 4,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "Kimberly Woods",
+                                    "country_domain": "GBR",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Jessica Fox",
+                                    "country_domain": "AUS",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Gabriela Satková",
+                                    "country_domain": "CZE",
+                                    "status": 1,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "Mallory Franklin",
+                                    "country_domain": "GBR",
+                                    "status": 0,
+                                    "cstatus": 3
+                                }
+                            }
+                        }
+                    ]
                 },
                 "male": {
                     "date": "2024/07/29",
