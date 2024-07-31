@@ -16598,7 +16598,7 @@
                         "1": [
                             {
                                 "name": "SMETOS Yeldos",
-                                "country_domain": "KAz"
+                                "country_domain": "KAZ"
                             }
                         ],
                         "2": [
@@ -16948,7 +16948,7 @@
                         "5": [
                             {
                                 "name": "BUNCIC Strahinja",
-                                "country_domain": "kaz"
+                                "country_domain": "KAZ"
                             }
                         ],
                         "6": [
@@ -32468,27 +32468,27 @@
             "sex": {
                 "female": {
                     "date": "2024/07/31",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "GALVEZ Fatima",
                             "country_domain": "ESP",
-                            "status": 0
+                            "status": 1
                         },
                         "2": {
                             "name": "SMITH Penny",
                             "country_domain": "AUS",
-                            "status": 0
+                            "status": 3
                         },
                         "3": {
                             "name": "STANCO Silvana",
                             "country_domain": "ITA",
-                            "status": 0
+                            "status": 3
                         },
                         "4": {
                             "name": "ZHANG Xinqiu",
                             "country_domain": "CHN",
-                            "status": 0
+                            "status": 1
                         },
                         "5": {
                             "name": "ROSSI Jessica",
@@ -32514,53 +32514,101 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "RUANO OLIVA Adriana",
+                                "country_domain": "GUA"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "STANCO Silvana",
+                                "country_domain": "ITA"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "SMITH Penny",
+                                "country_domain": "AUS"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "MOLNE MAGRINA Mar",
+                                "country_domain": "ESP"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "GALVEZ Fatima",
+                                "country_domain": "ESP"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "WU Cuicui",
+                                "country_domain": "CHN"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "ZHANG Xinqiu",
+                                "country_domain": "CHN"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "COELHO de BARROS Maria Ines",
+                                "country_domain": "POR"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "GALVEZ Fatima",
+                                    "country_domain": "ESP",
+                                    "status": 1,
+                                    "cstatus": 1
+                                },
+                                "2": {
+                                    "name": "PERILLI Alexandra",
+                                    "country_domain": "SMR",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "DMITRIYENKO Mariya",
+                                    "country_domain": "KAZ",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "REHAK STEFECEKOVA Zuzana",
+                                    "country_domain": "SVK",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "2": {
+                                    "name": "GALVEZ Fatima",
+                                    "country_domain": "ESP",
+                                    "status": 1,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "MURCHE Kathrin",
+                                    "country_domain": "GER",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        }
+                    ]
                 },
                 "male": {
                     "date": "2024/07/30",
