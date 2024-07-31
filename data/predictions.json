@@ -32661,7 +32661,7 @@
             "sex": {
                 "mixed": {
                     "date": "2024/07/30",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "India",
@@ -35185,7 +35185,7 @@
                     ]
                 },
                 "male": {
-                    "date": "2024/07/30",
+                    "date": "2024/07/31",
                     "finished": true,
                     "prediction": {
                         "1": {
