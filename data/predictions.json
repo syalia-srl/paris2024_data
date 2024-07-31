@@ -34259,12 +34259,12 @@
             "sex": {
                 "female": {
                     "date": "2024/07/31",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Georgia Taylor-Brown",
                             "country_domain": "GBR",
-                            "status": 0
+                            "status": 1
                         },
                         "2": {
                             "name": "Léonie Périault",
@@ -34279,17 +34279,17 @@
                         "4": {
                             "name": "Emma Lombardi",
                             "country_domain": "FRA",
-                            "status": 0
+                            "status": 2
                         },
                         "5": {
                             "name": "Cassandre Beaugrand",
                             "country_domain": "FRA",
-                            "status": 0
+                            "status": 4
                         },
                         "6": {
                             "name": "Beth Potter",
                             "country_domain": "GBR",
-                            "status": 0
+                            "status": 3
                         },
                         "7": {
                             "name": "Taylor Knibb",
@@ -34305,57 +34305,105 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Cassandre Beaugrand",
+                                "country_domain": "FRA"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Julie Derron",
+                                "country_domain": "SUI"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Beth Potter",
+                                "country_domain": "GBR"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Emma Lombardi",
+                                "country_domain": "FRA"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Flora Duffy",
+                                "country_domain": "BER"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Georgia Taylor-Brown",
+                                "country_domain": "GBR"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Maya Kingma",
+                                "country_domain": "NED"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Laura Lindemann",
+                                "country_domain": "GER"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Beth Potter",
+                                    "country_domain": "GBR",
+                                    "status": 3,
+                                    "cstatus": 1
+                                },
+                                "2": {
+                                    "name": "Cassandre Beaugrand",
+                                    "country_domain": "FRA",
+                                    "status": 4,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "Lisa Tertsch",
+                                    "country_domain": "GER",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Cassandre Beaugrand",
+                                    "country_domain": "FRA",
+                                    "status": 2,
+                                    "cstatus": 1
+                                },
+                                "2": {
+                                    "name": "Beth Potter",
+                                    "country_domain": "GBR",
+                                    "status": 3,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "Georgia Taylor-Brown",
+                                    "country_domain": "GBR",
+                                    "status": 1,
+                                    "cstatus": 4
+                                }
+                            }
+                        }
+                    ]
                 },
                 "male": {
                     "date": "2024/07/30",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Csongor Lehmann",
@@ -34370,22 +34418,22 @@
                         "3": {
                             "name": "Hayden Wilde",
                             "country_domain": "NZL",
-                            "status": 0
+                            "status": 3
                         },
                         "4": {
                             "name": "Pierre Le Corre",
                             "country_domain": "FRA",
-                            "status": 0
+                            "status": 2
                         },
                         "5": {
                             "name": "Léo Bergere",
                             "country_domain": "FRA",
-                            "status": 0
+                            "status": 3
                         },
                         "6": {
                             "name": "Alex Yee",
                             "country_domain": "GBR",
-                            "status": 0
+                            "status": 4
                         },
                         "7": {
                             "name": "Marten Van Riel",
@@ -34395,59 +34443,107 @@
                         "8": {
                             "name": "Vasco Vilaça",
                             "country_domain": "POR",
-                            "status": 0
+                            "status": 1
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Alex Yee",
+                                "country_domain": "GBR"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Hayden Wilde",
+                                "country_domain": "NZL"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Léo Bergere",
+                                "country_domain": "FRA"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Pierre Le Corre",
+                                "country_domain": "FRA"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Vasco Vilaça",
+                                "country_domain": "POR"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Ricardo Batista",
+                                "country_domain": "POR"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Mathew Hauser",
+                                "country_domain": "AUS"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Alberto González",
+                                "country_domain": "ESP"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Alex Yee",
+                                    "country_domain": "GBR",
+                                    "status": 2,
+                                    "cstatus": 1
+                                },
+                                "2": {
+                                    "name": "Hayden Wilde",
+                                    "country_domain": "NZL",
+                                    "status": 2,
+                                    "cstatus": 3
+                                },
+                                "3": {
+                                    "name": "Mathew Hauser",
+                                    "country_domain": "AUS",
+                                    "status": 1,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Alex Yee",
+                                    "country_domain": "GBR",
+                                    "status": 2,
+                                    "cstatus": 1
+                                },
+                                "2": {
+                                    "name": "Hayden Wilde",
+                                    "country_domain": "NZL",
+                                    "status": 2,
+                                    "cstatus": 3
+                                },
+                                "3": {
+                                    "name": "Mathew Hauser",
+                                    "country_domain": "AUS",
+                                    "status": 1,
+                                    "cstatus": 0
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
