@@ -13793,12 +13793,12 @@
                         "3": {
                             "name": "Gran Bretaña",
                             "country_domain": "GBR",
-                            "status": 2
+                            "status": 1
                         },
                         "4": {
                             "name": "Estados Unidos",
                             "country_domain": "USA",
-                            "status": 1
+                            "status": 3
                         },
                         "5": {
                             "name": "Ucrania",
@@ -13836,20 +13836,20 @@
                         ],
                         "3": [
                             {
-                                "name": "Gran Bretaña",
-                                "country_domain": "GBR"
+                                "name": "Estados Unidos",
+                                "country_domain": "USA"
                             }
                         ],
                         "4": [
                             {
-                                "name": "Ucrania",
-                                "country_domain": "UKR"
+                                "name": "Gran Bretaña",
+                                "country_domain": "GBR"
                             }
                         ],
                         "5": [
                             {
-                                "name": "Estados Unidos",
-                                "country_domain": "USA"
+                                "name": "Ucrania",
+                                "country_domain": "UKR"
                             }
                         ],
                         "6": [
@@ -13913,8 +13913,8 @@
                                 "3": {
                                     "name": "Estados Unidos",
                                     "country_domain": "USA",
-                                    "status": 1,
-                                    "cstatus": 1
+                                    "status": 2,
+                                    "cstatus": 2
                                 }
                             }
                         }
@@ -28966,7 +28966,7 @@
                         "3": [
                             {
                                 "name": "Sudafrica",
-                                "country_domain": ""
+                                "country_domain": "RSA"
                             }
                         ],
                         "4": [
@@ -30013,7 +30013,7 @@
                         "3": {
                             "name": "Chenxi Cui",
                             "country_domain": "CHN",
-                            "status": 2
+                            "status": 1
                         },
                         "4": {
                             "name": "Paige Heyn",
@@ -30028,7 +30028,7 @@
                         "6": {
                             "name": "Rayssa Leal",
                             "country_domain": "BRA",
-                            "status": 1
+                            "status": 3
                         },
                         "7": {
                             "name": "Roos Zwetsloot",
@@ -30056,20 +30056,20 @@
                         ],
                         "3": [
                             {
-                                "name": "Chenxi Cui",
-                                "country_domain": "CHN"
+                                "name": "Rayssa Leal",
+                                "country_domain": "BRA"
                             }
                         ],
                         "4": [
                             {
-                                "name": "Chloe Covell",
-                                "country_domain": "AUS"
+                                "name": "Chenxi Cui",
+                                "country_domain": "CHN"
                             }
                         ],
                         "5": [
                             {
-                                "name": "Funa Nakayama",
-                                "country_domain": "JPN"
+                                "name": "Poe Pinson",
+                                "country_domain": "USA"
                             }
                         ],
                         "6": [
@@ -30080,14 +30080,14 @@
                         ],
                         "7": [
                             {
-                                "name": "Rayssa Leal",
-                                "country_domain": "BRA"
+                                "name": "Funa Nakayama",
+                                "country_domain": "JPN"
                             }
                         ],
                         "8": [
                             {
-                                "name": "Poe Pinson",
-                                "country_domain": "USA"
+                                "name": "Chloe Covell",
+                                "country_domain": "AUS"
                             }
                         ]
                     },
@@ -30098,7 +30098,7 @@
                                 "1": {
                                     "name": "Rayssa Leal",
                                     "country_domain": "BRA",
-                                    "status": 1,
+                                    "status": 3,
                                     "cstatus": 1
                                 },
                                 "2": {
@@ -30121,7 +30121,7 @@
                                 "1": {
                                     "name": "Rayssa Leal",
                                     "country_domain": "BRA",
-                                    "status": 1,
+                                    "status": 3,
                                     "cstatus": 1
                                 },
                                 "2": {
