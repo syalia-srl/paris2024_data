@@ -11552,22 +11552,22 @@
                         "5": {
                             "name": "Polonia",
                             "country_domain": "POL",
-                            "status": 0
+                            "status": 1
                         },
                         "6": {
                             "name": "Francia",
                             "country_domain": "FRA",
-                            "status": 0
+                            "status": 1
                         },
                         "7": {
                             "name": "Canadá",
                             "country_domain": "CAN",
-                            "status": 0
+                            "status": 1
                         },
                         "8": {
                             "name": "Egipto",
                             "country_domain": "EGY",
-                            "status": 0
+                            "status": 2
                         }
                     },
                     "result": {
@@ -11597,26 +11597,26 @@
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Francia",
+                                "country_domain": "FRA"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Polonia",
+                                "country_domain": "POL"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "China",
+                                "country_domain": "CHN"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Egipto",
+                                "country_domain": "EGY"
                             }
                         ]
                     },
@@ -13531,17 +13531,17 @@
             "sex": {
                 "female": {
                     "date": "2024/08/01",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "BILES Simone",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "ANDRADE Rebeca",
                             "country_domain": "BRA",
-                            "status": 0
+                            "status": 2
                         },
                         "3": {
                             "name": "CAREY Jade",
@@ -13551,7 +13551,7 @@
                         "4": {
                             "name": "BLACK Elsabeth",
                             "country_domain": "CAN",
-                            "status": 0
+                            "status": 1
                         },
                         "5": {
                             "name": "DOWNIE Rebecca",
@@ -13631,14 +13631,14 @@
                                 "1": {
                                     "name": "BILES Simone",
                                     "country_domain": "USA",
-                                    "status": 0,
-                                    "cstatus": 0
+                                    "status": 2,
+                                    "cstatus": 2
                                 },
                                 "2": {
                                     "name": "ANDRADE Rebeca",
                                     "country_domain": "BRA",
-                                    "status": 0,
-                                    "cstatus": 0
+                                    "status": 2,
+                                    "cstatus": 2
                                 },
                                 "3": {
                                     "name": "QIYUAN Qiu",
@@ -13654,20 +13654,20 @@
                                 "1": {
                                     "name": "BILES Simone",
                                     "country_domain": "USA",
-                                    "status": 0,
-                                    "cstatus": 0
+                                    "status": 2,
+                                    "cstatus": 2
                                 },
                                 "2": {
                                     "name": "ANDRADE Rebeca",
                                     "country_domain": "BRA",
-                                    "status": 0,
-                                    "cstatus": 0
+                                    "status": 2,
+                                    "cstatus": 2
                                 },
                                 "3": {
                                     "name": "LEE Sunisa",
                                     "country_domain": "USA",
-                                    "status": 0,
-                                    "cstatus": 0
+                                    "status": 2,
+                                    "cstatus": 2
                                 }
                             }
                         }
