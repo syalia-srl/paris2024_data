@@ -34445,12 +34445,12 @@
                 },
                 "male": {
                     "date": "2024/08/01",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "LIU Yukun",
                             "country_domain": "CHN",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "DU Linshu",
@@ -34475,7 +34475,7 @@
                         "6": {
                             "name": "KULISH Serhiy",
                             "country_domain": "UKR",
-                            "status": 0
+                            "status": 3
                         },
                         "7": {
                             "name": "NYMBURSKY Petr",
@@ -34491,53 +34491,101 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "LIU Yukun",
+                                "country_domain": "CHN"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "KULISH Serhiy",
+                                "country_domain": "UKR"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "KUSALE Swapnil",
+                                "country_domain": "IND"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "PRIVRATSKY Jiri",
+                                "country_domain": "CZE"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "HEGG Jon-Hermann",
+                                "country_domain": "NOR"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "KRYZS Lucas Bernard Denis",
+                                "country_domain": "FRA"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "BARTNIK Tomasz",
+                                "country_domain": "POL"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "KOVACEVIC Lazar",
+                                "country_domain": "SRB"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "PRIVRATSKY Jiri",
+                                    "country_domain": "CZE",
+                                    "status": 1,
+                                    "cstatus": 0
+                                },
+                                "2": {
+                                    "name": "SCHMIRL Alexander",
+                                    "country_domain": "AUT",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "TOMAR Aishwary",
+                                    "country_domain": "IND",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "LIU Yukun",
+                                    "country_domain": "CHN",
+                                    "status": 2,
+                                    "cstatus": 0
+                                },
+                                "2": {
+                                    "name": "PRIVRATSKY Jiri",
+                                    "country_domain": "CZE",
+                                    "status": 1,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "HEGG Jon-Hermann",
+                                    "country_domain": "NOR",
+                                    "status": 1,
+                                    "cstatus": 0
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
