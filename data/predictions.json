@@ -27569,12 +27569,12 @@
             "sex": {
                 "female": {
                     "date": "2024/08/01",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Rumanía",
                             "country_domain": "ROU",
-                            "status": 0
+                            "status": 3
                         },
                         "2": {
                             "name": "Estados Unidos",
@@ -27589,88 +27589,136 @@
                         "4": {
                             "name": "Nueva Zelanda",
                             "country_domain": "NZL",
-                            "status": 0
+                            "status": 4
                         },
                         "5": {
                             "name": "Australia",
                             "country_domain": "AUS",
-                            "status": 0
+                            "status": 1
                         },
                         "6": {
                             "name": "Noruega",
                             "country_domain": "NOR",
-                            "status": 0
+                            "status": 2
                         },
                         "7": {
                             "name": "Republica Checa",
                             "country_domain": "CZE",
-                            "status": 0
+                            "status": 1
                         },
                         "8": {
-                            "name": "Reino Unido",
+                            "name": "Gran Bretaña",
                             "country_domain": "GBR",
-                            "status": 0
+                            "status": 3
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Nueva Zelanda",
+                                "country_domain": "NZL"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Rumanía",
+                                "country_domain": "ROU"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Gran Bretaña",
+                                "country_domain": "GBR"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Países Bajos",
+                                "country_domain": "NED"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "France",
+                                "country_domain": "FRA"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Noruega",
+                                "country_domain": "NOR"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Australia",
+                                "country_domain": "AUS"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Republica Checa",
+                                "country_domain": "CZE"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Rumanía",
+                                    "country_domain": "ROU",
+                                    "status": 3,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Estados Unidos",
+                                    "country_domain": "USA",
+                                    "status": 0,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "Lituania",
+                                    "country_domain": "LAT",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Australia",
+                                    "country_domain": "AUS",
+                                    "status": 1,
+                                    "cstatus": 1
+                                },
+                                "2": {
+                                    "name": "Noruega",
+                                    "country_domain": "NOR",
+                                    "status": 1,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "Estados Unidos",
+                                    "country_domain": "USA",
+                                    "status": 0,
+                                    "cstatus": 3
+                                }
+                            }
+                        }
+                    ]
                 },
                 "male": {
                     "date": "2024/08/01",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Países Bajos",
                             "country_domain": "NED",
-                            "status": 0
+                            "status": 3
                         },
                         "2": {
                             "name": "Croacia",
@@ -27685,22 +27733,22 @@
                         "4": {
                             "name": "Estados Unidos",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 2
                         },
                         "5": {
                             "name": "Irlanda",
                             "country_domain": "IRL",
-                            "status": 0
+                            "status": 3
                         },
                         "6": {
-                            "name": "Servia",
+                            "name": "Serbia",
                             "country_domain": "SRB",
-                            "status": 0
+                            "status": 1
                         },
                         "7": {
                             "name": "España",
                             "country_domain": "ESP",
-                            "status": 0
+                            "status": 1
                         },
                         "8": {
                             "name": "Alemania",
@@ -27711,53 +27759,101 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Rumanía",
+                                "country_domain": "ROU"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Paises Bajos",
+                                "country_domain": "NED"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Irlanda",
+                                "country_domain": "IRL"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Estados Unidos",
+                                "country_domain": "USA"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "España",
+                                "country_domain": "ESP"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Nueva Zelanda",
+                                "country_domain": "NZL"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Serbia",
+                                "country_domain": "SRB"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Francia",
+                                "country_domain": "FRA"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Paises Bajos",
+                                    "country_domain": "NED",
+                                    "status": 3,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Rumanía",
+                                    "country_domain": "ROU",
+                                    "status": 0,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "Irlanda",
+                                    "country_domain": "IRL",
+                                    "status": 2,
+                                    "cstatus": 1
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Paises Bajos",
+                                    "country_domain": "NED",
+                                    "status": 3,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Rumanía",
+                                    "country_domain": "ROU",
+                                    "status": 0,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "España",
+                                    "country_domain": "IRL",
+                                    "status": 1,
+                                    "cstatus": 1
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
