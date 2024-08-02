@@ -1598,12 +1598,12 @@
                             "status": 0
                         },
                         "2": {
-                            "name": "Biniam Mehary",
+                            "name": "Berihu Aregawi",
                             "country_domain": "ETH",
                             "status": 0
                         },
                         "3": {
-                            "name": "Berihu Aregawi",
+                            "name": "Selemon Barega",
                             "country_domain": "ETH",
                             "status": 0
                         },
@@ -1682,7 +1682,55 @@
                                 "country_domain": ""
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Selemon Barega",
+                                    "country_domain": "KEN",
+                                    "status": 0,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Daniel Ebenyo",
+                                    "country_domain": "KEN",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "Berihu Aregawi",
+                                    "country_domain": "ETH",
+                                    "status": 0,
+                                    "cstatus": 3
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Yomif Kejelcha",
+                            "country_domain": "ETH",
+                                    "status": 0,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Berihu Aregawi",
+                            "country_domain": "ETH",
+                                    "status": 0,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "Jacob Kiplimo",
+                                    "country_domain": "UGA",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
