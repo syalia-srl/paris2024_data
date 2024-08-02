@@ -35957,7 +35957,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/02",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "MCINTOSH Seonaid",
@@ -35967,7 +35967,7 @@
                         "2": {
                             "name": "LEONE Chiara",
                             "country_domain": "SUI",
-                            "status": 0
+                            "status": 4
                         },
                         "3": {
                             "name": "BEER Jolyn",
@@ -35977,7 +35977,7 @@
                         "4": {
                             "name": "ZHANG Qiongyue",
                             "country_domain": "CHN",
-                            "status": 0
+                            "status": 3
                         },
                         "5": {
                             "name": "PIETRUK Aleksandra Anna",
@@ -36003,50 +36003,50 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "LEONE Chiara",
+                                "country_domain": "SUI"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "MADDALENA Sagen",
+                                "country_domain": "USA"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "ZHANG Qiongyue",
+                                "country_domain": "CHN"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "DUESTAD Jeanette Hegg",
+                                "country_domain": "NOR"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "UNGERANK Nadine",
+                                "country_domain": "AUT"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "KOCHANSKA Natalia",
+                                "country_domain": "POL"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "OYUNBAT Yesugen",
+                                "country_domain": "MGL"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "GRUNDSOEE Stephanie Laura Scurrah",
+                                "country_domain": "DEN"
                             }
                         ]
                     },
@@ -36057,7 +36057,7 @@
                                 "1": {
                                     "name": "QIONGYUE Zhang ",
                                     "country_domain": "CHN",
-                                    "status": 0,
+                                    "status": 3,
                                     "cstatus": 1
                                 },
                                 "2": {
