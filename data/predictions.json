@@ -37034,7 +37034,55 @@
                                 "country_domain": ""
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "van AANHOLT Odile / DUETZ Annette",
+                                    "country_domain": "NED",
+                                    "status": 0,
+                                    "cstatus": 1
+                                },
+                                "2": {
+                                    "name": "GRAEL Martine / KUNZE Kahena",
+                                    "country_domain": "BRA",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "PRICE Olivia / HASELDINE Evie",
+                                    "country_domain": "AUS",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "van AANHOLT Odile / DUETZ Annette",
+                                    "country_domain": "NED",
+                                    "status": 0,
+                                    "cstatus": 1
+                                },
+                                "2": {
+                                    "name": "GRAEL Martine / KUNZE Kahena",
+                                    "country_domain": "BRA",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "BOBECK Vilma / NETZLER Rebecca",
+                                    "country_domain": "SWE",
+                                    "status": 0,
+                                    "cstatus": 4
+                                }
+                            }
+                        }
+                    ]
                 },
                 "male": {
                     "date": "2024/08/01",
@@ -37130,7 +37178,55 @@
                                 "country_domain": ""
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "LAMBRIEX Bart / van de WERKEN Floris",
+                                    "country_domain": "NED",
+                                    "status": 0,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "FISCHER Erwan / PEQUIN Clément",
+                                    "country_domain": "FRA",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "BOTIN le CHEVER Diego / TRITTEL JOHANNES Florian",
+                                    "country_domain": "ESP",
+                                    "status": 0,
+                                    "cstatus": 3
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "LAMBRIEX Bart / van de WERKEN Floris",
+                                    "country_domain": "NED",
+                                    "status": 0,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "FISCHER Erwan / PEQUIN Clément",
+                                    "country_domain": "FRA",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "BOTIN le CHEVER Diego / TRITTEL JOHANNES Florian",
+                                    "country_domain": "ESP",
+                                    "status": 0,
+                                    "cstatus": 3
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
