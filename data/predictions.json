@@ -14453,7 +14453,55 @@
                                 "country_domain": ""
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "YAN Langyu",
+                                    "country_domain": "CHN",
+                                    "status": 0,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "LITVINOVICH Ivan",
+                                    "country_domain": "AIN",
+                                    "status": 0,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "NISHIOKA Ryusei",
+                                    "country_domain": "JPN",
+                                    "status": 0,
+                                    "cstatus": 1
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "YAN Langyu",
+                                    "country_domain": "CHN",
+                                    "status": 0,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "NISHIOKA Ryusei",
+                                    "country_domain": "JPN",
+                                    "status": 0,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "LITVINOVICH Ivan",
+                                    "country_domain": "AIN",
+                                    "status": 0,
+                                    "cstatus": 4
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
