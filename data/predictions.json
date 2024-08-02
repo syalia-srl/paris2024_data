@@ -37027,7 +37027,55 @@
                                 "country_domain": ""
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "WILSON Emma",
+                                    "country_domain": "GBR",
+                                    "status": 0,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "LAMADRID TRUEBA Pilar",
+                                    "country_domain": "ESP",
+                                    "status": 0,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "KANTOR Sharon",
+                                    "country_domain": "ISR",
+                                    "status": 0,
+                                    "cstatus": 3
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "KANTOR Sharon",
+                                    "country_domain": "ISR",
+                                    "status": 0,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "WILSON Emma",
+                                    "country_domain": "GBR",
+                                    "status": 0,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "MOBEKK Mina",
+                                    "country_domain": "NOR",
+                                    "status": 0,
+                                    "cstatus": 1
+                                }
+                            }
+                        }
+                    ]
                 },
                 "male": {
                     "date": "2024/08/02",
@@ -37123,7 +37171,55 @@
                                 "country_domain": ""
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "RENNA Nicolo",
+                                    "country_domain": "ITA",
+                                    "status": 0,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Luuc VAN OPZEELAND",
+                                    "country_domain": "NED",
+                                    "status": 0,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "KORDEL Sebastian",
+                                    "country_domain": "GER",
+                                    "status": 0,
+                                    "cstatus": 2
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Luuc VAN OPZEELAND",
+                                    "country_domain": "NED",
+                                    "status": 0,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "RENNA Nicolo",
+                                    "country_domain": "ITA",
+                                    "status": 0,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "TARNOWSKI Pawel",
+                                    "country_domain": "POL",
+                                    "status": 0,
+                                    "cstatus": 1
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
