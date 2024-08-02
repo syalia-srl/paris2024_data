@@ -32590,7 +32590,55 @@
                                 "country_domain": ""
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Iga Świątek",
+                                    "country_domain": "POL",
+                                    "status": 0,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Coco Gauff",
+                                    "country_domain": "USA",
+                                    "status": 0,
+                                    "cstatus": 3
+                                },
+                                "3": {
+                                    "name": "Jasmine Paolini",
+                                    "country_domain": "ITA",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Iga Świątek",
+                                    "country_domain": "POL",
+                                    "status": 0,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Coco Gauff",
+                                    "country_domain": "USA",
+                                    "status": 0,
+                                    "cstatus": 3
+                                },
+                                "3": {
+                                    "name": "Jasmine Paolini",
+                                    "country_domain": "ITA",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        }
+                    ]
                 },
                 "male": {
                     "date": "2024/08/04",
