@@ -36069,7 +36069,7 @@
                             "status": 0
                         },
                         "7": {
-                            "name": "Taipei",
+                            "name": "China Taipei",
                             "country_domain": "TPE",
                             "status": 0
                         },
@@ -36128,7 +36128,55 @@
                                 "country_domain": ""
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Corea del Sur",
+                                    "country_domain": "KOR",
+                                    "status": 0,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Alemania",
+                                    "country_domain": "GER",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "China Taipei",
+                                    "country_domain": "TPE",
+                                    "status": 0,
+                                    "cstatus": 1
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Japon",
+                                    "country_domain": "JPN",
+                                    "status": 0,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Corea del Sur",
+                                    "country_domain": "KOR",
+                                    "status": 0,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "España",
+                                    "country_domain": "ESP",
+                                    "status": 0,
+                                    "cstatus": 1
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
