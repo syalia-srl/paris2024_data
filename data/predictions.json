@@ -30417,7 +30417,7 @@
                         "5": [
                             {
                                 "name": "Francia",
-                                "country_domain": "FRA`"
+                                "country_domain": "FRA"
                             }
                         ],
                         "6": [
@@ -37782,27 +37782,27 @@
             "sex": {
                 "female": {
                     "date": "2024/08/01",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "BOBECK Vilma / NETZLER Rebecca",
                             "country_domain": "SWE",
-                            "status": 0
+                            "status": 3
                         },
                         "2": {
                             "name": "Helene Næss / Marie RØNNINGEN",
                             "country_domain": "NOR",
-                            "status": 0
+                            "status": 1
                         },
                         "3": {
                             "name": "Jana GERMANI / Giorgia BERTUZZI",
                             "country_domain": "ITA",
-                            "status": 0
+                            "status": 1
                         },
                         "4": {
                             "name": "van AANHOLT Odile / DUETZ Annette",
                             "country_domain": "NED",
-                            "status": 0
+                            "status": 4
                         },
                         "5": {
                             "name": "PRICE Olivia / HASELDINE Evie",
@@ -37828,50 +37828,50 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "van AANHOLT Odile / DUETZ Annette",
+                                "country_domain": "NED"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "BOBECK Vilma / NETZLER Rebecca",
+                                "country_domain": "SWE"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Sarah STEYAERT /  Charlin PICON",
+                                "country_domain": "FRA"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Helene Næss / Marie RØNNINGEN",
+                                "country_domain": "NOR"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Jana GERMANI  / Giorgia BERTUCCI",
+                                "country_domain": "ITA"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
+                                "name": "Marla BERGMANN / Hanna WILLE",
                                 "country_domain": ""
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Jo ALEH / Molly Meech",
+                                "country_domain": "NZL"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "GRAEL Martine / KUNZE Kahena",
+                                "country_domain": "BRA"
                             }
                         ]
                     },
@@ -37882,20 +37882,20 @@
                                 "1": {
                                     "name": "van AANHOLT Odile / DUETZ Annette",
                                     "country_domain": "NED",
-                                    "status": 0,
+                                    "status": 2,
                                     "cstatus": 1
                                 },
                                 "2": {
                                     "name": "GRAEL Martine / KUNZE Kahena",
                                     "country_domain": "BRA",
-                                    "status": 0,
+                                    "status": 1,
                                     "cstatus": 0
                                 },
                                 "3": {
                                     "name": "PRICE Olivia / HASELDINE Evie",
                                     "country_domain": "AUS",
                                     "status": 0,
-                                    "cstatus": 0
+                                    "cstatus": 1
                                 }
                             }
                         },
@@ -37905,19 +37905,19 @@
                                 "1": {
                                     "name": "van AANHOLT Odile / DUETZ Annette",
                                     "country_domain": "NED",
-                                    "status": 0,
+                                    "status": 2,
                                     "cstatus": 1
                                 },
                                 "2": {
                                     "name": "GRAEL Martine / KUNZE Kahena",
-                                    "country_domain": "BRA",
+                                    "country_d1main": "BRA",
                                     "status": 0,
                                     "cstatus": 0
                                 },
                                 "3": {
                                     "name": "BOBECK Vilma / NETZLER Rebecca",
                                     "country_domain": "SWE",
-                                    "status": 0,
+                                    "status": 3,
                                     "cstatus": 4
                                 }
                             }
@@ -37926,37 +37926,37 @@
                 },
                 "male": {
                     "date": "2024/08/01",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "LAMBRIEX Bart / van de WERKEN Floris",
                             "country_domain": "NED",
-                            "status": 0
+                            "status": 1
                         },
                         "2": {
                             "name": "BOTIN le CHEVER Diego / TRITTEL JOHANNES Florian",
                             "country_domain": "ESP",
-                            "status": 0
+                            "status": 4
                         },
                         "3": {
                             "name": "SCHNEITER Sebastien / de PLANTA Arno",
                             "country_domain": "SUI",
-                            "status": 0
+                            "status": 1
                         },
                         "4": {
                             "name": "PETERS James / STERRITT Fynn",
                             "country_domain": "GBR",
-                            "status": 0
+                            "status": 1
                         },
                         "5": {
                             "name": "Dominik BUKSAK / Szymon WIERZBICKI",
                             "country_domain": "POL",
-                            "status": 0
+                            "status": 2
                         },
                         "6": {
                             "name": "Isaac McHARDIE / William McKENZIE",
                             "country_domain": "NZL",
-                            "status": 0
+                            "status": 3
                         },
                         "7": {
                             "name": "Benjamin BILDSTEIN / David HUSSL",
@@ -37966,56 +37966,56 @@
                         "8": {
                             "name": "DICKSON Robert / WADDILOVE Sean",
                             "country_domain": "IRL",
-                            "status": 0
+                            "status": 1
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "BOTIN le CHEVER Diego / TRITTEL JOHANNES Florian",
+                                "country_domain": "ESP"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Isaac McHARDIE / William McKENZIE",
+                                "country_domain": "NZL"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "BARROWS Ian / HENKEN Hans",
+                                "country_domain": "USA"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "DICKSON Robert / WADDILOVE Sean",
+                                "country_domain": "IRL"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Dominik BUKSAK / Szymon WIERZBICKI",
+                                "country_domain": "POL"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "LAMBRIEX Bart / van de WERKEN Floris",
+                                "country_domain": "NED"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "PETERS James / STERRITT Fynn",
+                                "country_domain": "GBR"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "SCHNEITER Sebastien / de PLANTA Arno",
+                                "country_domain": "SUI"
                             }
                         ]
                     },
@@ -38026,7 +38026,7 @@
                                 "1": {
                                     "name": "LAMBRIEX Bart / van de WERKEN Floris",
                                     "country_domain": "NED",
-                                    "status": 0,
+                                    "status": 1,
                                     "cstatus": 2
                                 },
                                 "2": {
@@ -38038,7 +38038,7 @@
                                 "3": {
                                     "name": "BOTIN le CHEVER Diego / TRITTEL JOHANNES Florian",
                                     "country_domain": "ESP",
-                                    "status": 0,
+                                    "status": 4,
                                     "cstatus": 3
                                 }
                             }
@@ -38049,7 +38049,7 @@
                                 "1": {
                                     "name": "LAMBRIEX Bart / van de WERKEN Floris",
                                     "country_domain": "NED",
-                                    "status": 0,
+                                    "status": 1,
                                     "cstatus": 2
                                 },
                                 "2": {
@@ -38061,7 +38061,7 @@
                                 "3": {
                                     "name": "BOTIN le CHEVER Diego / TRITTEL JOHANNES Florian",
                                     "country_domain": "ESP",
-                                    "status": 0,
+                                    "status": 4,
                                     "cstatus": 3
                                 }
                             }
