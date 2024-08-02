@@ -30785,96 +30785,96 @@
                 },
                 "male": {
                     "date": "2024/08/02",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "China",
                             "country_domain": "CHN",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "España",
                             "country_domain": "ESP",
-                            "status": 0
+                            "status": 1
                         },
                         "3": {
                             "name": "Italia",
                             "country_domain": "ITA",
-                            "status": 0
+                            "status": 1
                         },
                         "4": {
                             "name": "Francia",
                             "country_domain": "FRA",
-                            "status": 0
+                            "status": 1
                         },
                         "5": {
                             "name": "Estados Unidos",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 1
                         },
                         "6": {
                             "name": "Ucrania",
                             "country_domain": "UKR",
-                            "status": 0
+                            "status": 1
                         },
                         "7": {
                             "name": "México",
                             "country_domain": "MEX",
-                            "status": 0
+                            "status": 3
                         },
                         "8": {
                             "name": "Gran Bretaña",
                             "country_domain": "GBR",
-                            "status": 0
+                            "status": 3
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "China",
+                                "country_domain": "CHN"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "México",
+                                "country_domain": "MEX"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Gran Bretaña",
+                                "country_domain": "GBR"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Italia",
+                                "country_domain": "ITA"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Francia",
+                                "country_domain": "FRA"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "España",
+                                "country_domain": "ESP"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Ucrania",
+                                "country_domain": "UKR"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Estados Unidos",
+                                "country_domain": "USA"
                             }
                         ]
                     },
@@ -30885,19 +30885,19 @@
                                 "1": {
                                     "name": "China",
                                     "country_domain": "CHN",
-                                    "status": 0,
+                                    "status": 2,
                                     "cstatus": 2
                                 },
                                 "2": {
                                     "name": "Francia",
                                     "country_domain": "FRA",
-                                    "status": 0,
+                                    "status": 1,
                                     "cstatus": 1
                                 },
                                 "3": {
                                     "name": "Gran Bretaña",
                                     "country_domain": "GBR",
-                                    "status": 0,
+                                    "status": 2,
                                     "cstatus": 1
                                 }
                             }
@@ -30908,20 +30908,20 @@
                                 "1": {
                                     "name": "China",
                                     "country_domain": "CHN",
-                                    "status": 0,
-                                    "cstatus": 0
+                                    "status": 2,
+                                    "cstatus": 2
                                 },
                                 "2": {
                                     "name": "Gran Bretaña",
                                     "country_domain": "GBR",
-                                    "status": 0,
-                                    "cstatus": 0
+                                    "status": 3,
+                                    "cstatus": 1
                                 },
                                 "3": {
                                     "name": "Francia",
                                     "country_domain": "FRA",
-                                    "status": 0,
-                                    "cstatus": 0
+                                    "status": 1,
+                                    "cstatus": 1
                                 }
                             }
                         }
