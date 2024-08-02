@@ -4434,42 +4434,42 @@
                     "finished": false,
                     "prediction": {
                         "1": {
-                            "name": "Pierce Lepage",
-                            "country_domain": "CAN",
-                            "status": 0
-                        },
-                        "2": {
                             "name": "Leo Neugebauer",
                             "country_domain": "GER",
                             "status": 0
                         },
-                        "3": {
+                        "2": {
                             "name": "Damian Warner",
                             "country_domain": "CAN",
                             "status": 0
                         },
-                        "4": {
+                        "3": {
                             "name": "Ayden oOens-Delerme",
                             "country_domain": "PUR",
                             "status": 0
                         },
-                        "5": {
+                        "4": {
                             "name": "Johannes Erm",
                             "country_domain": "EST",
                             "status": 0
                         },
-                        "6": {
-                            "name": "Kevin Mayer",
-                            "country_domain": "FRA",
-                            "status": 0
-                        },
-                        "7": {
+                        "5": {
                             "name": "Karel Tilga",
                             "country_domain": "EST",
                             "status": 0
                         },
-                        "8": {
+                        "6": {
                             "name": "Sander Skotheim",
+                            "country_domain": "NOR",
+                            "status": 0
+                        },
+                        "7": {
+                            "name": "Zachery Ziemek",
+                            "country_domain": "USA",
+                            "status": 0
+                        },
+                        "8": {
+                            "name": "Markus Rooth",
                             "country_domain": "NOR",
                             "status": 0
                         }
