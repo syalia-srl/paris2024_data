@@ -5669,7 +5669,55 @@
                                 "country_domain": ""
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Zheng Siwei - Huang Yaqiong",
+                                    "country_domain": "CHN",
+                                    "status": 0,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Seo Seung-jae - Chae Yoo-jung",
+                                    "country_domain": "KOR",
+                                    "status": 0,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "Yuta Watanabe - Arisa Higashino",
+                                    "country_domain": "JPN",
+                                    "status": 0,
+                                    "cstatus": 2
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Zheng Siwei - Huang Yaqiong",
+                                    "country_domain": "CHN",
+                                    "status": 0,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Feng Yanzhe - Huang Dongping",
+                                    "country_domain": "CHN",
+                                    "status": 0,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "Seo Seung-jae - Chae Yoo-jung",
+                                    "country_domain": "KOR",
+                                    "status": 0,
+                                    "cstatus": 1
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
