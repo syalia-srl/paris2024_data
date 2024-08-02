@@ -33588,42 +33588,42 @@
                     "finished": false,
                     "prediction": {
                         "1": {
-                            "name": "Ellen Perez - Matthew Ebden",
+                            "name": "Australia",
                             "country_domain": "AUS",
-                            "status": 0
+                            "status": 1
                         },
                         "2": {
-                            "name": "Coco Gauff - Taylor Fritz",
+                            "name": "Estados Unidos ",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 1
                         },
                         "3": {
-                            "name": "Laura Siegemund - Alexander Zverev",
+                            "name": "Alemania",
                             "country_domain": "GER",
                             "status": 0
                         },
                         "4": {
-                            "name": "Demi Schuurs - Wesley Koolhof",
+                            "name": "Países Bajos",
                             "country_domain": "NED",
-                            "status": 0
+                            "status": 2
                         },
                         "5": {
-                            "name": "Sara Sorribes Tormo - Marcel Granollers",
+                            "name": "España",
                             "country_domain": "ESP",
                             "status": 0
                         },
                         "6": {
-                            "name": "Sara Errani - Andrea Vavassori",
+                            "name": "Italia",
                             "country_domain": "ITA",
-                            "status": 0
+                            "status": 1
                         },
                         "7": {
-                            "name": "Caroline Garcia - Édouard Roger-Vasselin",
+                            "name": "Francia",
                             "country_domain": "FRA",
                             "status": 0
                         },
                         "8": {
-                            "name": "Heather Watson - Joe Salisbury",
+                            "name": "Gran Bretaña",
                             "country_domain": "GBR",
                             "status": 0
                         }
@@ -33631,50 +33631,50 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Republica Checa",
+                                "country_domain": "CZE"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "China",
+                                "country_domain": "CHN"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Canadá",
+                                "country_domain": "CAN"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Países Bajos",
+                                "country_domain": "NED"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Japón",
+                                "country_domain": "JPN"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Australia",
+                                "country_domain": "AUS"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Estados Unidos ",
+                                "country_domain": "USA"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Italia",
+                                "country_domain": "ITA"
                             }
                         ]
                     },
@@ -33683,21 +33683,21 @@
                             "name": "Sports Illustrated",
                             "prediction": {
                                 "1": {
-                                    "name": "Laura Siegemund - Alexander Zverev",
+                                    "name": "Alemania",
                                     "country_domain": "GER",
                                     "status": 0,
                                     "cstatus": 3
                                 },
                                 "2": {
-                                    "name": "Demi Schuurs - Wesley Koolhof",
+                                    "name": "Países Bajos",
                                     "country_domain": "NED",
-                                    "status": 0,
+                                    "status": 1,
                                     "cstatus": 1
                                 },
                                 "3": {
-                                    "name": "Ellen Perez - Matthew Ebden",
+                                    "name": "Australia",
                                     "country_domain": "AUS",
-                                    "status": 0,
+                                    "status": 1,
                                     "cstatus": 3
                                 }
                             }
