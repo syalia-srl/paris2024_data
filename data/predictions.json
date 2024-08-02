@@ -1712,13 +1712,13 @@
                             "prediction": {
                                 "1": {
                                     "name": "Yomif Kejelcha",
-                            "country_domain": "ETH",
+                                    "country_domain": "ETH",
                                     "status": 0,
                                     "cstatus": 2
                                 },
                                 "2": {
                                     "name": "Berihu Aregawi",
-                            "country_domain": "ETH",
+                                    "country_domain": "ETH",
                                     "status": 0,
                                     "cstatus": 2
                                 },
@@ -8298,7 +8298,55 @@
                                 "country_domain": ""
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Bethany Shriever",
+                                    "country_domain": "GBR",
+                                    "status": 0,
+                                    "cstatus": 1
+                                },
+                                "2": {
+                                    "name": "Alise Willoughby",
+                                    "country_domain": "USA",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "Saya Sakakibara",
+                                    "country_domain": "AUS",
+                                    "status": 0,
+                                    "cstatus": 4
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Saya Sakakibara",
+                                    "country_domain": "AUS",
+                                    "status": 0,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Zoé Claessens ",
+                                    "country_domain": "SUI",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "Alise Willoughby",
+                                    "country_domain": "USA",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        }
+                    ]
                 },
                 "male": {
                     "date": "2024/08/02",
@@ -8325,7 +8373,7 @@
                             "status": 0
                         },
                         "5": {
-                            "name": "Eddy Clerte",
+                            "name": "Romain Mahieu",
                             "country_domain": "FRA",
                             "status": 0
                         },
@@ -8394,7 +8442,55 @@
                                 "country_domain": ""
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Joris Daudet",
+                                    "country_domain": "FRA",
+                                    "status": 0,
+                                    "cstatus": 1
+                                },
+                                "2": {
+                                    "name": "Sylvain André",
+                                    "country_domain": "FRA",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "Romain Mahieu",
+                                    "country_domain": "FRA",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Joris Daudet",
+                                    "country_domain": "FRA",
+                                    "status": 0,
+                                    "cstatus": 1
+                                },
+                                "2": {
+                                    "name": "Romain Mahieu",
+                                    "country_domain": "FRA",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "Carlos Alberto Ramirez Yepes",
+                                    "country_domain": "COL",
+                                    "status": 0,
+                                    "cstatus": 4
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
