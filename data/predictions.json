@@ -37866,17 +37866,17 @@
             "sex": {
                 "female": {
                     "date": "2024/08/02",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "WILSON Emma",
                             "country_domain": "GBR",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "KANTOR Sharon",
                             "country_domain": "ISR",
-                            "status": 0
+                            "status": 2
                         },
                         "3": {
                             "name": "WENNEKES Sara",
@@ -37901,61 +37901,61 @@
                         "7": {
                             "name": "NOESMOEN Helene",
                             "country_domain": "FRA",
-                            "status": 0
+                            "status": 1
                         },
                         "8": {
                             "name": "MAGGETTI Marta",
                             "country_domain": "ITA",
-                            "status": 0
+                            "status": 3
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "WILSON Emma",
+                                "country_domain": "GBR"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "KANTOR Sharon",
+                                "country_domain": "ISR"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "MAGGETTI Marta",
+                                "country_domain": "ITA"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "NOESMOEN Helene",
+                                "country_domain": "FRA"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "SVIKOVA Katerina",
+                                "country_domain": "CZE"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "DZIARNOWSKA Maja",
+                                "country_domain": "POL"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "BAZO María",
+                                "country_domain": "PER"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "MARIE Theresa",
+                                "country_domain": "GER"
                             }
                         ]
                     },
@@ -37966,7 +37966,7 @@
                                 "1": {
                                     "name": "WILSON Emma",
                                     "country_domain": "GBR",
-                                    "status": 0,
+                                    "status": 2,
                                     "cstatus": 2
                                 },
                                 "2": {
@@ -37978,7 +37978,7 @@
                                 "3": {
                                     "name": "KANTOR Sharon",
                                     "country_domain": "ISR",
-                                    "status": 0,
+                                    "status": 3,
                                     "cstatus": 3
                                 }
                             }
@@ -37989,13 +37989,13 @@
                                 "1": {
                                     "name": "KANTOR Sharon",
                                     "country_domain": "ISR",
-                                    "status": 0,
+                                    "status": 3,
                                     "cstatus": 3
                                 },
                                 "2": {
                                     "name": "WILSON Emma",
                                     "country_domain": "GBR",
-                                    "status": 0,
+                                    "status": 4,
                                     "cstatus": 4
                                 },
                                 "3": {
@@ -38010,17 +38010,17 @@
                 },
                 "male": {
                     "date": "2024/08/02",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "RENNA Nicolo",
                             "country_domain": "ITA",
-                            "status": 0
+                            "status": 1
                         },
                         "2": {
                             "name": "Luuc VAN OPZEELAND",
                             "country_domain": "NED",
-                            "status": 0
+                            "status": 1
                         },
                         "3": {
                             "name": "KORDEL Sebastian",
@@ -38045,61 +38045,61 @@
                         "7": {
                             "name": "REUVENY Tom",
                             "country_domain": "ISR",
-                            "status": 0
+                            "status": 3
                         },
                         "8": {
                             "name": "TARNOWSKI Pawel",
                             "country_domain": "POL",
-                            "status": 0
+                            "status": 1
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "MORRIS Grae",
+                                "country_domain": "AUS"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "REUVENY Tom",
+                                "country_domain": "ISR"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "ARMIT JosH",
+                                "country_domain": "NZL"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "TARNOWSKI Pawel",
+                                "country_domain": "POL"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Luuc VAN OPZEELAND",
+                                "country_domain": "NED"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "RENNA Nicolo",
+                                "country_domain": "ITA"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "LYONS Noah",
+                                "country_domain": "USA"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "SILLS Sam",
+                                "country_domain": "GBR"
                             }
                         ]
                     },
@@ -38110,13 +38110,13 @@
                                 "1": {
                                     "name": "RENNA Nicolo",
                                     "country_domain": "ITA",
-                                    "status": 0,
+                                    "status": 1,
                                     "cstatus": 2
                                 },
                                 "2": {
                                     "name": "Luuc VAN OPZEELAND",
                                     "country_domain": "NED",
-                                    "status": 0,
+                                    "status": 1,
                                     "cstatus": 2
                                 },
                                 "3": {
@@ -38133,19 +38133,19 @@
                                 "1": {
                                     "name": "Luuc VAN OPZEELAND",
                                     "country_domain": "NED",
-                                    "status": 0,
+                                    "status": 1,
                                     "cstatus": 3
                                 },
                                 "2": {
                                     "name": "RENNA Nicolo",
                                     "country_domain": "ITA",
-                                    "status": 0,
+                                    "status": 1,
                                     "cstatus": 4
                                 },
                                 "3": {
                                     "name": "TARNOWSKI Pawel",
                                     "country_domain": "POL",
-                                    "status": 0,
+                                    "status": 1,
                                     "cstatus": 1
                                 }
                             }
