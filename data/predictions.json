@@ -19630,17 +19630,17 @@
             "sex": {
                 "mixed": {
                     "date": "2024/08/03",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Japón",
                             "country_domain": "JPN",
-                            "status": 0
+                            "status": 3
                         },
                         "2": {
                             "name": "Francia",
                             "country_domain": "FRA",
-                            "status": 0
+                            "status": 4
                         },
                         "3": {
                             "name": "Georgia",
@@ -19650,22 +19650,22 @@
                         "4": {
                             "name": "Italia",
                             "country_domain": "ITA",
-                            "status": 0
+                            "status": 1
                         },
                         "5": {
-                            "name": "República de Korea",
+                            "name": "Corea del Sur",
                             "country_domain": "KOR",
-                            "status": 0
+                            "status": 3
                         },
                         "6": {
                             "name": "Uzbekistan",
                             "country_domain": "UZB",
-                            "status": 0
+                            "status": 1
                         },
                         "7": {
                             "name": "Brasil",
                             "country_domain": "BRA",
-                            "status": 0
+                            "status": 3
                         },
                         "8": {
                             "name": "Turkía",
@@ -19676,53 +19676,113 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Francia",
+                                "country_domain": "FRA"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Japón",
+                                "country_domain": "JPN"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Brasil",
+                                "country_domain": "BRA"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Corea del Sur",
+                                "country_domain": "KOR"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Italia",
+                                "country_domain": "ITA"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Alemania",
+                                "country_domain": "GER"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Uzbekistan",
+                                "country_domain": "UZB"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Serbia",
+                                "country_domain": "SRB"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Japón",
+                                    "country_domain": "JPN",
+                                    "status": 3,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Francia",
+                                    "country_domain": "FRA",
+                                    "status": 4,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "Alemania",
+                                    "country_domain": "GER",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "4": {
+                                    "name": "Israel",
+                                    "country_domain": "ISR",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Francia",
+                                    "country_domain": "FRA",
+                                    "status": 2,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Japón",
+                                    "country_domain": "JPN",
+                                    "status": 2,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "Alemania",
+                                    "country_domain": "GER",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "4": {
+                                    "name": "Paises Bajos",
+                                    "country_domain": "NED",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
