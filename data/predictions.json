@@ -10470,7 +10470,7 @@
                         "8": [
                             {
                                 "name": "Jan Tratnik",
-                            "country_domain": "SLO"
+                                "country_domain": "SLO"
                             }
                         ]
                     },
@@ -34147,22 +34147,22 @@
             "sex": {
                 "female": {
                     "date": "2024/08/03",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "SUN Yingsha",
                             "country_domain": "CHN",
-                            "status": 0
+                            "status": 3
                         },
                         "2": {
                             "name": "CHEN Meng",
                             "country_domain": "CHN",
-                            "status": 0
+                            "status": 4
                         },
                         "3": {
                             "name": "HAYATA Hina",
                             "country_domain": "JPN",
-                            "status": 0
+                            "status": 2
                         },
                         "4": {
                             "name": "JEON Jihee",
@@ -34172,12 +34172,12 @@
                         "5": {
                             "name": "SHIN Yubin",
                             "country_domain": "KOR",
-                            "status": 0
+                            "status": 1
                         },
                         "6": {
                             "name": "CHENG I-Ching",
                             "country_domain": "TPE",
-                            "status": 0
+                            "status": 2
                         },
                         "7": {
                             "name": "YANG Xiaoxin",
@@ -34193,53 +34193,101 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "CHEN Meng",
+                                "country_domain": "CHN"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "SUN Yingsha",
+                                "country_domain": "CHN"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "HAYATA Hina",
+                                "country_domain": "JPN"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "SHIN Yubin",
+                                "country_domain": "KOR"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "POLCANOVA Sofía",
+                                "country_domain": "POL"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "CHENG I-Ching",
+                                "country_domain": "TPE"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "SON-GYONG Pyon",
+                                "country_domain": "PRK"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "HIRANO Miu",
+                                "country_domain": "JPN"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "CHEN Meng",
+                                    "country_domain": "CHN",
+                                    "status": 2,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "SUN Yingsha",
+                                    "country_domain": "CHN",
+                                    "status": 2,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "HAYATA Hina",
+                                    "country_domain": "JPN",
+                                    "status": 2,
+                                    "cstatus": 2
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "SUN Yingsha",
+                                    "country_domain": "CHN",
+                                    "status": 3,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "CHEN Meng",
+                                    "country_domain": "CHN",
+                                    "status": 4,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "HAYATA Hina",
+                                    "country_domain": "JPN",
+                                    "status": 2,
+                                    "cstatus": 2
+                                }
+                            }
+                        }
+                    ]
                 },
                 "male": {
                     "date": "2024/08/04",
