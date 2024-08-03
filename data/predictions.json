@@ -35581,12 +35581,12 @@
                 },
                 "male": {
                     "date": "2024/08/03",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "HANCOCK Vincent",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "MEHELBA Azmy",
@@ -35596,7 +35596,7 @@
                         "3": {
                             "name": "CASSANDRO Tammaro",
                             "country_domain": "ITA",
-                            "status": 0
+                            "status": 1
                         },
                         "4": {
                             "name": "KALLIOINEN Eetu",
@@ -35606,7 +35606,7 @@
                         "5": {
                             "name": "ROSSETTI Gabriele",
                             "country_domain": "ITA",
-                            "status": 0
+                            "status": 1
                         },
                         "6": {
                             "name": "HANSEN Jesper",
@@ -35616,7 +35616,7 @@
                         "7": {
                             "name": "NILSSON Stefan",
                             "country_domain": "SWE",
-                            "status": 0
+                            "status": 1
                         },
                         "8": {
                             "name": "SVENSSON Marcus",
@@ -35627,53 +35627,101 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "HANCOCK Vincent",
+                                "country_domain": "USA"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "PRINCE Conner",
+                                "country_domain": "USA"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "MENG-YUAN Lee",
+                                "country_domain": "TPE"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "CASSANDRO Tammaro",
+                                "country_domain": "ITA"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "NILSSON Stefan",
+                                "country_domain": "SWE"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "PACHECO Nicolás",
+                                "country_domain": "PER"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "ROSSETTI Gabriele",
+                                "country_domain": "ITA"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "KORTE Sven",
+                                "country_domain": "GER"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "MEHELBA Azmy",
+                                    "country_domain": "EGY",
+                                    "status": 0,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "HANSEN Jesper",
+                                    "country_domain": "DEN",
+                                    "status": 0,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "CASSANDRO Tammaro",
+                                    "country_domain": "ITA",
+                                    "status": 1,
+                                    "cstatus": 3
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "HANCOCK Vincent",
+                                    "country_domain": "USA",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "ROSSETTI Gabriele",
+                                    "country_domain": "ITA",
+                                    "status": 1,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "HANSEN Jesper",
+                                    "country_domain": "DEN",
+                                    "status": 0,
+                                    "cstatus": 1
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
