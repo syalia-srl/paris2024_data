@@ -10381,7 +10381,7 @@
                 },
                 "male": {
                     "date": "2024/08/03",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Wout Van Aert",
@@ -10396,7 +10396,7 @@
                         "3": {
                             "name": "Christophe Laporte",
                             "country_domain": "FRA",
-                            "status": 0
+                            "status": 2
                         },
                         "4": {
                             "name": "Mads Pedersen",
@@ -10406,12 +10406,12 @@
                         "5": {
                             "name": "Jan Tratnik",
                             "country_domain": "SLO",
-                            "status": 0
+                            "status": 1
                         },
                         "6": {
                             "name": "Remco Evenepoel",
                             "country_domain": "BEL",
-                            "status": 0
+                            "status": 4
                         },
                         "7": {
                             "name": "Jhonatan Manuel Narvaez Prado",
@@ -10427,53 +10427,101 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Remco Evenepoel",
+                                "country_domain": "BEL"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Valentin Madouas",
+                                "country_domain": "FRA"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Christophe Laporte",
+                                "country_domain": "FRA"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Attila Valter",
+                                "country_domain": "HUN"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Toms Skujiņš",
+                                "country_domain": "LAT"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Marco Haller",
+                                "country_domain": "AUT"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Stefan Küng",
+                                "country_domain": "SUI"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Jan Tratnik",
+                            "country_domain": "SLO"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Mathieu Van Der Poel",
+                                    "country_domain": "NED",
+                                    "status": 0,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Remco Evenepoel",
+                                    "country_domain": "BEL",
+                                    "status": 4,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "Tadej Pogacar",
+                                    "country_domain": "SLO",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Mathieu Van Der Poel",
+                                    "country_domain": "NED",
+                                    "status": 0,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Remco Evenepoel",
+                                    "country_domain": "BEL",
+                                    "status": 4,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "Michael Mathews",
+                                    "country_domain": "SLO",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
