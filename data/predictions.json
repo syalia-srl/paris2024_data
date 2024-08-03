@@ -5433,27 +5433,27 @@
             "sex": {
                 "female": {
                     "date": "2024/08/04",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Chen Qingchen - Jia Yifan",
                             "country_domain": "CHN",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "Liu Shengshu - Tan Ning",
                             "country_domain": "CHN",
-                            "status": 0
+                            "status": 2
                         },
                         "3": {
                             "name": "Nami Matsuyama - Chiharu Shida",
                             "country_domain": "JPN",
-                            "status": 0
+                            "status": 2
                         },
                         "4": {
                             "name": "Baek Ha-na - Lee So-hee",
                             "country_domain": "KOR",
-                            "status": 0
+                            "status": 1
                         },
                         "5": {
                             "name": "Apriyani Rahayu - Siti Fadia Silva Ramadhanti",
@@ -5468,7 +5468,7 @@
                         "7": {
                             "name": "Kim So-yeong - Kong Hee-yong",
                             "country_domain": "KOR",
-                            "status": 0
+                            "status": 1
                         },
                         "8": {
                             "name": "Margot Lambert - Anne Tran",
@@ -5479,53 +5479,101 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Chen Qingchen - Jia Yifan",
+                                "country_domain": "CHN"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Liu Shengshu - Tan Ning",
+                                "country_domain": "CHN"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Nami Matsuyama - Chiharu Shida",
+                                "country_domain": "JPN"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Thinaah Muralitharan - Pearly Tan",
+                                "country_domain": "MAS"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Gabriela Stoeva  - Stefani Stoeva ",
+                                "country_domain": "BUL"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Baek Ha-na - Lee So-hee",
+                                "country_domain": "KOR"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Maiken Fruergaard - Sara Thygesen",
+                                "country_domain": "DEN"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Kim So-yeong - Kong Hee-yong",
+                                "country_domain": "KOR"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Chen Qingchen - Jia Yifan",
+                                    "country_domain": "CHN",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Baek Ha-na - Lee So-hee",
+                                    "country_domain": "KOR",
+                                    "status": 1,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "Apriyani Rahayu - Siti Fadia Silva Ramadhanti",
+                                    "country_domain": "INA",
+                                    "status": 0,
+                                    "cstatus": 1
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Chen Qingchen - Jia Yifan",
+                                    "country_domain": "CHN",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Baek Ha-na - Lee So-hee",
+                                    "country_domain": "KOR",
+                                    "status": 1,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "Liu Shengshu - Tan Ning",
+                                    "country_domain": "CHN",
+                                    "status": 3,
+                                    "cstatus": 3
+                                }
+                            }
+                        }
+                    ]
                 },
                 "male": {
                     "date": "2024/08/03",
