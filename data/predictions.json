@@ -38795,7 +38795,7 @@
                         "1": {
                             "name": "WILSON Emma",
                             "country_domain": "GBR",
-                            "status": 2
+                            "status": 3
                         },
                         "2": {
                             "name": "KANTOR Sharon",
@@ -38825,19 +38825,19 @@
                         "7": {
                             "name": "NOESMOEN Helene",
                             "country_domain": "FRA",
-                            "status": 1
+                            "status": 2
                         },
                         "8": {
                             "name": "MAGGETTI Marta",
                             "country_domain": "ITA",
-                            "status": 3
+                            "status": 4
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "WILSON Emma",
-                                "country_domain": "GBR"
+                                "name": "MAGGETTI Marta",
+                                "country_domain": "ITA"
                             }
                         ],
                         "2": [
@@ -38848,38 +38848,38 @@
                         ],
                         "3": [
                             {
-                                "name": "MAGGETTI Marta",
-                                "country_domain": "ITA"
+                                "name": "WILSON Emma",
+                                "country_domain": "GBR"
                             }
                         ],
                         "4": [
-                            {
-                                "name": "NOESMOEN Helene",
-                                "country_domain": "FRA"
-                            }
-                        ],
-                        "5": [
-                            {
-                                "name": "SVIKOVA Katerina",
-                                "country_domain": "CZE"
-                            }
-                        ],
-                        "6": [
-                            {
-                                "name": "DZIARNOWSKA Maja",
-                                "country_domain": "POL"
-                            }
-                        ],
-                        "7": [
                             {
                                 "name": "BAZO María",
                                 "country_domain": "PER"
                             }
                         ],
+                        "5": [
+                            {
+                                "name": "ZHENG Yan",
+                                "country_domain": "CHN"
+                            }
+                        ],
+                        "6": [
+                            {
+                                "name": "STEINLEIN Theresa Marie",
+                                "country_domain": "GER"
+                            }
+                        ],
+                        "7": [
+                            {
+                                "name": "NOESMOEN Helene",
+                                "country_domain": "FRA"
+                            }
+                        ],
                         "8": [
                             {
-                                "name": "MARIE Theresa",
-                                "country_domain": "GER"
+                                "name": "DZIARNOWSKA Maja",
+                                "country_domain": "POL"
                             }
                         ]
                     },
@@ -38890,7 +38890,7 @@
                                 "1": {
                                     "name": "WILSON Emma",
                                     "country_domain": "GBR",
-                                    "status": 2,
+                                    "status": 3,
                                     "cstatus": 2
                                 },
                                 "2": {
@@ -38919,8 +38919,8 @@
                                 "2": {
                                     "name": "WILSON Emma",
                                     "country_domain": "GBR",
-                                    "status": 4,
-                                    "cstatus": 4
+                                    "status": 3,
+                                    "cstatus": 3
                                 },
                                 "3": {
                                     "name": "MOBEKK Mina",
@@ -38944,7 +38944,7 @@
                         "2": {
                             "name": "Luuc VAN OPZEELAND",
                             "country_domain": "NED",
-                            "status": 1
+                            "status": 3
                         },
                         "3": {
                             "name": "KORDEL Sebastian",
@@ -38959,7 +38959,7 @@
                         "5": {
                             "name": "SILLS Samuel",
                             "country_domain": "GBR",
-                            "status": 0
+                            "status": 2
                         },
                         "6": {
                             "name": "SOE Johan",
@@ -38969,43 +38969,43 @@
                         "7": {
                             "name": "REUVENY Tom",
                             "country_domain": "ISR",
-                            "status": 3
+                            "status": 4
                         },
                         "8": {
                             "name": "TARNOWSKI Pawel",
                             "country_domain": "POL",
-                            "status": 1
+                            "status": 0
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "MORRIS Grae",
-                                "country_domain": "AUS"
-                            }
-                        ],
-                        "2": [
-                            {
                                 "name": "REUVENY Tom",
                                 "country_domain": "ISR"
                             }
                         ],
+                        "2": [
+                            {
+                                "name": "MORRIS Grae",
+                                "country_domain": "AUS"
+                            }
+                        ],
                         "3": [
                             {
-                                "name": "ARMIT JosH",
-                                "country_domain": "NZL"
+                                "name": "Luuc VAN OPZEELAND",
+                                "country_domain": "NED"
                             }
                         ],
                         "4": [
                             {
-                                "name": "TARNOWSKI Pawel",
-                                "country_domain": "POL"
+                                "name": "ARMIT Josh",
+                                "country_domain": "NZL"
                             }
                         ],
                         "5": [
                             {
-                                "name": "Luuc VAN OPZEELAND",
-                                "country_domain": "NED"
+                                "name": "SILLS Samuel",
+                                "country_domain": "GBR"
                             }
                         ],
                         "6": [
@@ -39016,14 +39016,14 @@
                         ],
                         "7": [
                             {
-                                "name": "LYONS Noah",
-                                "country_domain": "USA"
+                                "name": "COLOMBO Elia",
+                                "country_domain": "SUI"
                             }
                         ],
                         "8": [
                             {
-                                "name": "SILLS Sam",
-                                "country_domain": "GBR"
+                                "name": "WESTERA Ethan",
+                                "country_domain": "ARU"
                             }
                         ]
                     },
@@ -39040,7 +39040,7 @@
                                 "2": {
                                     "name": "Luuc VAN OPZEELAND",
                                     "country_domain": "NED",
-                                    "status": 1,
+                                    "status": 3,
                                     "cstatus": 2
                                 },
                                 "3": {
@@ -39057,7 +39057,7 @@
                                 "1": {
                                     "name": "Luuc VAN OPZEELAND",
                                     "country_domain": "NED",
-                                    "status": 1,
+                                    "status": 3,
                                     "cstatus": 3
                                 },
                                 "2": {
@@ -39069,8 +39069,8 @@
                                 "3": {
                                     "name": "TARNOWSKI Pawel",
                                     "country_domain": "POL",
-                                    "status": 1,
-                                    "cstatus": 1
+                                    "status": 0,
+                                    "cstatus": 0
                                 }
                             }
                         }
