@@ -26556,27 +26556,27 @@
             "sex": {
                 "female": {
                     "date": "2024/08/04",
-                    "finished": true,
+                    "finished": false,
                     "prediction": {
                         "1": {
                             "name": "Estados Unidos",
                             "country_domain": "USA",
-                            "status": 2
+                            "status": 0
                         },
                         "2": {
                             "name": "Australia",
                             "country_domain": "AUS",
-                            "status": 3
+                            "status": 0
                         },
                         "3": {
                             "name": "China",
                             "country_domain": "CHN",
-                            "status": 3
+                            "status": 0
                         },
                         "4": {
                             "name": "Canadá",
                             "country_domain": "CAN",
-                            "status": 1
+                            "status": 0
                         },
                         "5": {
                             "name": "Suecia",
@@ -26586,12 +26586,12 @@
                         "6": {
                             "name": "Países Bajos",
                             "country_domain": "NED",
-                            "status": 2
+                            "status": 0
                         },
                         "7": {
                             "name": "Japón",
                             "country_domain": "JPN",
-                            "status": 1
+                            "status": 0
                         },
                         "8": {
                             "name": "Alemania",
@@ -26602,50 +26602,50 @@
                     "result": {
                         "1": [
                             {
-                                "name": "Estados Unidos",
-                                "country_domain": "USA"
+                                "name": "",
+                                "country_domain": ""
                             }
                         ],
                         "2": [
                             {
-                                "name": "China",
-                                "country_domain": "CHN"
+                                "name": "",
+                                "country_domain": ""
                             }
                         ],
                         "3": [
                             {
-                                "name": "Australia",
-                                "country_domain": "AUS"
+                                "name": "",
+                                "country_domain": ""
                             }
                         ],
                         "4": [
                             {
-                                "name": "Francia",
-                                "country_domain": "FRA"
+                                "name": "",
+                                "country_domain": ""
                             }
                         ],
                         "5": [
                             {
-                                "name": "Canadá",
-                                "country_domain": "CAN"
+                                "name": "",
+                                "country_domain": ""
                             }
                         ],
                         "6": [
                             {
-                                "name": "Países Bajos",
-                                "country_domain": "NED"
+                                "name": "",
+                                "country_domain": ""
                             }
                         ],
                         "7": [
                             {
-                                "name": "Gran Bretaña",
-                                "country_domain": "GBR"
+                                "name": "",
+                                "country_domain": ""
                             }
                         ],
                         "8": [
                             {
-                                "name": "Japón",
-                                "country_domain": "JPN"
+                                "name": "",
+                                "country_domain": ""
                             }
                         ]
                     },
@@ -26656,19 +26656,19 @@
                                 "1": {
                                     "name": "Estados Unidos",
                                     "country_domain": "USA",
-                                    "status": 2,
-                                    "cstatus": 2
+                                    "status": 0,
+                                    "cstatus": 0
                                 },
                                 "2": {
                                     "name": "China",
                                     "country_domain": "CHN",
-                                    "status": 2,
-                                    "cstatus": 2
+                                    "status": 0,
+                                    "cstatus": 0
                                 },
                                 "3": {
                                     "name": "Gran Bretaña",
                                     "country_domain": "GBR",
-                                    "status": 1,
+                                    "status": 0,
                                     "cstatus": 0
                                 }
                             }
@@ -26679,19 +26679,19 @@
                                 "1": {
                                     "name": "Estados Unidos",
                                     "country_domain": "USA",
-                                    "status": 2,
-                                    "cstatus": 2
+                                    "status": 0,
+                                    "cstatus": 0
                                 },
                                 "2": {
                                     "name": "China",
                                     "country_domain": "CHN",
-                                    "status": 2,
-                                    "cstatus": 2
+                                    "status": 0,
+                                    "cstatus": 0
                                 },
                                 "3": {
                                     "name": "Francia",
                                     "country_domain": "FRA",
-                                    "status": 1,
+                                    "status": 0,
                                     "cstatus": 0
                                 }
                             }
@@ -26796,32 +26796,32 @@
                 },
                 "mixed": {
                     "date": "2024/08/03",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Estados Unidos",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "China",
                             "country_domain": "CHN",
-                            "status": 0
+                            "status": 2
                         },
                         "3": {
                             "name": "Australia",
                             "country_domain": "AUS",
-                            "status": 0
+                            "status": 2
                         },
                         "4": {
                             "name": "Países Bajos",
                             "country_domain": "NED",
-                            "status": 0
+                            "status": 1
                         },
                         "5": {
-                            "name": "Reino Unido",
+                            "name": "Gran Bretaña",
                             "country_domain": "GBR",
-                            "status": 0
+                            "status": 1
                         },
                         "6": {
                             "name": "Italia",
@@ -26831,64 +26831,112 @@
                         "7": {
                             "name": "Canadá",
                             "country_domain": "CAN",
-                            "status": 0
+                            "status": 1
                         },
                         "8": {
                             "name": "Francia",
                             "country_domain": "FRA",
-                            "status": 0
+                            "status": 1
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Estados Unidos",
+                                "country_domain": "USA"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "China",
+                                "country_domain": "CHN"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Australia",
+                                "country_domain": "AUS"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Francia",
+                                "country_domain": "FRA"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Canadá",
+                                "country_domain": "CAN"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Países Bajos",
+                                "country_domain": "NED"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Gran Bretaña",
+                                "country_domain": "GBR"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Japón",
+                                "country_domain": "JPN"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Estados Unidos",
+                                    "country_domain": "USA",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Australia",
+                                    "country_domain": "AUS",
+                                    "status": 3,
+                                    "cstatus": 3
+                                },
+                                "3": {
+                                    "name": "Canadà",
+                                    "country_domain": "CAN",
+                                    "status": 1,
+                                    "cstatus": 1
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Estados Unidos",
+                                    "country_domain": "USA",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Australia",
+                                    "country_domain": "AUS",
+                                    "status": 3,
+                                    "cstatus": 3
+                                },
+                                "3": {
+                                    "name": "China",
+                                    "country_domain": "CHN",
+                                    "status": 3,
+                                    "cstatus": 3
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
