@@ -1590,27 +1590,27 @@
                 },
                 "male": {
                     "date": "2024/08/02",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Yomif Kejelcha",
                             "country_domain": "ETH",
-                            "status": 0
+                            "status": 1
                         },
                         "2": {
                             "name": "Berihu Aregawi",
                             "country_domain": "ETH",
-                            "status": 0
+                            "status": 2
                         },
                         "3": {
                             "name": "Selemon Barega",
                             "country_domain": "ETH",
-                            "status": 0
+                            "status": 1
                         },
                         "4": {
                             "name": "Mohammed Ahmed",
                             "country_domain": "CAN",
-                            "status": 0
+                            "status": 2
                         },
                         "5": {
                             "name": "Daniel Mateiko",
@@ -1620,7 +1620,7 @@
                         "6": {
                             "name": "Grant Fisher",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 3
                         },
                         "7": {
                             "name": "Nico Young",
@@ -1636,50 +1636,50 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Joshua Cheptegei",
+                                "country_domain": "UGA"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Berihu Aregawi",
+                                "country_domain": "ETH"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Grant Fisher",
+                                "country_domain": "USA"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Mohammed Ahmed",
+                                "country_domain": "CAN"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Benard Kivet",
+                                "country_domain": "KEN"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Yomif Kejelcha",
+                                "country_domain": "ETH"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Selemon Barega",
+                                "country_domain": "ETH"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Jacob Kiplimo",
+                                "country_domain": "UGA"
                             }
                         ]
                     },
@@ -1690,7 +1690,7 @@
                                 "1": {
                                     "name": "Selemon Barega",
                                     "country_domain": "KEN",
-                                    "status": 0,
+                                    "status": 1,
                                     "cstatus": 3
                                 },
                                 "2": {
@@ -1702,7 +1702,7 @@
                                 "3": {
                                     "name": "Berihu Aregawi",
                                     "country_domain": "ETH",
-                                    "status": 0,
+                                    "status": 3,
                                     "cstatus": 3
                                 }
                             }
@@ -1713,19 +1713,19 @@
                                 "1": {
                                     "name": "Yomif Kejelcha",
                                     "country_domain": "ETH",
-                                    "status": 0,
+                                    "status": 1,
                                     "cstatus": 2
                                 },
                                 "2": {
                                     "name": "Berihu Aregawi",
                                     "country_domain": "ETH",
-                                    "status": 0,
+                                    "status": 2,
                                     "cstatus": 2
                                 },
                                 "3": {
                                     "name": "Jacob Kiplimo",
                                     "country_domain": "UGA",
-                                    "status": 0,
+                                    "status": 1,
                                     "cstatus": 0
                                 }
                             }
@@ -24811,7 +24811,7 @@
                         "5": [
                             {
                                 "name": "Tom Dean",
-                            "country_domain": "GBR"
+                                "country_domain": "GBR"
                             }
                         ],
                         "6": [
@@ -24823,7 +24823,7 @@
                         "7": [
                             {
                                 "name": "Daiya Seto",
-                            "country_domain": "JPN"
+                                "country_domain": "JPN"
                             }
                         ],
                         "8": [
