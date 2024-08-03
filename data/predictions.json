@@ -35264,17 +35264,17 @@
             "sex": {
                 "female": {
                     "date": "2024/08/03",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "MAJOR Veronika",
                             "country_domain": "HUN",
-                            "status": 0
+                            "status": 3
                         },
                         "2": {
                             "name": "YANG Jiin",
                             "country_domain": "KOR",
-                            "status": 0
+                            "status": 4
                         },
                         "3": {
                             "name": "VENNEKAMP Doreen",
@@ -35289,7 +35289,7 @@
                         "5": {
                             "name": "BHAKER Manu",
                             "country_domain": "IND",
-                            "status": 0
+                            "status": 1
                         },
                         "6": {
                             "name": "STEINER Sylvia",
@@ -35310,53 +35310,101 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "YANG Jiin",
+                                "country_domain": "KOR"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Camille Jedrzejewski",
+                                "country_domain": "FRA"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "MAJOR Veronika",
+                                "country_domain": "HUN"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "BHAKER Manu",
+                                "country_domain": "IND"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "ZHAO Nan",
+                                "country_domain": "CHN"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "ROSTAMIYAN Haniyeh",
+                                "country_domain": "IRI"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "TRINH Thu Vinh",
+                                "country_domain": "VIE"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "ABELN Katelyn Morgan",
+                                "country_domain": "USA"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "VENNEKAMP Doreen",
+                                    "country_domain": "GER",
+                                    "status": 0,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Anna Korakai",
+                                    "country_domain": "GRE",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "Camille Jedrzejewski",
+                                    "country_domain": "FRA",
+                                    "status": 3,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "VENNEKAMP Doreen",
+                                    "country_domain": "GER",
+                                    "status": 0,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Camille Jedrzejewski",
+                                    "country_domain": "FRA",
+                                    "status": 0,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "EDER Josefin",
+                                    "country_domain": "GER",
+                                    "status": 0,
+                                    "cstatus": 1
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
