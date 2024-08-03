@@ -19016,37 +19016,37 @@
             "sex": {
                 "female": {
                     "date": "2024/08/02",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "DICKO Romane",
                             "country_domain": "FRA",
-                            "status": 0
+                            "status": 3
                         },
                         "2": {
                             "name": "SONE Akira",
                             "country_domain": "JPN",
-                            "status": 0
+                            "status": 1
                         },
                         "3": {
                             "name": "SOUZA Beatriz",
                             "country_domain": "BRA",
-                            "status": 0
+                            "status": 4
                         },
                         "4": {
                             "name": "OZDEMIR Kayra",
                             "country_domain": "TUR",
-                            "status": 0
+                            "status": 1
                         },
                         "5": {
                             "name": "HERSHKO Raz",
                             "country_domain": "ISR",
-                            "status": 0
+                            "status": 3
                         },
                         "6": {
                             "name": "KIM Hayun",
                             "country_domain": "KOR",
-                            "status": 0
+                            "status": 3
                         },
                         "7": {
                             "name": "NUNES Rochele",
@@ -19062,50 +19062,50 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "SOUZA Beatriz",
+                                "country_domain": "BRA"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "HERSHKO Raz",
+                                "country_domain": "ISR"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "KIM Hayun",
+                                "country_domain": "KOR"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "DICKO Romane",
+                                "country_domain": "FRA"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "OZDEMIR Kayra",
+                                "country_domain": "TUR"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "ZABIC Milica",
+                                "country_domain": "SRB"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "CERIC Larisa",
+                                "country_domain": "BIH"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "SONE Akira",
+                                "country_domain": "JPN"
                             }
                         ]
                     },
@@ -19116,25 +19116,25 @@
                                 "1": {
                                     "name": "SONE Akira",
                                     "country_domain": "JPN",
-                                    "status": 0,
+                                    "status": 1,
                                     "cstatus": 3
                                 },
                                 "2": {
                                     "name": "ORTIZ Idalis",
                                     "country_domain": "CUB",
-                                    "status": 0,
+                                    "status": 1,
                                     "cstatus": 0
                                 },
                                 "3": {
                                     "name": "DICKO Romane",
                                     "country_domain": "FRA",
-                                    "status": 0,
+                                    "status": 2,
                                     "cstatus": 4
                                 },
                                 "4": {
                                     "name": "OZDEMIR Kayra",
                                     "country_domain": "TUR",
-                                    "status": 0,
+                                    "status": 1,
                                     "cstatus": 2
                                 }
                             }
@@ -19145,25 +19145,25 @@
                                 "1": {
                                     "name": "DICKO Romane",
                                     "country_domain": "FRA",
-                                    "status": 0,
+                                    "status": 3,
                                     "cstatus": 2
                                 },
                                 "2": {
                                     "name": "SONE Akira",
                                     "country_domain": "JPN",
-                                    "status": 0,
+                                    "status": 1,
                                     "cstatus": 2
                                 },
                                 "3": {
                                     "name": "KIM Hayun",
                                     "country_domain": "KOR",
-                                    "status": 0,
+                                    "status": 2,
                                     "cstatus": 1
                                 },
                                 "4": {
                                     "name": "SOUZA Beatriz",
                                     "country_domain": "BRA",
-                                    "status": 0,
+                                    "status": 4,
                                     "cstatus": 2
                                 }
                             }
@@ -19179,37 +19179,37 @@
             "sex": {
                 "male": {
                     "date": "2024/08/02",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "RINER Teddy",
                             "country_domain": "FRA",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "KRPALEK Lukas",
                             "country_domain": "CZE",
-                            "status": 0
+                            "status": 1
                         },
                         "3": {
                             "name": "RAKHIMOV Temur",
                             "country_domain": "TJK",
-                            "status": 0
+                            "status": 2
                         },
                         "4": {
                             "name": "TUSHISHVILI Guram",
                             "country_domain": "GEO",
-                            "status": 0
+                            "status": 1
                         },
                         "5": {
                             "name": "SAITO Tatsuru",
                             "country_domain": "JPN",
-                            "status": 0
+                            "status": 2
                         },
                         "6": {
                             "name": "KIM Minjong",
                             "country_domain": "KOR",
-                            "status": 0
+                            "status": 3
                         },
                         "7": {
                             "name": "PUUMALAINEN Martti",
@@ -19219,56 +19219,56 @@
                         "8": {
                             "name": "YUSUPOV Alisher",
                             "country_domain": "UZB",
-                            "status": 0
+                            "status": 3
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "RINER Teddy",
+                                "country_domain": "FRA"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "KIM Minjong",
+                                "country_domain": "KOR"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "RAKHIMOV Temur",
+                                "country_domain": "TJK"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "YUSUPOV Alisher",
+                                "country_domain": "UZB"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "SAITO Tatsuru",
+                                "country_domain": "JPN"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Andy Granda",
+                                "country_domain": "CUB"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Ushangi Kokauri",
+                                "country_domain": "AZE"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "TUSHISHVILI Guram",
+                                "country_domain": "GEO"
                             }
                         ]
                     },
@@ -19279,13 +19279,13 @@
                                 "1": {
                                     "name": "RINER Teddy",
                                     "country_domain": "FRA",
-                                    "status": 0,
+                                    "status": 2,
                                     "cstatus": 2
                                 },
                                 "2": {
                                     "name": "RAKHIMOV Temur",
                                     "country_domain": "TJK",
-                                    "status": 0,
+                                    "status": 3,
                                     "cstatus": 3
                                 },
                                 "3": {
@@ -19297,7 +19297,7 @@
                                 "4": {
                                     "name": "YUSUPOV Alisher",
                                     "country_domain": "UZB",
-                                    "status": 0,
+                                    "status": 2,
                                     "cstatus": 1
                                 }
                             }
@@ -19308,25 +19308,25 @@
                                 "1": {
                                     "name": "RINER Teddy",
                                     "country_domain": "FRA",
-                                    "status": 0,
+                                    "status": 2,
                                     "cstatus": 2
                                 },
                                 "2": {
                                     "name": "KIM Minjong",
                                     "country_domain": "KOR",
-                                    "status": 0,
+                                    "status": 2,
                                     "cstatus": 1
                                 },
                                 "3": {
                                     "name": "YUSUPOV Alisher",
                                     "country_domain": "UZB",
-                                    "status": 0,
+                                    "status": 2,
                                     "cstatus": 1
                                 },
                                 "4": {
                                     "name": "SAITO Tatsuru",
                                     "country_domain": "JPN",
-                                    "status": 0,
+                                    "status": 1,
                                     "cstatus": 1
                                 }
                             }
@@ -36617,13 +36617,13 @@
                         "6": [
                             {
                                 "name": "Mexico",
-                            "country_domain": "MEX"
+                                "country_domain": "MEX"
                             }
                         ],
                         "7": [
                             {
                                 "name": "Japon",
-                            "country_domain": "JPN"
+                                "country_domain": "JPN"
                             }
                         ],
                         "8": [
