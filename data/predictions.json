@@ -13366,12 +13366,12 @@
             "sex": {
                 "male": {
                     "date": "2024/08/03",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "WHITLOCK Max",
                             "country_domain": "GBR",
-                            "status": 0
+                            "status": 1
                         },
                         "2": {
                             "name": "SUGINO Takaaki",
@@ -13381,7 +13381,7 @@
                         "3": {
                             "name": "NEDOROSCIK Stephen",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 3
                         },
                         "4": {
                             "name": "XIAO Ruoteng",
@@ -13391,7 +13391,7 @@
                         "5": {
                             "name": "MC CLENAGHAN Rhys",
                             "country_domain": "IRL",
-                            "status": 0
+                            "status": 4
                         },
                         "6": {
                             "name": "ZHANG Boheng",
@@ -13412,53 +13412,101 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "MC CLENAGHAN Rhys",
+                                "country_domain": "IRL"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "KURBANOX Nariman",
+                                "country_domain": "KAZ"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "NEDOROSCIK Stephen",
+                                "country_domain": "USA"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "WHITLOCK Max",
+                                "country_domain": "GBR"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "VERNIAIEV Oleg",
+                                "country_domain": "UKR"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "SUGINO Takaaki",
+                                "country_domain": "JPN"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "WOONG Hur",
+                                "country_domain": "KOR"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "DE MUNK Loran",
+                                "country_domain": "NED"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "MC CLENAGHAN Rhys",
+                                    "country_domain": "IRL",
+                                    "status": 2,
+                                    "cstatus": 1
+                                },
+                                "2": {
+                                    "name": "WHITLOCK Max",
+                                    "country_domain": "GBR",
+                                    "status": 1,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "Abu Al-Soud",
+                                    "country_domain": "JOR",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "MC CLENAGHAN Rhys",
+                                    "country_domain": "IRL",
+                                    "status": 2,
+                                    "cstatus": 1
+                                },
+                                "2": {
+                                    "name": "WHITLOCK Max",
+                                    "country_domain": "GBR",
+                                    "status": 1,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "Abu Al-Soud",
+                                    "country_domain": "JOR",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
@@ -13469,12 +13517,12 @@
             "sex": {
                 "female": {
                     "date": "2024/08/03",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "BILES Simone",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "BARBOSA Jade",
@@ -13484,12 +13532,12 @@
                         "3": {
                             "name": "ANDRADE Rebeca",
                             "country_domain": "BRA",
-                            "status": 0
+                            "status": 3
                         },
                         "4": {
                             "name": "CAREY Jade",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 3
                         },
                         "5": {
                             "name": "IORIO Elisa",
@@ -13504,64 +13552,112 @@
                         "7": {
                             "name": "OLSEN Shallon",
                             "country_domain": "CAN",
-                            "status": 0
+                            "status": 1
                         },
                         "8": {
                             "name": "BLACK Elsabeth",
                             "country_domain": "CAN",
-                            "status": 0
+                            "status": 1
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "BILES Simone",
+                                "country_domain": "USA"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "ANDRADE Rebeca",
+                                "country_domain": "BRA"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "CAREY Jade",
+                                "country_domain": "USA"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "CHANG-OK An",
+                                "country_domain": "PRK"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "GEORGIEVA Valentina",
+                                "country_domain": "BUL"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "BLACK Elsabeth",
+                                "country_domain": "CAN"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "SEO-JEONG Yeo",
+                                "country_domain": "KOR"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "OLSEN Shallon",
+                                "country_domain": "CAN"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "BILES Simone",
+                                    "country_domain": "USA",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "ANDRADE Rebeca",
+                                    "country_domain": "BRA",
+                                    "status": 2,
+                                    "cstatus": 3
+                                },
+                                "3": {
+                                    "name": "CAREY Jade",
+                                    "country_domain": "USA",
+                                    "status": 2,
+                                    "cstatus": 1
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "BILES Simone",
+                                    "country_domain": "USA",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "ANDRADE Rebeca",
+                                    "country_domain": "BRA",
+                                    "status": 2,
+                                    "cstatus": 3
+                                },
+                                "3": {
+                                    "name": "CAREY Jade",
+                                    "country_domain": "USA",
+                                    "status": 2,
+                                    "cstatus": 1
+                                }
+                            }
+                        }
+                    ]
                 },
                 "male": {
                     "date": "2024/08/04",
@@ -13764,7 +13860,7 @@
                 },
                 "male": {
                     "date": "2024/08/03",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "WHITLOCK Max",
@@ -13779,12 +13875,12 @@
                         "3": {
                             "name": "ZHANG Boheng",
                             "country_domain": "CHN",
-                            "status": 0
+                            "status": 1
                         },
                         "4": {
                             "name": "ZAPATA Rayderley",
                             "country_domain": "ESP",
-                            "status": 0
+                            "status": 1
                         },
                         "5": {
                             "name": "MARIANO Arthur",
@@ -13810,53 +13906,101 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "YULO Carlos",
+                                "country_domain": "PHI"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "DOLGOPYAT Artem",
+                                "country_domain": "ISR"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "HARMAN Jake",
+                                "country_domain": "GBR"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Ilia Kovtun",
+                                "country_domain": "UKR"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "KARIMI Milad",
+                                "country_domain": "KAZ"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "WHITEHOUSE Luke",
+                                "country_domain": "GBR"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "ZAPATA Rayderley",
+                                "country_domain": "ESP"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "ZHANG Boheng",
+                                "country_domain": "CHN"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "DOLGOPYAT Artem",
+                                    "country_domain": "ISR",
+                                    "status": 3,
+                                    "cstatus": 0
+                                },
+                                "2": {
+                                    "name": "YULO Carlos",
+                                    "country_domain": "PHI",
+                                    "status": 4,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "KARIMI Milad",
+                                    "country_domain": "KAZ",
+                                    "status": 1,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "DOLGOPYAT Artem",
+                                    "country_domain": "ISR",
+                                    "status": 3,
+                                    "cstatus": 0
+                                },
+                                "2": {
+                                    "name": "KARIMI Milad",
+                                    "country_domain": "KAZ",
+                                    "status": 1,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "Minami",
+                                    "country_domain": "JPN",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
