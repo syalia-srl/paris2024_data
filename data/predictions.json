@@ -11321,96 +11321,96 @@
                 },
                 "male": {
                     "date": "2024/08/02",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Italia",
                             "country_domain": "ITA",
-                            "status": 0
+                            "status": 1
                         },
                         "2": {
                             "name": "Hungria",
                             "country_domain": "HUN",
-                            "status": 0
+                            "status": 4
                         },
                         "3": {
                             "name": "Francia",
                             "country_domain": "FRA",
-                            "status": 0
+                            "status": 1
                         },
                         "4": {
                             "name": "Japón",
                             "country_domain": "JPN",
-                            "status": 0
+                            "status": 3
                         },
                         "5": {
-                            "name": "Kazajastá",
+                            "name": "Kazajastán",
                             "country_domain": "KAZ",
-                            "status": 0
+                            "status": 1
                         },
                         "6": {
                             "name": "República Checa",
                             "country_domain": "CZE",
-                            "status": 0
+                            "status": 3
                         },
                         "7": {
                             "name": "Venezuela",
                             "country_domain": "VEN",
-                            "status": 0
+                            "status": 2
                         },
                         "8": {
                             "name": "Egipto",
                             "country_domain": "EGY",
-                            "status": 0
+                            "status": 2
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Hungria",
+                                "country_domain": "HUN"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Japón",
+                                "country_domain": "JPN"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "República Checa",
+                                "country_domain": "CZE"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Francia",
+                                "country_domain": "FRA"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Italia",
+                                "country_domain": "ITA"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Kazajastán",
+                                "country_domain": "KAZ"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Venezuela",
+                                "country_domain": "VEN"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Egipto",
+                                "country_domain": "EGY"
                             }
                         ]
                     },
@@ -11421,19 +11421,19 @@
                                 "1": {
                                     "name": "Italia",
                                     "country_domain": "ITA",
-                                    "status": 0,
+                                    "status": 1,
                                     "cstatus": 2
                                 },
                                 "2": {
                                     "name": "Francia",
                                     "country_domain": "FRA",
-                                    "status": 0,
+                                    "status": 1,
                                     "cstatus": 3
                                 },
                                 "3": {
                                     "name": "Venezuela",
                                     "country_domain": "VEN",
-                                    "status": 0,
+                                    "status": 1,
                                     "cstatus": 1
                                 }
                             }
@@ -11444,19 +11444,19 @@
                                 "1": {
                                     "name": "Francia",
                                     "country_domain": "FRA",
-                                    "status": 0,
+                                    "status": 1,
                                     "cstatus": 3
                                 },
                                 "2": {
                                     "name": "Italia",
                                     "country_domain": "ITA",
-                                    "status": 0,
+                                    "status": 1,
                                     "cstatus": 4
                                 },
                                 "3": {
                                     "name": "Japón",
                                     "country_domain": "JPN",
-                                    "status": 0,
+                                    "status": 1,
                                     "cstatus": 1
                                 }
                             }
