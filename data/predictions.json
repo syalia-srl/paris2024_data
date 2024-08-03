@@ -37070,7 +37070,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/03",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Yang Xiaolei",
@@ -37080,7 +37080,7 @@
                         "2": {
                             "name": "Jeon Hun-young",
                             "country_domain": "KOR",
-                            "status": 0
+                            "status": 1
                         },
                         "3": {
                             "name": "Katharina Bauer",
@@ -37090,12 +37090,12 @@
                         "4": {
                             "name": "Alejandra Valencia",
                             "country_domain": "MEX",
-                            "status": 0
+                            "status": 1
                         },
                         "5": {
                             "name": "Lim Si-hyeon",
                             "country_domain": "KOR",
-                            "status": 0
+                            "status": 4
                         },
                         "6": {
                             "name": "Casey Kaufhold",
@@ -37110,59 +37110,107 @@
                         "8": {
                             "name": "Deepika Kumari",
                             "country_domain": "IND",
-                            "status": 0
+                            "status": 1
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Lim Si-hyeon",
+                                "country_domain": "KOR"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Nah Su-yeong",
+                                "country_domain": "KOR"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Lisa Barbelin",
+                                "country_domain": "FRA"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Jeon Hun-young",
+                                "country_domain": "KOR"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Alejandra Valencia",
+                                "country_domain": "MEX"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Deepika Kumari",
+                                "country_domain": "IND"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Dainanda Choirunisa",
+                                "country_domain": "INA"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Elif Berra Gökkir",
+                                "country_domain": "TUR"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Alejandra Valencia",
+                                    "country_domain": "MEX",
+                                    "status": 1,
+                                    "cstatus": 1
+                                },
+                                "2": {
+                                    "name": "Marie Horáčková",
+                                    "country_domain": "CZE",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "Casey Kaufhold",
+                                    "country_domain": "USA",
+                                    "status": 1,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Lim Si-hyeon",
+                                    "country_domain": "KOR",
+                                    "status": 2,
+                                    "cstatus": 1
+                                },
+                                "2": {
+                                    "name": "Yang Xiaolei",
+                                    "country_domain": "CHN",
+                                    "status": 0,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "Alejandra Valencia",
+                                    "country_domain": "MEX",
+                                    "status": 1,
+                                    "cstatus": 1
+                                }
+                            }
+                        }
+                    ]
                 },
                 "male": {
                     "date": "2024/08/04",
