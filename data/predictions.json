@@ -300,12 +300,12 @@
             "sex": {
                 "female": {
                     "date": "2024/08/03",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Sha'Carri Richardson",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 3
                         },
                         "2": {
                             "name": "Shelly-Ann Fraser-Pryce",
@@ -315,17 +315,17 @@
                         "3": {
                             "name": "Julien Alfred",
                             "country_domain": "LCA",
-                            "status": 0
+                            "status": 4
                         },
                         "4": {
                             "name": "Marie-Josée Ta Lou-Smith",
                             "country_domain": "CIV",
-                            "status": 0
+                            "status": 1
                         },
                         "5": {
                             "name": "Twanisha Terry",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 2
                         },
                         "6": {
                             "name": "Dina Asher-Smith",
@@ -335,7 +335,7 @@
                         "7": {
                             "name": "Melissa Jefferson",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 3
                         },
                         "8": {
                             "name": "Rosemary Chukwuma",
@@ -346,53 +346,101 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Julien Alfred",
+                                "country_domain": "LCA"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Sha'Carri Richardson",
+                                "country_domain": "USA"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Melissa Jefferson",
+                                "country_domain": "USA"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Daryll Neita",
+                                "country_domain": "GBR"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Twanisha Terry",
+                                "country_domain": "USA"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Mujinga Kambundji",
+                                "country_domain": "SUI"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Tia Clayton",
+                                "country_domain": "JAM"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Marie-Josée Ta Lou-Smith",
+                                "country_domain": "CIV"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Sha'Carri Richardson",
+                                    "country_domain": "USA",
+                                    "status": 3,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Shelly-Ann Fraser-Pryce",
+                                    "country_domain": "JAM",
+                                    "status": 0,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "Julien Alfred",
+                                    "country_domain": "LCA",
+                                    "status": 4,
+                                    "cstatus": 2
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Sha'Carri Richardson",
+                                    "country_domain": "USA",
+                                    "status": 3,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Shericka Jackson",
+                                    "country_domain": "JAM",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "Julien Alfred",
+                                    "country_domain": "LCA",
+                                    "status": 4,
+                                    "cstatus": 2
+                                }
+                            }
+                        }
+                    ]
                 },
                 "male": {
                     "date": "2024/08/04",
@@ -3436,12 +3484,12 @@
             "sex": {
                 "female": {
                     "date": "2024/08/03",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Leyanis Pérez Hernández",
                             "country_domain": "CUB",
-                            "status": 0
+                            "status": 1
                         },
                         "2": {
                             "name": "Maryna Bekh-Romanchuk",
@@ -3451,27 +3499,27 @@
                         "3": {
                             "name": "Shanieka Ricketts",
                             "country_domain": "JAM",
-                            "status": 0
+                            "status": 3
                         },
                         "4": {
                             "name": "Liadagmis Povea",
                             "country_domain": "CUB",
-                            "status": 0
+                            "status": 2
                         },
                         "5": {
                             "name": "Thea Lafond",
                             "country_domain": "DMA",
-                            "status": 0
+                            "status": 4
                         },
                         "6": {
                             "name": "Ana Peleteiro-Compaoré",
                             "country_domain": "ESP",
-                            "status": 0
+                            "status": 2
                         },
                         "7": {
                             "name": "Jasmine Moore",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 3
                         },
                         "8": {
                             "name": "Keturah Orji",
@@ -3482,53 +3530,101 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Thea Lafond",
+                                "country_domain": "DMA"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Shanieka Ricketts",
+                                "country_domain": "JAM"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Jasmine Moore",
+                                "country_domain": "USA"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Liadagmis Povea",
+                                "country_domain": "CUB"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Leyanis Pérez Hernández",
+                                "country_domain": "CUB"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Ana Peleteiro-Compaoré",
+                                "country_domain": "ESP"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Ackelia Smith",
+                                "country_domain": "JAM"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Dariya Derkach",
+                                "country_domain": "ITA"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Leyanis Pérez Hernández",
+                                    "country_domain": "CUB",
+                                    "status": 1,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Thea Lafond",
+                                    "country_domain": "DMA",
+                                    "status": 4,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "Shanieka Ricketts",
+                                    "country_domain": "JAM",
+                                    "status": 3,
+                                    "cstatus": 2
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Leyanis Pérez Hernández",
+                                    "country_domain": "CUB",
+                                    "status": 1,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Thea Lafond",
+                                    "country_domain": "DMA",
+                                    "status": 4,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "Maryna Bekh-Romanchuk",
+                                    "country_domain": "UKR",
+                                    "status": 0,
+                                    "cstatus": 3
+                                }
+                            }
+                        }
+                    ]
                 },
                 "male": {
                     "date": "2024/08/09",
@@ -3731,27 +3827,27 @@
                 },
                 "male": {
                     "date": "2024/08/03",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Ryan Crouser",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "Joe Kovacs",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 2
                         },
                         "3": {
                             "name": "Leonardo Fabbri",
                             "country_domain": "ITA",
-                            "status": 0
+                            "status": 1
                         },
                         "4": {
                             "name": "Payton Otterdahl",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 2
                         },
                         "5": {
                             "name": "Tom Walsh",
@@ -3761,7 +3857,7 @@
                         "6": {
                             "name": "Jacko Gill",
                             "country_domain": "NZL",
-                            "status": 0
+                            "status": 2
                         },
                         "7": {
                             "name": "Zane Weir",
@@ -3771,59 +3867,107 @@
                         "8": {
                             "name": "Chukwuebuka Cornnell Enekwechi",
                             "country_domain": "NGR",
-                            "status": 0
+                            "status": 1
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Ryan Crouser",
+                                "country_domain": "USA"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Joe Kovacs",
+                                "country_domain": "USA"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Rajindra Campbell",
+                                "country_domain": "JAM"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Payton Otterdahl",
+                                "country_domain": "USA"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Chukwuebuka Cornnell Enekwechi",
+                                "country_domain": "NGR"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Jacko Gill",
+                                "country_domain": "NZL"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Leonardo Fabbri",
+                                "country_domain": "ITA"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Uziel Muñoz",
+                                "country_domain": "MEX"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Joe Kovacs",
+                                    "country_domain": "USA",
+                                    "status": 3,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Ryan Crouser",
+                                    "country_domain": "USA",
+                                    "status": 4,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "Leonardo Fabbri",
+                                    "country_domain": "ITA",
+                                    "status": 1,
+                                    "cstatus": 2
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Joe Kovacs",
+                                    "country_domain": "USA",
+                                    "status": 3,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Ryan Crouser",
+                                    "country_domain": "USA",
+                                    "status": 4,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "Leonardo Fabbri",
+                                    "country_domain": "ITA",
+                                    "status": 1,
+                                    "cstatus": 2
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
@@ -4431,12 +4575,12 @@
             "sex": {
                 "male": {
                     "date": "2024/08/03",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Leo Neugebauer",
                             "country_domain": "GER",
-                            "status": 0
+                            "status": 3
                         },
                         "2": {
                             "name": "Damian Warner",
@@ -4451,7 +4595,7 @@
                         "4": {
                             "name": "Johannes Erm",
                             "country_domain": "EST",
-                            "status": 0
+                            "status": 1
                         },
                         "5": {
                             "name": "Karel Tilga",
@@ -4471,59 +4615,107 @@
                         "8": {
                             "name": "Markus Rooth",
                             "country_domain": "NOR",
-                            "status": 0
+                            "status": 4
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Markus Rooth",
+                                "country_domain": "NOR"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Leo Neugebauer",
+                                "country_domain": "GER"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Victor Lindon",
+                                "country_domain": "GRN"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Sven Roosen",
+                                "country_domain": "NED"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Janek Õiglane",
+                                "country_domain": "EST"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Johannes Erm",
+                                "country_domain": "EST"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Harrison Williams",
+                                "country_domain": "USA"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Niklas Kaul",
+                                "country_domain": "GER"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Damian Warner",
+                                    "country_domain": "CAN",
+                                    "status": 0,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Leo Neugebauer",
+                                    "country_domain": "GER",
+                                    "status": 2,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "Pierce LePage",
+                                    "country_domain": "CAN",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Leo Neugebauer",
+                                    "country_domain": "GER",
+                                    "status": 3,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Ayden oOens-Delerme",
+                                    "country_domain": "PUR",
+                                    "status": 0,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "Damian Warner",
+                                    "country_domain": "CAN",
+                                    "status": 0,
+                                    "cstatus": 3
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
@@ -5028,22 +5220,22 @@
                 },
                 "mixed": {
                     "date": "2024/08/03",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Estados Unidos",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 3
                         },
                         "2": {
-                            "name": "Jamaica",
-                            "country_domain": "JAM",
-                            "status": 0
-                        },
-                        "3": {
                             "name": "Países Bajos",
                             "country_domain": "NED",
-                            "status": 0
+                            "status": 4
+                        },
+                        "3": {
+                            "name": "Jamaica",
+                            "country_domain": "JAM",
+                            "status": 1
                         },
                         "4": {
                             "name": "Irlanda",
@@ -5053,12 +5245,12 @@
                         "5": {
                             "name": "Bélgica",
                             "country_domain": "BEL",
-                            "status": 0
+                            "status": 1
                         },
                         "6": {
                             "name": "Francia",
                             "country_domain": "FRA",
-                            "status": 0
+                            "status": 1
                         },
                         "7": {
                             "name": "República Dominicana",
@@ -5074,53 +5266,101 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Países Bajos",
+                                "country_domain": "NED"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Estados Unidos",
+                                "country_domain": "USA"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Gran Bretaña",
+                                "country_domain": "GBR"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Bélgica",
+                                "country_domain": "BEL"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Jamaica",
+                                "country_domain": "JAM"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Italia",
+                                "country_domain": "ITA"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Polonia",
+                                "country_domain": "POL"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Francia",
+                                "country_domain": "FRA"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Estados Unidos ",
+                                    "country_domain": "USA",
+                                    "status": 3,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Gran Bretaña",
+                                    "country_domain": "GBR",
+                                    "status": 3,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "Países Bajos",
+                                    "country_domain": "NED",
+                                    "status": 4,
+                                    "cstatus": 3
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Estados Unidos ",
+                                    "country_domain": "USA",
+                                    "status": 3,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Países Bajos",
+                                    "country_domain": "NED",
+                                    "status": 4,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "Irlanda",
+                                    "country_domain": "IRL",
+                                    "status": 0,
+                                    "cstatus": 2
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
