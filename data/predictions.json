@@ -35303,12 +35303,12 @@
                 },
                 "male": {
                     "date": "2024/08/04",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "FAN Zhendong",
                             "country_domain": "CHN",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "WANG Chuqin",
@@ -35318,12 +35318,12 @@
                         "3": {
                             "name": "CALDERANO Hugo",
                             "country_domain": "BRA",
-                            "status": 0
+                            "status": 1
                         },
                         "4": {
                             "name": "LEBRUN Felix",
                             "country_domain": "FRA",
-                            "status": 0
+                            "status": 3
                         },
                         "5": {
                             "name": "OVTCHAROV Dimitrij",
@@ -35333,7 +35333,7 @@
                         "6": {
                             "name": "HARIMOTO Tomokazu",
                             "country_domain": "JPN",
-                            "status": 0
+                            "status": 1
                         },
                         "7": {
                             "name": "TOGAMI Shunsuke",
@@ -35349,53 +35349,101 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "FAN Zhendong",
+                                "country_domain": "CHN"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "MOREGARD Truls",
+                                "country_domain": "SWE"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "LEBRUN Felix",
+                                "country_domain": "FRA"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "CALDERANO Hugo",
+                                "country_domain": "BRA"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "HARIMOTO Tomokazu",
+                                "country_domain": "JPN"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "ASSAR Omar",
+                                "country_domain": "EGY"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "YUN-JU Li",
+                                "country_domain": "TPE"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "WOO-JIN Jang",
+                                "country_domain": "KOR"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "FAN Zhendong",
+                                    "country_domain": "CHN",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "WANG Chuqin",
+                                    "country_domain": "CHN",
+                                    "status": 0,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "HARIMOTO Tomokazu",
+                                    "country_domain": "JPN",
+                                    "status": 1,
+                                    "cstatus": 1
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "WANG Chuqin",
+                                    "country_domain": "CHN",
+                                    "status": 0,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "FAN Zhendong",
+                                    "country_domain": "CHN",
+                                    "status": 4,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "CALDERANO Hugo",
+                                    "country_domain": "BRA",
+                                    "status": 1,
+                                    "cstatus": 3
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
