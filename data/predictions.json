@@ -10573,7 +10573,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/04",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Demi Vollering",
@@ -10583,7 +10583,7 @@
                         "2": {
                             "name": "Lotte Kopecky",
                             "country_domain": "BEL",
-                            "status": 0
+                            "status": 3
                         },
                         "3": {
                             "name": "Cecilie Ludwing",
@@ -10619,53 +10619,101 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Kristen Faulkner",
+                                "country_domain": "USA"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Marianne Vos",
+                                "country_domain": "NED"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Lotte Kopecky",
+                                "country_domain": "BEL"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Blanka Vas",
+                                "country_domain": "HUN"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Pfeiffer Georgi",
+                                "country_domain": "GBR"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Mavi Garcia",
+                                "country_domain": "ESP"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Noemi Rüegg",
+                                "country_domain": "SUI"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Katarzyna Niewadoma",
+                                "country_domain": "POL"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Lotte Kopecky",
+                                    "country_domain": "BEL",
+                                    "status": 3,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Demi Vollering",
+                                    "country_domain": "NED",
+                                    "status": 0,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "Marianne Vos",
+                                    "country_domain": "NED",
+                                    "status": 2,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Lotte Kopecky",
+                                    "country_domain": "BEL",
+                                    "status": 3,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Demi Vollering",
+                                    "country_domain": "NED",
+                                    "status": 0,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "Elisa Longo",
+                                    "country_domain": "ITA",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        }
+                    ]
                 },
                 "male": {
                     "date": "2024/08/03",
