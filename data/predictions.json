@@ -38370,12 +38370,12 @@
                 },
                 "male": {
                     "date": "2024/08/04",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Kim Woo-jin",
                             "country_domain": "KOR",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "Marcus Vinicius D'Almeida",
@@ -38390,17 +38390,17 @@
                         "4": {
                             "name": "Lee Woo-seok",
                             "country_domain": "KOR",
-                            "status": 0
+                            "status": 3
                         },
                         "5": {
                             "name": "Mauro Nespoli",
                             "country_domain": "ITA",
-                            "status": 0
+                            "status": 1
                         },
                         "6": {
                             "name": "Florian Unruh",
                             "country_domain": "GER",
-                            "status": 0
+                            "status": 3
                         },
                         "7": {
                             "name": "Tang Chih-Chun",
@@ -38416,53 +38416,101 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Kim Woo-jin",
+                                "country_domain": "KOR"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Florian Unruh",
+                                "country_domain": "GER"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Lee Woo-seok",
+                                "country_domain": "KOR"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Brady Ellison",
+                                "country_domain": "USA"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Mete Gazoz",
+                                "country_domain": "TUR"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Baptiste Addis",
+                                "country_domain": "FRA"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Mauro Nespoli",
+                                "country_domain": "ITA"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Kim Je-deok",
+                                "country_domain": "KOR"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Mete Gazoz",
+                                    "country_domain": "TUR",
+                                    "status": 0,
+                                    "cstatus": 1
+                                },
+                                "2": {
+                                    "name": "Marcus Vinicius D'Almeida",
+                                    "country_domain": "BRA",
+                                    "status": 0,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "Kim Woo-jin",
+                                    "country_domain": "KOR",
+                                    "status": 4,
+                                    "cstatus": 4
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Kim Woo-jin",
+                                    "country_domain": "KOR",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Lee Woo-seok",
+                                    "country_domain": "KOR",
+                                    "status": 3,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "Marcus Vinicius D'Almeida",
+                                    "country_domain": "BRA",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
