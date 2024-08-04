@@ -5817,32 +5817,32 @@
                 },
                 "male": {
                     "date": "2024/08/03",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Kim Astrup - Anders Skaarup Rasmussen",
                             "country_domain": "DEN",
-                            "status": 0
+                            "status": 1
                         },
                         "2": {
                             "name": "Liang Weikeng - Wang Chang",
                             "country_domain": "CHN",
-                            "status": 0
+                            "status": 2
                         },
                         "3": {
                             "name": "Satwiksairaj Rankireddy - Chirag Shetty",
                             "country_domain": "IND",
-                            "status": 0
+                            "status": 1
                         },
                         "4": {
                             "name": "Kang Min-hyuk - Seo Seung-jae",
                             "country_domain": "KOR",
-                            "status": 0
+                            "status": 1
                         },
                         "5": {
                             "name": "Aaron Chia - Soh Wooi Yik",
                             "country_domain": "MAS",
-                            "status": 0
+                            "status": 3
                         },
                         "6": {
                             "name": "Liu Yuchen - Ou Xuanyi",
@@ -5857,59 +5857,106 @@
                         "8": {
                             "name": "Lee Yang - Wang Chi-lin",
                             "country_domain": "TPE",
-                            "status": 0
+                            "status": 4
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Lee Yang - Wang Chi-lin",
+                                "country_domain": "TPE"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Liang Weikeng - Wang Chang",
+                                "country_domain": "CHN"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Aaron Chia - Soh Wooi Yik",
+                                "country_domain": "MAS"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Kim Astrup - Anders Skaarup Rasmussen",
+                                "country_domain": "DEN"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Supak Jomkoh - Kittinupong Kedren ",
+                                "country_domain": "THA"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Fajar Alfian - Muhammad Rian Ardianto",
+                                "country_domain": "INA"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Satwiksairaj Rankireddy - Chirag Shetty",
+                                "country_domain": "IND"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Kang Min-hyuk - Seo Seung-jae",
+                                "country_domain": "KOR"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Kang Min-hyuk - Seo Seung-jae",
+                                    "country_domain": "KOR",
+                                    "status": 1,
+                                    "cstatus": 1
+                                },
+                                "2": {
+                                    "name": "Aaron Chia - Soh Wooi Yik",
+                                    "country_domain": "MAS",
+                                    "status": 3,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "Kim Astrup - Anders Skaarup Rasmussen",
+                                    "country_domain": "DEN",
+                                    "status": 1,
+                                    "cstatus": 2
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Liang Weikeng - Wang Chang",
+                                    "country_domain": "CHN",
+                                    "status": 3,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Kim Astrup - Anders Skaarup Rasmussen",
+                                    "country_domain": "DEN",
+                                    "status": 1,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "Kang Min-hyuk - Seo Seung-jae",
+                                    "country_domain": "KOR",
+                                    "status": 1
+                                }
+                            }
+                        }
+                    ]
                 },
                 "mixed": {
                     "date": "2024/08/02",
