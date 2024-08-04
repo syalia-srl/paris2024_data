@@ -36592,7 +36592,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/04",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "VIZZI Dania Jo",
@@ -36602,7 +36602,7 @@
                         "2": {
                             "name": "SMITH Austen Jewell",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 3
                         },
                         "3": {
                             "name": "GAO Jinmei",
@@ -36612,7 +36612,7 @@
                         "4": {
                             "name": "CROVETTO CHADID Francisca",
                             "country_domain": "CHI",
-                            "status": 0
+                            "status": 4
                         },
                         "5": {
                             "name": "JONES Aislin",
@@ -36638,53 +36638,101 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "CROVETTO CHADID Francisca",
+                                "country_domain": "CHI"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "SMITH Austen Jewell",
+                                "country_domain": "USA"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "RUTTER Amber",
+                                "country_domain": "GBR"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "HOCKOVA Vanessa",
+                                "country_domain": "SVK"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "KATZOURAKI Emmanouela",
+                                "country_domain": "GRE"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "BARTEKOVA Danka",
+                                "country_domain": "SVK"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "RODRÍGUEZ Gabriela",
+                                "country_domain": "MEX"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "WISSMER Nele",
+                                "country_domain": "GER"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "BACOSI Diana",
+                                    "country_domain": "ITA",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "2": {
+                                    "name": "BARTEKOVA Danka",
+                                    "country_domain": "SVK",
+                                    "status": 1,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "VIZZI Dania Jo",
+                                    "country_domain": "USA",
+                                    "status": 0,
+                                    "cstatus": 4
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "BACOSI Diana",
+                                    "country_domain": "ITA",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "2": {
+                                    "name": "BARTEKOVA Danka",
+                                    "country_domain": "SVK",
+                                    "status": 1,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "SMITH",
+                                    "country_domain": "GBR",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        }
+                    ]
                 },
                 "male": {
                     "date": "2024/08/03",
