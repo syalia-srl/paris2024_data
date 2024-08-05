@@ -29136,22 +29136,22 @@
             "sex": {
                 "female": {
                     "date": "2024/08/05",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Noemie Fox",
                             "country_domain": "AUS",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "Angele Hug",
                             "country_domain": "FRA",
-                            "status": 0
+                            "status": 2
                         },
                         "3": {
                             "name": "Kimberley Woods",
                             "country_domain": "GBR",
-                            "status": 0
+                            "status": 2
                         },
                         "4": {
                             "name": "Mallory Franklin",
@@ -29182,67 +29182,115 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Noemie Fox",
+                                "country_domain": "AUS"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Angele Hug",
+                                "country_domain": "FRA"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Kimberley Woods",
+                                "country_domain": "GBR"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Elena Lilik",
+                                "country_domain": "GER"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Luuka Jones",
+                                "country_domain": "NZL"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Alena Marx",
+                                "country_domain": "SUI"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Carole Bouzidi",
+                                "country_domain": "ALG"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Ana Sátila",
+                                "country_domain": "BRA"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Camille Prigent",
+                                    "country_domain": "FRA",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "2": {
+                                    "name": "Kimberley Woods",
+                                    "country_domain": "",
+                                    "status": 3,
+                                    "cstatus": 3
+                                },
+                                "3": {
+                                    "name": "Eva Tercelj",
+                                    "country_domain": "SLO",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Noemie Fox",
+                                    "country_domain": "AUS",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Kimberley Woods",
+                                    "country_domain": "",
+                                    "status": 3,
+                                    "cstatus": 3
+                                },
+                                "3": {
+                                    "name": "Eva Tercelj",
+                                    "country_domain": "SLO",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        }
+                    ]
                 },
                 "male": {
                     "date": "2024/08/05",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Joe Clarke",
                             "country_domain": "GBR",
-                            "status": 0
+                            "status": 3
                         },
                         "2": {
                             "name": "Neveu Boris",
                             "country_domain": "FRA",
-                            "status": 0
+                            "status": 1
                         },
                         "3": {
                             "name": "Peter Kauzer",
@@ -29252,7 +29300,7 @@
                         "4": {
                             "name": "Martin Dougoud",
                             "country_domain": "SUI",
-                            "status": 0
+                            "status": 1
                         },
                         "5": {
                             "name": "Jiri Prskavec",
@@ -29272,59 +29320,107 @@
                         "8": {
                             "name": "Mateusz Polaczyk",
                             "country_domain": "POL",
-                            "status": 0
+                            "status": 2
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Finn Butcher",
+                                "country_domain": "NZL"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Joseph Clarke",
+                                "country_domain": "GBR"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Noah Hegge ",
+                                "country_domain": "GER"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Lukáš Rohan",
+                                "country_domain": "CZE"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Martin Dougoud",
+                                "country_domain": "SUI"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Jakub Grigar ",
+                                "country_domain": "SVK"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Boris Neveu",
+                                "country_domain": "FRA"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Mateusz Polaczyk",
+                                "country_domain": "POL"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Joseph Clarke",
+                                    "country_domain": "GBR",
+                                    "status": 3,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Martin Dougoud",
+                                    "country_domain": "SUI",
+                                    "status": 1,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "Boris Neveu",
+                                    "country_domain": "FRA",
+                                    "status": 1,
+                                    "cstatus": 1
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Joseph Clarke",
+                                    "country_domain": "GBR",
+                                    "status": 3,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Boris Neveu",
+                                    "country_domain": "FRA",
+                                    "status": 1,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "Martin Dougoud",
+                                    "country_domain": "SUI",
+                                    "status": 1,
+                                    "cstatus": 1
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
