@@ -37268,7 +37268,7 @@
             "sex": {
                 "male": {
                     "date": "2024/08/05",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "SONG Jong-Ho",
@@ -37278,12 +37278,12 @@
                         "2": {
                             "name": "Li Yuehong",
                             "country_domain": "CHN",
-                            "status": 0
+                            "status": 4
                         },
                         "3": {
                             "name": "BESSAGUET Clement",
                             "country_domain": "FRA",
-                            "status": 0
+                            "status": 1
                         },
                         "4": {
                             "name": "PODHRASKY Martin",
@@ -37360,7 +37360,55 @@
                                 "country_domain": ""
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "BESSAGUET Clement",
+                                    "country_domain": "FRA",
+                                    "status": 1,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Li Yuehong",
+                                    "country_domain": "CHN",
+                                    "status": 4,
+                                    "cstatus": 3
+                                },
+                                "3": {
+                                    "name": "PETER Florian",
+                                    "country_domain": "GER",
+                                    "status": 1,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "BESSAGUET Clement",
+                                    "country_domain": "FRA",
+                                    "status": 1,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Li Yuehong",
+                                    "country_domain": "CHN",
+                                    "status": 4,
+                                    "cstatus": 3
+                                },
+                                "3": {
+                                    "name": "REITZ Christian",
+                                    "country_domain": "GER",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
@@ -39451,17 +39499,17 @@
                         "3": {
                             "name": "Estados Unidos",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 3
                         },
                         "4": {
                             "name": "Gran Bretaña",
                             "country_domain": "GBR",
-                            "status": 0
+                            "status": 3
                         },
                         "5": {
                             "name": "Alemania",
                             "country_domain": "GER",
-                            "status": 0
+                            "status": 4
                         },
                         "6": {
                             "name": "Bélgica",
