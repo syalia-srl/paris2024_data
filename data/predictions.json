@@ -5616,7 +5616,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/05",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Tai Tzu-ying",
@@ -5626,27 +5626,27 @@
                         "2": {
                             "name": "Chen Yufei",
                             "country_domain": "CHN",
-                            "status": 0
+                            "status": 1
                         },
                         "3": {
                             "name": "An Se-young",
                             "country_domain": "KOR",
-                            "status": 0
+                            "status": 4
                         },
                         "4": {
                             "name": "Carolina Marín",
                             "country_domain": "ESP",
-                            "status": 0
+                            "status": 2
                         },
                         "5": {
                             "name": "He Bingjiao",
                             "country_domain": "CHN",
-                            "status": 0
+                            "status": 3
                         },
                         "6": {
                             "name": "Akane Yamaguchi",
                             "country_domain": "JPN",
-                            "status": 0
+                            "status": 1
                         },
                         "7": {
                             "name": "Beiwen Zhang",
@@ -5656,78 +5656,126 @@
                         "8": {
                             "name": "Ratchanok Intanon",
                             "country_domain": "THA",
-                            "status": 0
+                            "status": 1
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "An Se-young",
+                                "country_domain": "KOR"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "He Bingjiao",
+                                "country_domain": "CHN"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Gregoria Mariska Tunjung",
+                                "country_domain": "INA"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Carolina Marín",
+                                "country_domain": "ESP"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Akane Yamaguchi",
+                                "country_domain": "JPN"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Chen Yufei",
+                                "country_domain": "CHN"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Ratchanok Intanon",
+                                "country_domain": "THA"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Aya Ohori",
+                                "country_domain": "JPN"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Akane Yamaguchi",
+                                    "country_domain": "JPN",
+                                    "status": 1,
+                                    "cstatus": 1
+                                },
+                                "2": {
+                                    "name": "An Se-young",
+                                    "country_domain": "KOR",
+                                    "status": 4,
+                                    "cstatus": 3
+                                },
+                                "3": {
+                                    "name": "Chen Yufei",
+                                    "country_domain": "CHN",
+                                    "status": 1,
+                                    "cstatus": 3
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "An Se-young",
+                                    "country_domain": "KOR",
+                                    "status": 2,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Chen Yufei",
+                                    "country_domain": "CHN",
+                                    "status": 1,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "Tai Tzu-ying",
+                                    "country_domain": "TPE",
+                                    "status": 0,
+                                    "cstatus": 4
+                                }
+                            }
+                        }
+                    ]
                 },
                 "male": {
                     "date": "2024/08/05",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Shi Yuqi",
                             "country_domain": "CHN",
-                            "status": 0
+                            "status": 1
                         },
                         "2": {
                             "name": "Viktor Axelsen",
                             "country_domain": "DEN",
-                            "status": 0
+                            "status": 4
                         },
                         "3": {
                             "name": "Anders Antonsen",
                             "country_domain": "DEN",
-                            "status": 0
+                            "status": 1
                         },
                         "4": {
                             "name": "Kodai Naraoka",
@@ -5747,7 +5795,7 @@
                         "7": {
                             "name": "Lee Zii Jia",
                             "country_domain": "MAS",
-                            "status": 0
+                            "status": 3
                         },
                         "8": {
                             "name": "Li Shifeng",
@@ -5758,53 +5806,101 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Viktor Axelsen",
+                                "country_domain": "DEN"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Kunlavut Vitidsarn",
+                                "country_domain": "THA"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Lee Zii Jia",
+                                "country_domain": "MAS"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Lakshya Sen",
+                                "country_domain": "IND"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Loh Kean Yew ",
+                                "country_domain": "SGP"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Shi Yuqi",
+                                "country_domain": "CHN"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Anders Antonsen",
+                                "country_domain": "DEN"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Chou Tien-chen",
+                                "country_domain": "TPE"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Kunlavut Vitidsarn",
+                                    "country_domain": "THA",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "2": {
+                                    "name": "Viktor Axelsen",
+                                    "country_domain": "DEN",
+                                    "status": 4,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "Kodai Naraoka",
+                                    "country_domain": "JPN",
+                                    "status": 0,
+                                    "cstatus": 1
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Shi Yuqi",
+                                    "country_domain": "CHN",
+                                    "status": 1,
+                                    "cstatus": 4
+                                },
+                                "2": {
+                                    "name": "Viktor Axelsen",
+                                    "country_domain": "DEN",
+                                    "status": 4,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "Jonatan Christie",
+                                    "country_domain": "INA",
+                                    "status": 0,
+                                    "cstatus": 1
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
