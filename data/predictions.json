@@ -39484,12 +39484,12 @@
             "sex": {
                 "mixed": {
                     "date": "2024/08/05",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Francia",
                             "country_domain": "FRA",
-                            "status": 0
+                            "status": 1
                         },
                         "2": {
                             "name": "Australia",
@@ -39530,53 +39530,101 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Alemania",
+                                "country_domain": "GER"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Estados Unidos",
+                                "country_domain": "USA"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Gran Bretaña",
+                                "country_domain": "GBR"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Francia",
+                                "country_domain": "FRA"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Portugal",
+                                "country_domain": "POR"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Italia",
+                                "country_domain": "ITA"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Suiza",
+                                "country_domain": "SUI"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Brasil",
+                                "country_domain": "BRA"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Francia",
+                                    "country_domain": "FRA",
+                                    "status": 1,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Gran Bretaña",
+                                    "country_domain": "GBR",
+                                    "status": 3,
+                                    "cstatus": 3
+                                },
+                                "3": {
+                                    "name": "Alemania",
+                                    "country_domain": "GER",
+                                    "status": 4,
+                                    "cstatus": 1
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Gran Bretaña",
+                                    "country_domain": "GBR",
+                                    "status": 3,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Francia",
+                                    "country_domain": "FRA",
+                                    "status": 1,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "Estados Unidos ",
+                                    "country_domain": "USA",
+                                    "status": 3,
+                                    "cstatus": 2
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
