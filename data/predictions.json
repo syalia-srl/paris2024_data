@@ -15915,22 +15915,22 @@
                 },
                 "male": {
                     "date": "2024/08/04",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Rory McIlroy",
                             "country_domain": "IRL",
-                            "status": 2
+                            "status": 1
                         },
                         "2": {
                             "name": "Scottie Scheffler",
                             "country_domain": "USA",
-                            "status": 1
+                            "status": 4
                         },
                         "3": {
                             "name": "Xander Schauffele",
                             "country_domain": "USA",
-                            "status": 3
+                            "status": 0
                         },
                         "4": {
                             "name": "Viktor Hovland",
@@ -15940,22 +15940,22 @@
                         "5": {
                             "name": "Collin Morikawa",
                             "country_domain": "USA",
-                            "status": 7
+                            "status": 0
                         },
                         "6": {
                             "name": "Jon Rahm",
                             "country_domain": "Spain",
-                            "status": 8
+                            "status": 1
                         },
                         "7": {
                             "name": "Thomas Detry",
                             "country_domain": "BEL",
-                            "status": 24
+                            "status": 0
                         },
                         "8": {
                             "name": "Hideki Matsuyama",
                             "country_domain": "JPN",
-                            "status": 9
+                            "status": 3
                         }
                     },
                     "result": {
