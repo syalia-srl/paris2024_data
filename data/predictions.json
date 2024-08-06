@@ -595,37 +595,37 @@
             "sex": {
                 "female": {
                     "date": "2024/08/08",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Gabrielle Thomas",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "McKenzie Long",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 1
                         },
                         "3": {
                             "name": "Julien Alfred",
                             "country_domain": "LCA",
-                            "status": 0
+                            "status": 3
                         },
                         "4": {
                             "name": "Brittany Brown",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 3
                         },
                         "5": {
                             "name": "Dina Asher-Smith",
                             "country_domain": "GBR",
-                            "status": 0
+                            "status": 1
                         },
                         "6": {
                             "name": "Favour Ofili",
                             "country_domain": "NGR",
-                            "status": 0
+                            "status": 2
                         },
                         "7": {
                             "name": "Marie-Josée Ta Lou-Smith",
@@ -635,59 +635,107 @@
                         "8": {
                             "name": "Daryll Neita",
                             "country_domain": "GBR",
-                            "status": 0
+                            "status": 1
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Gabrielle Thomas",
+                                "country_domain": "USA"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Julien Alfred",
+                                "country_domain": "LCA"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Brittany Brown",
+                                "country_domain": "USA"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Dina Asher-Smith",
+                                "country_domain": "GBR"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Daryll Neita",
+                                "country_domain": "GBR"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Favour Ofili",
+                                "country_domain": "NGR"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "McKenzie Long",
+                                "country_domain": "USA"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Jessika Gbai",
+                                "country_domain": "CIV"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Gabrielle Thomas",
+                                    "country_domain": "USA",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Shericka Jackson",
+                                    "country_domain": "JAM",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "McKenzie Long",
+                                    "country_domain": "USA",
+                                    "status": 1,
+                                    "cstatus": 3
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Shericka Jackson",
+                                    "country_domain": "JAM",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "2": {
+                                    "name": "Gabrielle Thomas",
+                                    "country_domain": "USA",
+                                    "status": 3,
+                                    "cstatus": 3
+                                },
+                                "3": {
+                                    "name": "Dina Asher-Smith",
+                                    "country_domain": "GBR",
+                                    "status": 1,
+                                    "cstatus": 1
+                                }
+                            }
+                        }
+                    ]
                 },
                 "male": {
                     "date": "2024/08/06",
@@ -1336,22 +1384,22 @@
                 },
                 "male": {
                     "date": "2024/08/06",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Jakob Ingebrigtsen",
                             "country_domain": "NOR",
-                            "status": 0
+                            "status": 1
                         },
                         "2": {
                             "name": "Josh Kerr",
                             "country_domain": "GBR",
-                            "status": 0
+                            "status": 2
                         },
                         "3": {
                             "name": "Yared Nuguse",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 2
                         },
                         "4": {
                             "name": "Timothy Cheruiyot",
@@ -1366,7 +1414,7 @@
                         "6": {
                             "name": "Narve Gilje Nordås",
                             "country_domain": "NOR",
-                            "status": 0
+                            "status": 1
                         },
                         "7": {
                             "name": "Azeddine Habz",
@@ -1376,59 +1424,107 @@
                         "8": {
                             "name": "Cole Hocker",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 4
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Cole Hocker",
+                                "country_domain": "USA"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Josh Kerr",
+                                "country_domain": "GBR"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Yared Nuguse",
+                                "country_domain": "USA"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Jakob Ingebrigtsen",
+                                "country_domain": "NOR"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Hobbs Kessler",
+                                "country_domain": "USA"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Niels Laros",
+                                "country_domain": "NED"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Narve Gilje Nordås",
+                                "country_domain": "NOR"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Pietro Arese",
+                                "country_domain": "ITA"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Jakob Ingebrigtsen",
+                                    "country_domain": "NOR",
+                                    "status": 1,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Timothy Cheruiyot",
+                                    "country_domain": "KEN",
+                                    "status": 0,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "Josh Kerr",
+                                    "country_domain": "GBR",
+                                    "status": 3,
+                                    "cstatus": 3
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Jakob Ingebrigtsen",
+                                    "country_domain": "NOR",
+                                    "status": 1,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Josh Kerr",
+                                    "country_domain": "GBR",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "Yared Nuguse",
+                                    "country_domain": "USA",
+                                    "status": 2,
+                                    "cstatus": 2
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
@@ -2331,29 +2427,29 @@
                 }
             }
         },
-        "00": {
+        "atl_3000": {
             "name": "3000 m con obstáculos",
             "type": "single",
             "sport": "atl",
             "sex": {
                 "female": {
                     "date": "2024/08/08",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Winfred Mutile Yavi",
                             "country_domain": "BRN",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "Beatrice Chepkoech",
                             "country_domain": "KEN",
-                            "status": 0
+                            "status": 1
                         },
                         "3": {
                             "name": "Faith Cherotich",
                             "country_domain": "KEN",
-                            "status": 0
+                            "status": 2
                         },
                         "4": {
                             "name": "Norah Jeruto",
@@ -2363,12 +2459,12 @@
                         "5": {
                             "name": "Peruth Chemutai",
                             "country_domain": "UGA",
-                            "status": 0
+                            "status": 3
                         },
                         "6": {
                             "name": "Sembo Almayew",
                             "country_domain": "ETH",
-                            "status": 0
+                            "status": 1
                         },
                         "7": {
                             "name": "Valerie Constien",
@@ -2384,53 +2480,101 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Winfred Mutile Yavi",
+                                "country_domain": "BRN"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Peruth Chemutai",
+                                "country_domain": "UGA"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Faith Cherotich",
+                                "country_domain": "KEN"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Alice Finot",
+                                "country_domain": "FRA"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Sembo Almayew",
+                                "country_domain": "ETH"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Beatrice Chepkoech",
+                                "country_domain": "KEN"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Elizabeth Bird",
+                                "country_domain": "GBR"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Lomi Muleta",
+                                "country_domain": "ETH"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Beatrice Chepkoech",
+                                    "country_domain": "KEN",
+                                    "status": 1,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Winfred Mutile Yavi",
+                                    "country_domain": "BRN",
+                                    "status": 4,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "Jackline Chepkoech",
+                                    "country_domain": "KEN",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Winfred Mutile Yavi",
+                                    "country_domain": "BRN",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Peruth Chemutai",
+                                    "country_domain": "UGA",
+                                    "status": 2,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "Beatrice Chepkoech",
+                                    "country_domain": "KEN",
+                                    "status": 1,
+                                    "cstatus": 3
+                                }
+                            }
+                        }
+                    ]
                 },
                 "male": {
                     "date": "2024/08/07",
@@ -3619,22 +3763,22 @@
                 },
                 "male": {
                     "date": "2024/08/06",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Miltiadis Tentoglou",
                             "country_domain": "GRE",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "Wayne Pinnock",
                             "country_domain": "JAM",
-                            "status": 0
+                            "status": 2
                         },
                         "3": {
                             "name": "Simon Ehammer",
                             "country_domain": "SUI",
-                            "status": 0
+                            "status": 1
                         },
                         "4": {
                             "name": "Carey McLeod",
@@ -3644,7 +3788,7 @@
                         "5": {
                             "name": "Mattia Furlani",
                             "country_domain": "ITA",
-                            "status": 0
+                            "status": 3
                         },
                         "6": {
                             "name": "Tajay Gayle",
@@ -3665,53 +3809,101 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Miltiadis Tentoglou",
+                                "country_domain": "GRE"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Wayne Pinnock",
+                                "country_domain": "JAM"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Mattia Furlani",
+                                "country_domain": "ITA"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Simon Ehammer",
+                                "country_domain": "SUI"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Jacob Fincham-Dukes",
+                                "country_domain": "GBR"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Simon Batz",
+                                "country_domain": "GER"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Zhang Mingkun",
+                                "country_domain": "CHN"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Wang Jianan",
+                                "country_domain": "CHN"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Miltiadis Tentoglou",
+                                    "country_domain": "GRE",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Wayne Pinnock",
+                                    "country_domain": "JAM",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "Carey McLeod",
+                                    "country_domain": "JAM",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Miltiadis Tentoglou",
+                                    "country_domain": "GRE",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Mattia Furlani",
+                                    "country_domain": "ITA",
+                                    "status": 3,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "Simon Ehammer",
+                                    "country_domain": "SUI",
+                                    "status": 1,
+                                    "cstatus": 3
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
@@ -4463,12 +4655,12 @@
             "sex": {
                 "female": {
                     "date": "2024/08/06",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Camryn Rogers",
                             "country_domain": "CAN",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "Deanna Price",
@@ -4478,12 +4670,12 @@
                         "3": {
                             "name": "Annette Nneka Echikunwoke",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 3
                         },
                         "4": {
                             "name": "Jie Zhao",
                             "country_domain": "CHN",
-                            "status": 0
+                            "status": 3
                         },
                         "5": {
                             "name": "Sara Fantini",
@@ -4493,7 +4685,7 @@
                         "6": {
                             "name": "Silja Kosonen",
                             "country_domain": "FIN",
-                            "status": 0
+                            "status": 1
                         },
                         "7": {
                             "name": "Bianca Florentina Ghelber",
@@ -4503,59 +4695,107 @@
                         "8": {
                             "name": "Anita Włodarczyk",
                             "country_domain": "POL",
-                            "status": 0
+                            "status": 1
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Camryn Rogers",
+                                "country_domain": "CAN"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Annette Nneka Echikunwoke",
+                                "country_domain": "USA"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Jie Zhao",
+                                "country_domain": "CHN"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Anita Włodarczyk",
+                                "country_domain": "POL"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Silja Kosonen",
+                                "country_domain": "FIN"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Krista Tervo",
+                                "country_domain": "FIN"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Hanna Skydan",
+                                "country_domain": "AZE"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Rosa Andreína Rodríguez",
+                                "country_domain": "VEN"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Camryn Rogers",
+                                    "country_domain": "CAN",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Deanna Price",
+                                    "country_domain": "USA",
+                                    "status": 0,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "Hanna Skydan",
+                                    "country_domain": "AZE",
+                                    "status": 1,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Camryn Rogers",
+                                    "country_domain": "CAN",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Deanna Price",
+                                    "country_domain": "USA",
+                                    "status": 0,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "Kassanavoid",
+                                    "country_domain": "USA",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        }
+                    ]
                 },
                 "male": {
                     "date": "2024/08/04",
