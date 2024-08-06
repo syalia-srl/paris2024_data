@@ -33969,99 +33969,147 @@
             "sex": {
                 "female": {
                     "date": "2024/08/06",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Yuxi CHEN",
                             "country_domain": "CHN",
-                            "status": 0
+                            "status": 3
                         },
                         "2": {
-                            "name": " Hongchan QUAN",
+                            "name": "Hongchan QUAN",
                             "country_domain": "CHN",
-                            "status": 0
+                            "status": 4
                         },
                         "3": {
                             "name": "Caeli  MCKAY",
                             "country_domain": "CAN",
-                            "status": 0
+                            "status": 1
                         },
                         "4": {
                             "name": "Matsuri  ARAI",
                             "country_domain": "JPN",
-                            "status": 0
+                            "status": 1
                         },
                         "5": {
-                            "name": " Lois  TOULSON",
+                            "name": "Lois  TOULSON",
                             "country_domain": "GBR",
                             "status": 0
                         },
                         "6": {
                             "name": "Gabriela  AGUNDEZ GARCIA",
                             "country_domain": "MEX",
-                            "status": 0
+                            "status": 1
                         },
                         "7": {
                             "name": "Alejandra  OROZCO LOZA",
                             "country_domain": "MEX",
-                            "status": 0
+                            "status": 1
                         },
                         "8": {
-                            "name": " Ellie  COLE",
+                            "name": "Ellie  COLE",
                             "country_domain": "AUS",
-                            "status": 0
+                            "status": 1
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Hongchan QUAN",
+                                "country_domain": "CHN"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Yuxi CHEN",
+                                "country_domain": "CHN"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Rae KIN MI",
+                                "country_domain": "PRK"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Caeli  MCKAY",
+                                "country_domain": "CAN"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Gabriela  AGUNDEZ GARCIA",
+                                "country_domain": "MEX"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Andrea SPENDOLINI",
+                                "country_domain": "GBR"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Ellie  COLE",
+                                "country_domain": "AUS"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Alejandra  OROZCO LOZA",
+                                "country_domain": "MEX"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Hongchan QUAN",
+                                    "country_domain": "CHN",
+                                    "status": 2,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Yuxi CHEN",
+                                    "country_domain": "CHN",
+                                    "status": 2,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "Caeli  MCKAY",
+                                    "country_domain": "CAN",
+                                    "status": 1,
+                                    "cstatus": 1
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Hongchan QUAN",
+                                    "country_domain": "CHN",
+                                    "status": 2,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Yuxi CHEN",
+                                    "country_domain": "CHN",
+                                    "status": 2,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "Gabriela  AGUNDEZ GARCIA",
+                                    "country_domain": "MEX",
+                                    "status": 1,
+                                    "cstatus": 1
+                                }
+                            }
+                        }
+                    ]
                 },
                 "male": {
                     "date": "2024/08/06",
@@ -34463,22 +34511,22 @@
             "sex": {
                 "female": {
                     "date": "2024/08/06",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Sky Brown",
                             "country_domain": "GBR",
-                            "status": 0
+                            "status": 3
                         },
                         "2": {
-                            "name": "Kokona Hiraki",
+                            "name": "Cocona Hiraki",
                             "country_domain": "JPN",
-                            "status": 0
+                            "status": 2
                         },
                         "3": {
                             "name": "Hinano Kusaki",
                             "country_domain": "JPN",
-                            "status": 0
+                            "status": 1
                         },
                         "4": {
                             "name": "Raicca Ventura",
@@ -34488,7 +34536,7 @@
                         "5": {
                             "name": "Bryce Wettstein",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 1
                         },
                         "6": {
                             "name": "Ruby Lilley",
@@ -34509,53 +34557,101 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Arisa Trew",
+                                "country_domain": "AUS"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Cocona Hiraki",
+                                "country_domain": "JPN"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Sky Brown",
+                                "country_domain": "GBR"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Dora Varella",
+                                "country_domain": "BRA"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Heili Sirvio",
+                                "country_domain": "FIN"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Bryce Wettstein",
+                                "country_domain": "USA"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Naia Laso",
+                                "country_domain": "ESP"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Hinamo Kusaki",
+                                "country_domain": "JPN"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Cocona Hiraki",
+                                    "country_domain": "JPN",
+                                    "status": 3,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Sky Brown",
+                                    "country_domain": "GBR",
+                                    "status": 3,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "Arisa Trew",
+                                    "country_domain": "AUS",
+                                    "status": 4,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Cocona Hiraki",
+                                    "country_domain": "JPN",
+                                    "status": 3,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Sky Brown",
+                                    "country_domain": "GBR",
+                                    "status": 3,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "Ruby Trew",
+                                    "country_domain": "AUS",
+                                    "status": 1,
+                                    "cstatus": 1
+                                }
+                            }
+                        }
+                    ]
                 },
                 "male": {
                     "date": "2024/08/07",
