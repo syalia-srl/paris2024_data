@@ -34614,17 +34614,17 @@
             "sex": {
                 "female": {
                     "date": "2024/07/31",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Tyler Wright",
                             "country_domain": "AUS",
-                            "status": 0
+                            "status": 1
                         },
                         "2": {
                             "name": "Carissa Moore",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 1
                         },
                         "3": {
                             "name": "Molly Picklum",
@@ -34634,7 +34634,7 @@
                         "4": {
                             "name": "Brisa Hennessy",
                             "country_domain": "CRC",
-                            "status": 0
+                            "status": 2
                         },
                         "5": {
                             "name": "Vahine Fierro",
@@ -34644,73 +34644,121 @@
                         "6": {
                             "name": "Jhoanne Defay",
                             "country_domain": "FRA",
-                            "status": 0
+                            "status": 3
                         },
                         "7": {
                             "name": "Luana Silva",
                             "country_domain": "BRA",
-                            "status": 0
+                            "status": 1
                         },
                         "8": {
                             "name": "Tatiana Weston-Webb",
                             "country_domain": "BRA",
-                            "status": 0
+                            "status": 3
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Caroline Marks",
+                                "country_domain": "USA"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Tatiana Weston-Webb",
+                                "country_domain": "BRA"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Jhoanne Defay",
+                                "country_domain": "FRA"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Brisa Hennessy",
+                                "country_domain": "CRC"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Tyler Wright",
+                                "country_domain": "AUS"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Nadia Erostarbe",
+                                "country_domain": "ESP"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Carissa Moore",
+                                "country_domain": "USA"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Luana Silva",
+                                "country_domain": "BRA"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Vahine Fierro",
+                                    "country_domain": "FRA",
+                                    "status": 0,
+                                    "cstatus": 1
+                                },
+                                "2": {
+                                    "name": "Molly Picklum",
+                                    "country_domain": "AUS",
+                                    "status": 0,
+                                    "cstatus": 3
+                                },
+                                "3": {
+                                    "name": "Tatiana Weston-Webb",
+                                    "country_domain": "BRA",
+                                    "status": 3,
+                                    "cstatus": 1
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Vahine Fierro",
+                                    "country_domain": "FRA",
+                                    "status": 0,
+                                    "cstatus": 1
+                                },
+                                "2": {
+                                    "name": "Carissa Moore",
+                                    "country_domain": "USA",
+                                    "status": 0,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "Brisa Hennessy",
+                                    "country_domain": "CRC",
+                                    "status": 1,
+                                    "cstatus": 1
+                                }
+                            }
+                        }
+                    ]
                 },
                 "male": {
                     "date": "2024/07/31",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "John John Florence",
@@ -34720,7 +34768,7 @@
                         "2": {
                             "name": "Gabriel Medina",
                             "country_domain": "BRA",
-                            "status": 0
+                            "status": 3
                         },
                         "3": {
                             "name": "Griffin Colapinto",
@@ -34750,59 +34798,107 @@
                         "8": {
                             "name": "Ethan Ewing",
                             "country_domain": "AUS",
-                            "status": 0
+                            "status": 1
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Kauli Vasst",
+                                "country_domain": "FRA"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Jack Robinson",
+                                "country_domain": "AUS"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Gabriel Medina",
+                                "country_domain": "BRA"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Alonso Correa",
+                                "country_domain": "PER"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Joan Duru",
+                                "country_domain": "FRA"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Ethan Ewing",
+                                "country_domain": "AUS"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "João Chianca",
+                                "country_domain": "BRA"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Reo Inaba",
+                                "country_domain": "JPN"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Gabriel Medina",
+                                    "country_domain": "BRA",
+                                    "status": 3,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "John John Florence",
+                                    "country_domain": "USA",
+                                    "status": 0,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "Jack Robinson",
+                                    "country_domain": "AUS",
+                                    "status": 3,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Gabriel Medina",
+                                    "country_domain": "BRA",
+                                    "status": 3,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Kauli Vasst",
+                                    "country_domain": "FRA",
+                                    "status": 4,
+                                    "cstatus": 3
+                                },
+                                "3": {
+                                    "name": "John John Florence",
+                                    "country_domain": "USA",
+                                    "status": 0,
+                                    "cstatus": 2
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
