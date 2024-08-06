@@ -9881,7 +9881,7 @@
                         "5": {
                             "name": "México",
                             "country_domain": "MEX",
-                            "status": 1
+                            "status": 2
                         },
                         "6": {
                             "name": "Nueva Zelanda",
@@ -9926,14 +9926,14 @@
                         ],
                         "5": [
                             {
-                                "name": "China",
-                                "country_domain": "CHN"
+                                "name": "México",
+                                "country_domain": "MEX"
                             }
                         ],
                         "6": [
                             {
-                                "name": "México",
-                                "country_domain": "MEX"
+                                "name": "China",
+                                "country_domain": "CHN"
                             }
                         ],
                         "7": [
@@ -21317,22 +21317,22 @@
             "sex": {
                 "male": {
                     "date": "2024/08/06",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Zholaman SHARSHENBEKOV",
                             "country_domain": "KGZ",
-                            "status": 0
+                            "status": 3
                         },
                         "2": {
                             "name": "Kenichiro FUMITA",
                             "country_domain": "JPN",
-                            "status": 0
+                            "status": 4
                         },
                         "3": {
                             "name": "Islomjon BAKHRAMOV",
                             "country_domain": "UZB",
-                            "status": 0
+                            "status": 1
                         },
                         "4": {
                             "name": "Aidos SULTANGALI",
@@ -21342,7 +21342,7 @@
                         "5": {
                             "name": "Liguo CAO",
                             "country_domain": "CHN",
-                            "status": 0
+                            "status": 3
                         },
                         "6": {
                             "name": "Murad MAMMADOV",
@@ -21363,53 +21363,107 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Kenichiro FUMITA",
+                                "country_domain": "JPN"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Liguo CAO",
+                                "country_domain": "CHN"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Zholaman SHARSHENBEKOV",
+                                "country_domain": "KGZ"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "SE-UNG Ri",
+                                "country_domain": "PRK"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "MOHSENNEJAD Mehdi",
+                                "country_domain": "IRI"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "RODRÍGUEZ Raiber",
+                                "country_domain": "VEN"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Islomjon BAKHRAMOV",
+                                "country_domain": "UZB"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Enes Başar",
+                                "country_domain": "TUR"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Zholaman SHARSHENBEKOV",
+                                    "country_domain": "KGZ",
+                                    "status": 3,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Liguo CAO",
+                                    "country_domain": "CHN",
+                                    "status": 2,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "Victor Ciobanu",
+                                    "country_domain": "MDA",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "4": {
+                                    "name": "Kenichiro FUMITA",
+                                    "country_domain": "JPN",
+                                    "status": 4,
+                                    "cstatus": 3
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Zholaman SHARSHENBEKOV",
+                                    "country_domain": "KGZ",
+                                    "status": 3,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Victor Ciobanu",
+                                    "country_domain": "MDA",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "Kenichiro FUMITA",
+                                    "country_domain": "JPN",
+                                    "status": 4,
+                                    "cstatus": 3
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
