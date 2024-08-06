@@ -2331,7 +2331,7 @@
                 }
             }
         },
-        "atl_3000": {
+        "00": {
             "name": "3000 m con obstáculos",
             "type": "single",
             "sport": "atl",
@@ -18069,7 +18069,7 @@
             "sex": {
                 "mixed": {
                     "date": "2024/08/06",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "PERREAU, Olivier",
@@ -18089,7 +18089,7 @@
                         "4": {
                             "name": "VAN DER VLEUTEN, Maikel",
                             "country_domain": "NED",
-                            "status": 0
+                            "status": 3
                         },
                         "5": {
                             "name": "GUERY, Jérôme",
@@ -18099,7 +18099,7 @@
                         "6": {
                             "name": "GUERDAT, Steve",
                             "country_domain": "SUI",
-                            "status": 0
+                            "status": 3
                         },
                         "7": {
                             "name": "SATO, Eiken",
@@ -18115,53 +18115,101 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "KUKUK Christian",
+                                "country_domain": "GER"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "GUERDAT, Steve",
+                                "country_domain": "SUI"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "VAN DER VLEUTEN, Maikel",
+                                "country_domain": "NED"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "EPAILLARD Julien",
+                                "country_domain": "FRA"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "de FREITAS BARCHA Stephan",
+                                "country_domain": "BRA"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "BRASH Scott",
+                                "country_domain": "USA"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "KUEHNER Max",
+                                "country_domain": "AUT"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "KRAUT Laura",
+                                "country_domain": "USA"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Henrik von Eckermann",
+                                    "country_domain": "SWE",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "2": {
+                                    "name": "MAHER, Ben",
+                                    "country_domain": "GBR",
+                                    "status": 0,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "Philipp Weishaupt",
+                                    "country_domain": "GER",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Henrik von Eckermann",
+                                    "country_domain": "SWE",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "2": {
+                                    "name": "GUERDAT, Steve",
+                                    "country_domain": "SUI",
+                                    "status": 2,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "EPAILLARD Julien",
+                                    "country_domain": "FRA",
+                                    "status": 1,
+                                    "cstatus": 0
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
