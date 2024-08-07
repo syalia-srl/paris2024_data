@@ -22166,27 +22166,27 @@
             "sex": {
                 "male": {
                     "date": "2024/08/07",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Akzhol MAKHMUDOV ",
                             "country_domain": "KGZ",
-                            "status": 0
+                            "status": 3
                         },
                         "2": {
                             "name": "Sanan SULEYMANOV",
                             "country_domain": "AZE",
-                            "status": 0
+                            "status": 1
                         },
                         "3": {
                             "name": "Nao KUSAKA",
                             "country_domain": "JPN",
-                            "status": 0
+                            "status": 4
                         },
                         "4": {
                             "name": "Malkhas AMOYAN",
                             "country_domain": "ARM",
-                            "status": 0
+                            "status": 2
                         },
                         "5": {
                             "name": "Sergei KUTUZOV",
@@ -22212,53 +22212,113 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Nao KUSAKA",
+                                "country_domain": "JPN"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Demeu Zhadrayev",
+                                "country_domain": "KAZ"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Akzhol MAKHMUDOV ",
+                                "country_domain": "KGZ"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Malkhas AMOYAN",
+                                "country_domain": "ARM"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Aram Vardanyan",
+                                "country_domain": "UZB"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Sanan SULEYMANOV",
+                                "country_domain": "AZE"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Zoltan Levai",
+                                "country_domain": "HUN"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Amin Kaviyaninejad",
+                                "country_domain": "IRI"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Sanan SULEYMANOV",
+                                    "country_domain": "AZE",
+                                    "status": 1,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Nao KUSAKA",
+                                    "country_domain": "JPN",
+                                    "status": 4,
+                                    "cstatus": 3
+                                },
+                                "3": {
+                                    "name": "Akzhol MAKHMUDOV ",
+                                    "country_domain": "KGZ",
+                                    "status": 2,
+                                    "cstatus": 3
+                                },
+                                "4": {
+                                    "name": "Malkhas AMOYAN",
+                                    "country_domain": "ARM",
+                                    "status": 2,
+                                    "cstatus": 2
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Sanan SULEYMANOV",
+                                    "country_domain": "AZE",
+                                    "status": 1,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Akzhol MAKHMUDOV ",
+                                    "country_domain": "KGZ",
+                                    "status": 3,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "Nao KUSAKA",
+                                    "country_domain": "JPN",
+                                    "status": 4,
+                                    "cstatus": 2
+                                },
+                                "4": {
+                                    "name": "",
+                                    "country_domain": "",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
@@ -22372,22 +22432,22 @@
             "sex": {
                 "male": {
                     "date": "2024/08/07",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Gabriel Alejandro ROSILLO KINDELAN",
                             "country_domain": "CUB",
-                            "status": 0
+                            "status": 3
                         },
                         "2": {
                             "name": "Artur ALEKSANYAN",
                             "country_domain": "ARM",
-                            "status": 0
+                            "status": 2
                         },
                         "3": {
                             "name": "Mohammadhadi Abdollah SARAVI",
                             "country_domain": "IRI",
-                            "status": 0
+                            "status": 4
                         },
                         "4": {
                             "name": "Kevin MEJIA CASTILLO",
@@ -22397,7 +22457,7 @@
                         "5": {
                             "name": "Rustam ASSAKALOV",
                             "country_domain": "UZB",
-                            "status": 0
+                            "status": 2
                         },
                         "6": {
                             "name": "Artur OMAROV",
@@ -22418,53 +22478,113 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Mohammadhadi Abdollah SARAVI",
+                                "country_domain": "IRI"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Artur ALEKSANYAN",
+                                "country_domain": "ARM"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Gabriel Alejandro ROSILLO KINDELAN",
+                                "country_domain": "CUB"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Uzur DZHUZUPBEKOV",
+                                "country_domain": "KGZ"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Rustam ASSAKALOV",
+                                "country_domain": "UZB"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Mohamed GABR",
+                                "country_domain": "EGY"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Abubakar KHASLAKHANAU",
+                                "country_domain": "AIN"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Arvi Martin SAVOLAINEN",
+                                "country_domain": "FIN"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Gabriel Alejandro ROSILLO KINDELAN",
+                                    "country_domain": "CUB",
+                                    "status": 3,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Artur ALEKSANYAN",
+                                    "country_domain": "ARM",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "Mohammadhadi Abdollah SARAVI",
+                                    "country_domain": "IRI",
+                                    "status": 4,
+                                    "cstatus": 2
+                                },
+                                "4": {
+                                    "name": "Artur Omarov",
+                                    "country_domain": "CZE",
+                                    "status": 0,
+                                    "cstatus": 1
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Gabriel Alejandro ROSILLO KINDELAN",
+                                    "country_domain": "CUB",
+                                    "status": 3,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Artur ALEKSANYAN",
+                                    "country_domain": "ARM",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "Mohammadhadi Abdollah SARAVI",
+                                    "country_domain": "IRI",
+                                    "status": 4,
+                                    "cstatus": 2
+                                },
+                                "4": {
+                                    "name": "",
+                                    "country_domain": "",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
