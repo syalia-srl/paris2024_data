@@ -2631,7 +2631,7 @@
                         "1": {
                             "name": "Abraham Kibiwot",
                             "country_domain": "KEN",
-                            "status": 0
+                            "status": 3
                         },
                         "2": {
                             "name": "Amos Serem",
@@ -2651,7 +2651,7 @@
                         "5": {
                             "name": "Soufiane El Bakkali",
                             "country_domain": "MAR",
-                            "status": 0
+                            "status": 4
                         },
                         "6": {
                             "name": "Daniel Arce",
@@ -29258,42 +29258,42 @@
             "sex": {
                 "mixed": {
                     "date": "2024/08/07",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "China",
                             "country_domain": "CHN",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "México",
                             "country_domain": "MEX",
-                            "status": 0
+                            "status": 1
                         },
                         "3": {
                             "name": "España",
                             "country_domain": "ESP",
-                            "status": 0
+                            "status": 2
                         },
                         "4": {
                             "name": "Japón",
                             "country_domain": "JPN",
-                            "status": 0
+                            "status": 1
                         },
                         "5": {
                             "name": "Estados Unidos ",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 3
                         },
                         "6": {
                             "name": "Francia",
                             "country_domain": "FRA",
-                            "status": 0
+                            "status": 1
                         },
                         "7": {
                             "name": "Canadà",
                             "country_domain": "CAN",
-                            "status": 0
+                            "status": 1
                         },
                         "8": {
                             "name": "Australia",
@@ -29304,53 +29304,101 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "China",
+                                "country_domain": "CHN"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Estados Unidos ",
+                                "country_domain": "USA"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "España",
+                                "country_domain": "ESP"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Francia",
+                                "country_domain": "FRA"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Japón",
+                                "country_domain": "JPN"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Canadà",
+                                "country_domain": "CAN"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "México",
+                                "country_domain": "MEX"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Italia",
+                                "country_domain": "ITA"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "China",
+                                    "country_domain": "CHN",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Japón",
+                                    "country_domain": "JPN",
+                                    "status": 1,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "España",
+                                    "country_domain": "ESP",
+                                    "status": 2,
+                                    "cstatus": 2
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "China",
+                                    "country_domain": "CHN",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Japón",
+                                    "country_domain": "JPN",
+                                    "status": 1,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "España",
+                                    "country_domain": "ESP",
+                                    "status": 2,
+                                    "cstatus": 2
+                                }   
+                            }
+                        }
+                    ]
                 }
             }
         },
