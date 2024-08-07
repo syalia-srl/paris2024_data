@@ -35322,22 +35322,22 @@
                 },
                 "male": {
                     "date": "2024/08/07",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Keegan Palmer",
                             "country_domain": "AUS",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "Tom Schaar",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 2
                         },
                         "3": {
                             "name": "Augusto Akio",
                             "country_domain": "BRA",
-                            "status": 0
+                            "status": 2
                         },
                         "4": {
                             "name": "Gavin Bottger",
@@ -35347,7 +35347,7 @@
                         "5": {
                             "name": "Luigi Cini",
                             "country_domain": "BRA",
-                            "status": 0
+                            "status": 1
                         },
                         "6": {
                             "name": "Danny Leon",
@@ -35357,64 +35357,112 @@
                         "7": {
                             "name": "Alex Sorgente",
                             "country_domain": "ITA",
-                            "status": 0
+                            "status": 1
                         },
                         "8": {
                             "name": "Keefer Wilson",
                             "country_domain": "AUS",
-                            "status": 0
+                            "status": 2
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Keegan Palmer",
+                                "country_domain": "AUS"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Tom Schaar",
+                                "country_domain": "USA"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Augusto Akio",
+                                "country_domain": "BRA"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Pedro Barros",
+                                "country_domain": "BRA"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Tate Carew",
+                                "country_domain": "USA"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Alex Sorgente",
+                                "country_domain": "ITA"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Luigi Cini",
+                                "country_domain": "BRA"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Keefer Wilson",
+                                "country_domain": "AUS"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Gavin Bottger",
+                                    "country_domain": "USA",
+                                    "status": 0,
+                                    "cstatus": 1
+                                },
+                                "2": {
+                                    "name": "Keegan Palmer",
+                                    "country_domain": "AUS",
+                                    "status": 4,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "Augusto Akio",
+                                    "country_domain": "BRA",
+                                    "status": 2,
+                                    "cstatus": 2
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Gavin Bottger",
+                                    "country_domain": "USA",
+                                    "status": 0,
+                                    "cstatus": 1
+                                },
+                                "2": {
+                                    "name": "Keegan Palmer",
+                                    "country_domain": "AUS",
+                                    "status": 4,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "Tate Carew",
+                                    "country_domain": "USA",
+                                    "status": 1,
+                                    "cstatus": 0
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
