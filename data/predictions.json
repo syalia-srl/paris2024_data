@@ -938,22 +938,22 @@
                 },
                 "male": {
                     "date": "2024/08/07",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Michael Norman",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 1
                         },
                         "2": {
                             "name": "Matthew Hudson-Smith",
                             "country_domain": "GBR",
-                            "status": 0
+                            "status": 2
                         },
                         "3": {
                             "name": "Quincy Hall",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 4
                         },
                         "4": {
                             "name": "Charles Dobson",
@@ -963,12 +963,12 @@
                         "5": {
                             "name": "Kirani James",
                             "country_domain": "GRN",
-                            "status": 0
+                            "status": 2
                         },
                         "6": {
                             "name": "Jereem Richards",
                             "country_domain": "TTO",
-                            "status": 0
+                            "status": 1
                         },
                         "7": {
                             "name": "Alexander Doom",
@@ -984,53 +984,101 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Quincy Hall",
+                                "country_domain": "USA"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Matthew Hudson-Smith",
+                                "country_domain": "GBR"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Muzala Samukonga",
+                                "country_domain": "ZAM"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Jereem Richards",
+                                "country_domain": "TTO"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Kirani James",
+                                "country_domain": "GRN"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Christopher Bailey",
+                                "country_domain": "USA"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Samuel Ogazi",
+                                "country_domain": "NGR"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Michael Norman",
+                                "country_domain": "USA"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Quincy Hall",
+                                    "country_domain": "USA",
+                                    "status": 2,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Matthew Hudson-Smith",
+                                    "country_domain": "GBR",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "Christopher Morales-Williams",
+                                    "country_domain": "CAN",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Matthew Hudson-Smith",
+                                    "country_domain": "GBR",
+                                    "status": 3,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Michael Norman",
+                                    "country_domain": "USA",
+                                    "status": 1,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "Steven Gardiner",
+                                    "country_domain": "BAH",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
