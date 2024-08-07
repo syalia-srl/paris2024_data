@@ -3468,7 +3468,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/07",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Molly Caudery",
@@ -3478,22 +3478,22 @@
                         "2": {
                             "name": "Katie Moon",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 2
                         },
                         "3": {
                             "name": "Nina Kennedy",
                             "country_domain": "AUS",
-                            "status": 0
+                            "status": 4
                         },
                         "4": {
                             "name": "Eliza McCartney",
                             "country_domain": "AUS",
-                            "status": 0
+                            "status": 1
                         },
                         "5": {
                             "name": "Wilma Murto",
                             "country_domain": "FIN",
-                            "status": 0
+                            "status": 1
                         },
                         "6": {
                             "name": "Tina šutej",
@@ -3508,59 +3508,105 @@
                         "8": {
                             "name": "Alysha Newman",
                             "country_domain": "CAN",
-                            "status": 0
+                            "status": 3
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Nina Kennedy",
+                                "country_domain": "AUS"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Katie Moon",
+                                "country_domain": "USA"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Alysha Newman",
+                                "country_domain": "CAN"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Angélica Moser",
+                                "country_domain": "SUI"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Amalie Svabikova",
+                                "country_domain": "CZE"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Eliza McCartney",
+                                "country_domain": "AUS"
+                            },
+                            {
+                                "name": "Elisa Molinarolo",
+                                "country_domain": "ITA"
+                            },
+                            {
+                                "name": "Wilma Murto",
+                                "country_domain": "FIN"
                             }
                         ],
-                        "7": [
-                            {
-                                "name": "",
-                                "country_domain": ""
+                        "7": [],
+                        "8": []
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Nina Kennedy",
+                                    "country_domain": "AUS",
+                                    "status": 2,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Katie Moon",
+                                    "country_domain": "USA",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "Molly Caudery",
+                                    "country_domain": "GBR",
+                                    "status": 0,
+                                    "cstatus": 4
+                                }
                             }
-                        ],
-                        "8": [
-                            {
-                                "name": "",
-                                "country_domain": ""
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Nina Kennedy",
+                                    "country_domain": "AUS",
+                                    "status": 2,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Molly Caudery",
+                                    "country_domain": "GBR",
+                                    "status": 0,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "Katie Moon",
+                                    "country_domain": "USA",
+                                    "status": 3,
+                                    "cstatus": 3
+                                }
                             }
-                        ]
-                    }
+                        }
+                    ]
                 },
                 "male": {
                     "date": "2024/08/05",
@@ -29395,7 +29441,7 @@
                                     "country_domain": "ESP",
                                     "status": 2,
                                     "cstatus": 2
-                                }   
+                                }
                             }
                         }
                     ]
