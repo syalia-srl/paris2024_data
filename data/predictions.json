@@ -2626,7 +2626,7 @@
                 },
                 "male": {
                     "date": "2024/08/07",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Abraham Kibiwot",
@@ -2641,12 +2641,12 @@
                         "3": {
                             "name": "Mohamed Amin Jhinaoui",
                             "country_domain": "TUN",
-                            "status": 0
+                            "status": 1
                         },
                         "4": {
                             "name": "Samuel Firewu",
                             "country_domain": "ETH",
-                            "status": 0
+                            "status": 1
                         },
                         "5": {
                             "name": "Soufiane El Bakkali",
@@ -2661,7 +2661,7 @@
                         "7": {
                             "name": "Ryuji Miura",
                             "country_domain": "JPN",
-                            "status": 0
+                            "status": 1
                         },
                         "8": {
                             "name": "Getnet Wale",
@@ -2672,53 +2672,101 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Soufiane El Bakkali",
+                                "country_domain": "MAR"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Kenneth Rooks",
+                                "country_domain": "USA"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Abraham Kibiwot",
+                                "country_domain": "KEN"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Mohamed Amin Jhinaoui",
+                                "country_domain": "TUN"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Ahmed Jaziri",
+                                "country_domain": "TUN"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Samuel Firewu",
+                                "country_domain": "ETH"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Simon Kiprop Koech",
+                                "country_domain": "KEN"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Ryuji Miura",
+                                "country_domain": "JPN"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Lamecha Girma",
+                                    "country_domain": "ETH",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "2": {
+                                    "name": "Abraham Kibiwot ",
+                                    "country_domain": "KEN",
+                                    "status": 3,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "Amos Serem",
+                                    "country_domain": "ETH",
+                                    "status": 0,
+                                    "cstatus": 1
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Lamecha Girma",
+                                    "country_domain": "ETH",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "2": {
+                                    "name": "Soufiane El Bakkali",
+                                    "country_domain": "MAR",
+                                    "status": 4,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "Abrham Sime",
+                                    "country_domain": "ETH",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
