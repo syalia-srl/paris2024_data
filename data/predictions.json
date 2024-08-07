@@ -17133,12 +17133,12 @@
             "sex": {
                 "male": {
                     "date": "2024/08/07",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Li Fabin",
                             "country_domain": "CHN",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "Sergio Massidda",
@@ -17163,7 +17163,7 @@
                         "6": {
                             "name": "Hampton Morris",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 3
                         },
                         "7": {
                             "name": "Trịnh Văn Vinh",
@@ -17173,59 +17173,102 @@
                         "8": {
                             "name": "Aniq Kasdan",
                             "country_domain": "MAS",
-                            "status": 0
+                            "status": 1
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Li Fabin",
+                                "country_domain": "CHN"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Theerapong Silachai",
+                                "country_domain": "THA"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Hampton Morris",
+                                "country_domain": "USA"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Aniq Kasdan",
+                                "country_domain": "MAS"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Morea Baru",
+                                "country_domain": "PNG"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Shota Mishvelidze",
+                                "country_domain": "GEO"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Kaimauri Erati",
+                                "country_domain": "KIR"
                             }
                         ],
-                        "8": [
-                            {
-                                "name": "",
-                                "country_domain": ""
+                        "8": []
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Li Fabin",
+                                    "country_domain": "CHN",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Sergio Massidda",
+                                    "country_domain": "ITA",
+                                    "status": 0,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "Hampton Morris",
+                                    "country_domain": "USA",
+                                    "status": 2,
+                                    "cstatus": 1
+                                }
                             }
-                        ]
-                    }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Li Fabin",
+                                    "country_domain": "CHN",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Pak Miong-jin",
+                                    "country_domain": "PRK",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "Hampton Morris",
+                                    "country_domain": "USA",
+                                    "status": 2,
+                                    "cstatus": 1
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
