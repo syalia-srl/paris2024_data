@@ -7815,12 +7815,12 @@
             "sex": {
                 "male": {
                     "date": "2024/08/07",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Sofiane Oumiha",
                             "country_domain": "FRA",
-                            "status": 0
+                            "status": 3
                         },
                         "2": {
                             "name": "Harry Garside",
@@ -7835,12 +7835,12 @@
                         "4": {
                             "name": "Jugurtha Ait Bekka",
                             "country_domain": "ALG",
-                            "status": 0
+                            "status": 1
                         },
                         "5": {
                             "name": "Lasha Guruli",
                             "country_domain": "GEO",
-                            "status": 0
+                            "status": 3
                         },
                         "6": {
                             "name": "Baatarsükhiin Chinzorig",
@@ -7850,64 +7850,124 @@
                         "7": {
                             "name": "Wyatt Sanford",
                             "country_domain": "CAN",
-                            "status": 0
+                            "status": 3
                         },
                         "8": {
                             "name": "Erislandy Álvarez",
                             "country_domain": "CUB",
-                            "status": 0
+                            "status": 4
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Erislandy Álvarez",
+                                "country_domain": "CUB"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Sofiane Oumiha",
+                                "country_domain": "FRA"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Lasha Guruli",
+                                "country_domain": "GEO"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Wyatt Sanford",
+                                "country_domain": "CAN"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Bunjong Sinsiri",
+                                "country_domain": "THA"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Richárd Kovács",
+                                "country_domain": "HUN"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Mukhammedsabyr Bazarbayuly",
+                                "country_domain": "KAZ"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Ruslan Abdullaev",
+                                "country_domain": "KAZ"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Sofiane Oumiha",
+                                    "country_domain": "FRA",
+                                    "status": 3,
+                                    "cstatus": 4
+                                },
+                                "2": {
+                                    "name": "Erislandy Álvarez",
+                                    "country_domain": "CUB",
+                                    "status": 4,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "Radoslav Rosenov",
+                                    "country_domain": "BUL",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "4": {
+                                    "name": "Wyatt Sanford",
+                                    "country_domain": "CAN",
+                                    "status": 2,
+                                    "cstatus": 1
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Sofiane Oumiha",
+                                    "country_domain": "FRA",
+                                    "status": 3,
+                                    "cstatus": 4
+                                },
+                                "2": {
+                                    "name": "Ruslan Abdullaev ",
+                                    "country_domain": "UZB",
+                                    "status": 1,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "Baatarsükhiin Chinzorig",
+                                    "country_domain": "MGL",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "4": {
+                                    "name": "Bakhodur Usmonov",
+                                    "country_domain": "TJK",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
@@ -8021,17 +8081,17 @@
             "sex": {
                 "male": {
                     "date": "2024/08/07",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Oleksandr Khyzhniak",
                             "country_domain": "UKR",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "Arlen López",
                             "country_domain": "CUB",
-                            "status": 0
+                            "status": 3
                         },
                         "3": {
                             "name": "Eumir Marcial",
@@ -8046,7 +8106,7 @@
                         "5": {
                             "name": "Murad Allahverdiyev",
                             "country_domain": "AZE",
-                            "status": 0
+                            "status": 1
                         },
                         "6": {
                             "name": "Toqtarbek Tanatqan",
@@ -8067,53 +8127,113 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Oleksandr Khyzhniak",
+                                "country_domain": "UKR"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Nurbek Oralbay",
+                                "country_domain": "KAZ"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Arlen López",
+                                "country_domain": "CUB"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Nurbek Oralbay",
+                                "country_domain": "KAZ"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Cristian Pinales ",
+                                "country_domain": "DOM"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Wanderley Pereira",
+                                "country_domain": "BRA"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Turabek Khabibullaev",
+                                "country_domain": "UZB"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Gabrijel Veočić",
+                                "country_domain": "CRO"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Arlen López",
+                                    "country_domain": "CUB",
+                                    "status": 3,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Wanderley Pereira",
+                                    "country_domain": "BRA",
+                                    "status": 1,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "Tuohetaerbieke Tanglatihan ",
+                                    "country_domain": "MGL",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "4": {
+                                    "name": "Moreno Fendero",
+                                    "country_domain": "FRA",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Oleksandr Khyzhniak",
+                                    "country_domain": "UKR",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Gabrijel Veočić",
+                                    "country_domain": "CRO",
+                                    "status": 1,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "Arlen López",
+                                    "country_domain": "CUB",
+                                    "status": 2,
+                                    "cstatus": 3
+                                },
+                                "4": {
+                                    "name": "Salvatore Cavallaro",
+                                    "country_domain": "ITA",
+                                    "status": 0,
+                                    "cstatus": 2
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
