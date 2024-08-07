@@ -41310,7 +41310,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/06",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "RINDOM Anne-Marie",
@@ -41356,50 +41356,50 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "BOUWMEESTER Marit",
+                                "country_domain": "NED"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "RINDOM Anne-Marie",
+                                "country_domain": "DEN"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "HOST Line Flem",
+                                "country_domain": "NOR"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "JAYET Maud",
+                                "country_domain": "SUI"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "BENINI Chiara",
+                                "country_domain": "ITA"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "VOROVEVA Elena",
+                                "country_domain": "CRO"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "PLASSCHAERT Emma",
+                                "country_domain": "BEL"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "DOUGLAS Sarah",
+                                "country_domain": "CAN"
                             }
                         ]
                     },
@@ -41422,7 +41422,7 @@
                                 "3": {
                                     "name": "PLASSCHAERT Emma",
                                     "country_domain": "BEL",
-                                    "status": 0,
+                                    "status": 1,
                                     "cstatus": 3
                                 }
                             }
@@ -41445,7 +41445,7 @@
                                 "3": {
                                     "name": "PLASSCHAERT Emma",
                                     "country_domain": "BEL",
-                                    "status": 0,
+                                    "status": 1,
                                     "cstatus": 3
                                 }
                             }
@@ -41454,17 +41454,17 @@
                 },
                 "male": {
                     "date": "2024/08/06",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "BECKETT Michael",
                             "country_domain": "GBR",
-                            "status": 0
+                            "status": 1
                         },
                         "2": {
                             "name": "WEARN Matt",
                             "country_domain": "AUS",
-                            "status": 0
+                            "status": 4
                         },
                         "3": {
                             "name": "BUHL Philipp",
@@ -41474,7 +41474,7 @@
                         "4": {
                             "name": "KONTIDES Pavlos",
                             "country_domain": "CYP",
-                            "status": 0
+                            "status": 3
                         },
                         "5": {
                             "name": "BERNAZ Jean Baptiste",
@@ -41500,53 +41500,101 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "WEARN Matt",
+                                "country_domain": "AUS"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "KONTIDES Pavlos",
+                                "country_domain": "CYP"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "PESCHIERA Stefano",
+                                "country_domain": "PER"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "VADNAI Jonatán",
+                                "country_domain": "HUN"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "TOMASGAARD Hermann",
+                                "country_domain": "NOR"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "BECKETT Michael",
+                                "country_domain": "GBR"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "SAUNDERS Thomas",
+                                "country_domain": "NZL"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "SEGUEL Clemente",
+                                "country_domain": "CHI"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "WEARN Matt",
+                                    "country_domain": "AUS",
+                                    "status": 2,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "BECKETT Michael",
+                                    "country_domain": "GBR",
+                                    "status": 1,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "KONTIDES Pavlos",
+                                    "country_domain": "CYP",
+                                    "status": 2,
+                                    "cstatus": 1
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "WEARN Matt",
+                                    "country_domain": "AUS",
+                                    "status": 2,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "BECKETT Michael",
+                                    "country_domain": "GBR",
+                                    "status": 1,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "TOMASGAARD Hermann",
+                                    "country_domain": "NOR",
+                                    "status": 1,
+                                    "cstatus": 0
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
