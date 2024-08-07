@@ -2639,33 +2639,33 @@
                             "status": 0
                         },
                         "3": {
-                            "name": "Abrham Sime",
-                            "country_domain": "ETH",
-                            "status": 0
-                        },
-                        "4": {
                             "name": "Mohamed Amin Jhinaoui",
                             "country_domain": "TUN",
                             "status": 0
                         },
-                        "5": {
+                        "4": {
                             "name": "Samuel Firewu",
                             "country_domain": "ETH",
                             "status": 0
                         },
-                        "6": {
+                        "5": {
                             "name": "Soufiane El Bakkali",
                             "country_domain": "MAR",
                             "status": 0
                         },
-                        "7": {
+                        "6": {
                             "name": "Daniel Arce",
                             "country_domain": "ESP",
                             "status": 0
                         },
-                        "8": {
+                        "7": {
                             "name": "Ryuji Miura",
                             "country_domain": "JPN",
+                            "status": 0
+                        },
+                        "8": {
+                            "name": "Getnet Wale",
+                            "country_domain": "ETH",
                             "status": 0
                         }
                     },
