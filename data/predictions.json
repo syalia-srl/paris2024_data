@@ -1560,7 +1560,7 @@
                         "5": {
                             "name": "Nadia Battocletti",
                             "country_domain": "ITA",
-                            "status": 3
+                            "status": 1
                         },
                         "6": {
                             "name": "Margaret Chelimo Kipkemboi",
@@ -1587,44 +1587,44 @@
                         ],
                         "2": [
                             {
+                                "name": "Faith Kipyegon",
+                                "country_domain": "KEN"
+                            }
+                        ],
+                        "3": [
+                            {
                                 "name": "Sifan Hassan",
                                 "country_domain": "NED"
                             }
                         ],
-                        "3": [
+                        "4": [
                             {
                                 "name": "Nadia Battocletti",
                                 "country_domain": "ITA"
                             }
                         ],
-                        "4": [
+                        "5": [
                             {
                                 "name": "Margaret Chelimo Kipkemboi",
                                 "country_domain": "KEN"
                             }
                         ],
-                        "5": [
+                        "6": [
                             {
                                 "name": "Ejgayehu Taye",
                                 "country_domain": "ETH"
                             }
                         ],
-                        "6": [
+                        "7": [
                             {
                                 "name": "Medina Eisa",
                                 "country_domain": "ETH"
                             }
                         ],
-                        "7": [
+                        "8": [
                             {
                                 "name": "Karoline Bjerkeli Grøvdal",
                                 "country_domain": "NOR"
-                            }
-                        ],
-                        "8": [
-                            {
-                                "name": "Gudaf Tsegay",
-                                "country_domain": "ETH"
                             }
                         ]
                     },
@@ -1641,7 +1641,7 @@
                                 "2": {
                                     "name": "Faith Kipyegon",
                                     "country_domain": "KEN",
-                                    "status": 0,
+                                    "status": 2,
                                     "cstatus": 0
                                 },
                                 "3": {
@@ -1658,13 +1658,13 @@
                                 "1": {
                                     "name": "Faith Kipyegon",
                                     "country_domain": "KEN",
-                                    "status": 0,
+                                    "status": 3,
                                     "cstatus": 0
                                 },
                                 "2": {
                                     "name": "Gudaf Tsegay",
                                     "country_domain": "ETH",
-                                    "status": 1,
+                                    "status": 0,
                                     "cstatus": 0
                                 },
                                 "3": {
