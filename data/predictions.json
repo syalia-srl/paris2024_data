@@ -4646,22 +4646,22 @@
                 },
                 "male": {
                     "date": "2024/08/07",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Mykolas Alekna",
                             "country_domain": "LTU",
-                            "status": 0
+                            "status": 3
                         },
                         "2": {
                             "name": "Kristjan čeh",
                             "country_domain": "SLO",
-                            "status": 0
+                            "status": 1
                         },
                         "3": {
                             "name": "Daniel Ståhl",
                             "country_domain": "SWE",
-                            "status": 0
+                            "status": 1
                         },
                         "4": {
                             "name": "Alex Rose",
@@ -4671,17 +4671,17 @@
                         "5": {
                             "name": "Matthew Denny",
                             "country_domain": "AUS",
-                            "status": 0
+                            "status": 3
                         },
                         "6": {
                             "name": "Lukas Weißhaidinger",
                             "country_domain": "AUT",
-                            "status": 0
+                            "status": 1
                         },
                         "7": {
                             "name": "Roje Stona",
                             "country_domain": "JAM",
-                            "status": 0
+                            "status": 4
                         },
                         "8": {
                             "name": "Traves Smikle",
@@ -4692,53 +4692,101 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Roje Stona",
+                                "country_domain": "JAM"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Mykolas Alekna",
+                                "country_domain": "LTU"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Matthew Denny",
+                                "country_domain": "AUS"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Kristjan čeh",
+                                "country_domain": "SLO"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Lukas Weißhaidinger",
+                                "country_domain": "AUT"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Clemens Pruefer",
+                                "country_domain": "GER"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Daniel Ståhl",
+                                "country_domain": "SWE"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Andrius Gudzius",
+                                "country_domain": "LTU"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Mykolas Alekna",
+                                    "country_domain": "LTU",
+                                    "status": 3,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Kristjan čeh",
+                                    "country_domain": "SLO",
+                                    "status": 1,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "Alex Rose",
+                                    "country_domain": "SAM",
+                                    "status": 0,
+                                    "cstatus": 1
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Mykolas Alekna",
+                                    "country_domain": "LTU",
+                                    "status": 3,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Kristjan čeh",
+                                    "country_domain": "SLO",
+                                    "status": 1,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "Daniel Ståhl",
+                                    "country_domain": "SWE",
+                                    "status": 1,
+                                    "cstatus": 2
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
