@@ -5945,22 +5945,22 @@
             "sex": {
                 "mixed": {
                     "date": "2024/08/07",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "España",
                             "country_domain": "ESP",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "Italia",
                             "country_domain": "ITA",
-                            "status": 0
+                            "status": 1
                         },
                         "3": {
                             "name": "Japón",
                             "country_domain": "JPN",
-                            "status": 0
+                            "status": 1
                         },
                         "4": {
                             "name": "China",
@@ -5970,12 +5970,12 @@
                         "5": {
                             "name": "Brasil",
                             "country_domain": "BRA",
-                            "status": 0
+                            "status": 1
                         },
                         "6": {
                             "name": "México",
                             "country_domain": "MEX",
-                            "status": 0
+                            "status": 1
                         },
                         "7": {
                             "name": "Francia",
@@ -5985,59 +5985,107 @@
                         "8": {
                             "name": "Australia",
                             "country_domain": "AUS",
-                            "status": 0
+                            "status": 3
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "España",
+                                "country_domain": "ESP"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Ecuador",
+                                "country_domain": "ECU"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Australia",
+                                "country_domain": "AUS"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Perú",
+                                "country_domain": "PER"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "México",
+                                "country_domain": "MEX"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Italia",
+                                "country_domain": "ITA"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Brasil",
+                                "country_domain": "BRA"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Japón",
+                                "country_domain": "JPN"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "España",
+                                    "country_domain": "ESP",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Ecuador",
+                                    "country_domain": "ECU",
+                                    "status": 2,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "China",
+                                    "country_domain": "CHN",
+                                    "status": 0,
+                                    "cstatus": 1
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "España",
+                                    "country_domain": "ESP",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "China",
+                                    "country_domain": "CHN",
+                                    "status": 0,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "Brasil",
+                                    "country_domain": "BRA",
+                                    "status": 1,
+                                    "cstatus": 1
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
@@ -12037,99 +12085,147 @@
             "sex": {
                 "female": {
                     "date": "2024/08/07",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
-                            "name": "aleksandra miroslaw",
+                            "name": "Aleksandra Miroslaw",
                             "country_domain": "POL",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
-                            "name": "lijuan deng",
+                            "name": "Lijuan Deng",
                             "country_domain": "CHN",
-                            "status": 0
+                            "status": 2
                         },
                         "3": {
-                            "name": "emma hunt",
+                            "name": "Emma Hunt",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 1
                         },
                         "4": {
-                            "name": "rajiah sallsabillah",
+                            "name": "Rajiah Sallsabillah",
                             "country_domain": "INA",
-                            "status": 0
+                            "status": 2
                         },
                         "5": {
-                            "name": "desak made rita kusuma dewi",
+                            "name": "Desak Made Rita Kusuma Dewi",
                             "country_domain": "INA",
-                            "status": 0
+                            "status": 1
                         },
                         "6": {
-                            "name": "aleksandra kalucka",
+                            "name": "Aleksandra Kalucka",
                             "country_domain": "POL",
-                            "status": 0
+                            "status": 3
                         },
                         "7": {
-                            "name": "beatrice colli",
+                            "name": "Beatrice Colli",
                             "country_domain": "ITA",
                             "status": 0
                         },
                         "8": {
-                            "name": "leslie adriana romero pérez",
+                            "name": "Leslie Adriana Romero Pérez",
                             "country_domain": "ESP",
-                            "status": 0
+                            "status": 2
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Aleksandra Miroslaw",
+                                "country_domain": "POL"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Lijuan Deng",
+                                "country_domain": "CHN"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Aleksandra Kalucka",
+                                "country_domain": "POL"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Rajiah Sallsabillah",
+                                "country_domain": "INA"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Emma Hunt",
+                                "country_domain": "USA"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Desak Made Rita Kusuma Dewi",
+                                "country_domain": "INA"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Zhou Yafei",
+                                "country_domain": "CHN"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Leslie Adriana Romero Pérez",
+                                "country_domain": "ESP"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Aleksandra Miroslaw",
+                                    "country_domain": "POL",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Emma Hunt",
+                                    "country_domain": "USA",
+                                    "status": 1,
+                                    "cstatus": 3
+                                },
+                                "3": {
+                                    "name": "Desak Made Rita Kusuma Dewi",
+                                    "country_domain": "INA",
+                                    "status": 1,
+                                    "cstatus": 1
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Aleksandra Miroslaw",
+                                    "country_domain": "POL",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Emma Hunt",
+                                    "country_domain": "USA",
+                                    "status": 1,
+                                    "cstatus": 3
+                                },
+                                "3": {
+                                    "name": "Desak Made Rita Kusuma Dewi",
+                                    "country_domain": "INA",
+                                    "status": 1,
+                                    "cstatus": 1
+                                }
+                            }
+                        }
+                    ]
                 },
                 "male": {
                     "date": "2024/08/08",
@@ -41176,22 +41272,22 @@
                         "1": {
                             "name": "RINDOM Anne-Marie",
                             "country_domain": "DEN",
-                            "status": 0
+                            "status": 3
                         },
                         "2": {
                             "name": "PLASSCHAERT Emma",
                             "country_domain": "BEL",
-                            "status": 0
+                            "status": 1
                         },
                         "3": {
                             "name": "JAYET Maud",
                             "country_domain": "SUI",
-                            "status": 0
+                            "status": 1
                         },
                         "4": {
                             "name": "BOUWMEESTER Marit",
                             "country_domain": "NED",
-                            "status": 0
+                            "status": 4
                         },
                         "5": {
                             "name": "ERDI Maria",
@@ -41263,7 +41359,55 @@
                                 "country_domain": ""
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "RINDOM Anne-Marie",
+                                    "country_domain": "DEN",
+                                    "status": 3,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "BOUWMEESTER Marit",
+                                    "country_domain": "NED",
+                                    "status": 4,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "PLASSCHAERT Emma",
+                                    "country_domain": "BEL",
+                                    "status": 0,
+                                    "cstatus": 3
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "RINDOM Anne-Marie",
+                                    "country_domain": "DEN",
+                                    "status": 3,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Pose",
+                                    "country_domain": "USA",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "PLASSCHAERT Emma",
+                                    "country_domain": "BEL",
+                                    "status": 0,
+                                    "cstatus": 3
+                                }
+                            }
+                        }
+                    ]
                 },
                 "male": {
                     "date": "2024/08/06",
