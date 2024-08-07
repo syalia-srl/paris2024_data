@@ -8497,17 +8497,17 @@
             "sex": {
                 "female": {
                     "date": "2024/08/06",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Beatriz Ferreira",
                             "country_domain": "BRA",
-                            "status": 0
+                            "status": 3
                         },
                         "2": {
                             "name": "Kellie Harrington",
                             "country_domain": "IRL",
-                            "status": 0
+                            "status": 4
                         },
                         "3": {
                             "name": "Estelle Mossely",
@@ -8517,7 +8517,7 @@
                         "4": {
                             "name": "Natalia Šadrina",
                             "country_domain": "SRB",
-                            "status": 0
+                            "status": 1
                         },
                         "5": {
                             "name": "Gizem Özer",
@@ -8527,7 +8527,7 @@
                         "6": {
                             "name": "Angie Valdés",
                             "country_domain": "COL",
-                            "status": 0
+                            "status": 1
                         },
                         "7": {
                             "name": "Jajaira Gonzalez",
@@ -8543,53 +8543,113 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Kellie Harrington",
+                                "country_domain": "IRL"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Yang Wenlu",
+                                "country_domain": "CHN"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Wu Shih-yi",
+                                "country_domain": "TPE"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Beatriz Ferreira",
+                                "country_domain": "BRA"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Angie Valdés",
+                                "country_domain": "COL"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Natalia Šadrina",
+                                "country_domain": "SRB"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Chelsey Heijnen",
+                                "country_domain": "NED"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "María José Palacios",
+                                "country_domain": "ECU"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Beatriz Ferreira",
+                                    "country_domain": "BRA",
+                                    "status": 3,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Estelle Mossely",
+                                    "country_domain": "FRA",
+                                    "status": 0,
+                                    "cstatus": 3
+                                },
+                                "3": {
+                                    "name": "Oh Yeon Ji",
+                                    "country_domain": "KOR",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "4": {
+                                    "name": "Yang Wenlu",
+                                    "country_domain": "CHN",
+                                    "status": 3,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Kellie Harrington",
+                                    "country_domain": "IRL",
+                                    "status": 2,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Beatriz Ferreira",
+                                    "country_domain": "BRA",
+                                    "status": 3,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "Natalia Šadrina",
+                                    "country_domain": "SRB",
+                                    "status": 1,
+                                    "cstatus": 1
+                                },
+                                "4": {
+                                    "name": "Angie Valdés",
+                                    "country_domain": "COL",
+                                    "status": 1,
+                                    "cstatus": 1
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
