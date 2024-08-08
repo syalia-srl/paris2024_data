@@ -17980,12 +17980,12 @@
             "sex": {
                 "male": {
                     "date": "2024/08/08",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Rizki Juniansyah",
                             "country_domain": "INA",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "Shi Zhiyong",
@@ -17995,17 +17995,17 @@
                         "3": {
                             "name": "Bozhidar Andreev",
                             "country_domain": "BUL",
-                            "status": 0
+                            "status": 2
                         },
                         "4": {
                             "name": "Masanori Miyamoto",
                             "country_domain": "JPN",
-                            "status": 0
+                            "status": 1
                         },
                         "5": {
                             "name": "Weeraphon Wichuma",
                             "country_domain": "THA",
-                            "status": 0
+                            "status": 3
                         },
                         "6": {
                             "name": "Ritvars Suharevs",
@@ -18020,59 +18020,107 @@
                         "8": {
                             "name": "Luis Javier Mosquera",
                             "country_domain": "COL",
-                            "status": 0
+                            "status": 1
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Rizki Juniansyah",
+                                "country_domain": "INA"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Weeraphon Wichuma",
+                                "country_domain": "THA"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Bozhidar Andreev",
+                                "country_domain": "BUL"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Muhammed Ozbek",
+                                "country_domain": "TUR"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Luis Javier Mosquera",
+                                "country_domain": "COL"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Masanori Miyamoto",
+                                "country_domain": "JPN"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Joohyo Bak",
+                                "country_domain": "KOR"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Karem Ben Hnia",
+                                "country_domain": "TUN"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Rizki Juniansyah",
+                                    "country_domain": "INA",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Weeraphon Wichuma",
+                                    "country_domain": "THA",
+                                    "status": 2,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "Shi Zhiyong",
+                                    "country_domain": "CHN",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Rizki Juniansyah",
+                                    "country_domain": "INA",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Abdullah",
+                                    "country_domain": "INA",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "Shi Zhiyong",
+                                    "country_domain": "CHN",
+                                    "status": 0,
+                                    "cstatus": 3
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
