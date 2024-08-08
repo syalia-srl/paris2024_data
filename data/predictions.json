@@ -29882,7 +29882,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/08",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Leonie Beck",
@@ -29892,7 +29892,7 @@
                         "2": {
                             "name": "Sharon van Rouwendaal",
                             "country_domain": "NED",
-                            "status": 0
+                            "status": 4
                         },
                         "3": {
                             "name": "Viviane Jungblut",
@@ -29902,17 +29902,17 @@
                         "4": {
                             "name": "Caroline Laure Jouisse",
                             "country_domain": "FRA",
-                            "status": 0
+                            "status": 1
                         },
                         "5": {
                             "name": "Ana Marcela Cunha",
                             "country_domain": "BRA",
-                            "status": 0
+                            "status": 1
                         },
                         "6": {
                             "name": "Giulia Gabbrielleschi",
                             "country_domain": "ITA",
-                            "status": 0
+                            "status": 2
                         },
                         "7": {
                             "name": "Angélica André",
@@ -29922,59 +29922,107 @@
                         "8": {
                             "name": "Bettina Fabian",
                             "country_domain": "HUN",
-                            "status": 0
+                            "status": 1
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Sharon van Rouwendaal",
+                                "country_domain": "NED"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Moesha Johnson",
+                                "country_domain": "GBR"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Ginevra Tadeucci",
+                                "country_domain": "ITA"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Ana Marcela Cunha",
+                                "country_domain": "BRA"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Bettina Fabian",
+                                "country_domain": "HUN"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Giulia Gabbrielleschi",
+                                "country_domain": "ITA"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Oceane Cassignol",
+                                "country_domain": "FRA"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Caroline Laure Jouisse",
+                                "country_domain": "FRA"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Leonie Beck",
+                                    "country_domain": "GER",
+                                    "status": 0,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Ana Marcela Cunha",
+                                    "country_domain": "BRA",
+                                    "status": 1,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "Sharon van Rouwendaal",
+                                    "country_domain": "NED",
+                                    "status": 4,
+                                    "cstatus": 3
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Leonie Beck",
+                                    "country_domain": "GER",
+                                    "status": 0,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Sharon van Rouwendaal",
+                                    "country_domain": "NED",
+                                    "status": 4,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "Chelsea Gubecka",
+                                    "country_domain": "AUS",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        }
+                    ]
                 },
                 "male": {
                     "date": "2024/08/09",
