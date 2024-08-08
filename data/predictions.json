@@ -43141,22 +43141,22 @@
             "sex": {
                 "mixed": {
                     "date": "2024/08/07",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "TITA Ruggero / BANTI Caterina",
                             "country_domain": "ITA",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "John GIMSON / Anna BURNET",
                             "country_domain": "GBR",
-                            "status": 0
+                            "status": 1
                         },
                         "3": {
                             "name": "Laila van der MEER / Bjarne BOUWER",
                             "country_domain": "NED",
-                            "status": 0
+                            "status": 1
                         },
                         "4": {
                             "name": "JARUDD Emil / JONSSON Hanna",
@@ -43166,74 +43166,122 @@
                         "5": {
                             "name": "WILKINSON Micah / DAWSON Erica",
                             "country_domain": "NZL",
-                            "status": 0
+                            "status": 3
                         },
                         "6": {
                             "name": "MAJDALANI Mateo / BOSCO Eugenia",
                             "country_domain": "ARG",
-                            "status": 0
+                            "status": 3
                         },
                         "7": {
                             "name": "Sinem KURTBAY / Akseli KESKINEN",
                             "country_domain": "FIN",
-                            "status": 0
+                            "status": 2
                         },
                         "8": {
                             "name": "KOHLHOFF Paul / STUHLEMMER Alica",
                             "country_domain": "GER",
-                            "status": 0
+                            "status": 2
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "TITA Ruggero / BANTI Caterina",
+                                "country_domain": "ITA"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "MAJDALANI Mateo / BOSCO Eugenia",
+                                "country_domain": "ARG"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "WILKINSON Micah / DAWSON Erica",
+                                "country_domain": "NZL"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "John GIMSON / Anna BURNET",
+                                "country_domain": "GBR"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "MOURNIAC Tim / BERTHOMIEU Lou",
+                                "country_domain": "FRA"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Laila van der MEER / Bjarne BOUWER",
+                                "country_domain": "NED"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Sinem KURTBAY / Akseli KESKINEN",
+                                "country_domain": "FIN"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "KOHLHOFF Paul / STUHLEMMER Alica",
+                                "country_domain": "GER"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "TITA Ruggero / BANTI Caterina",
+                                    "country_domain": "ITA",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "John GIMSON / Anna BURNET",
+                                    "country_domain": "GBR",
+                                    "status": 1,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "MAJDALANI Mateo / BOSCO Eugenia",
+                                    "country_domain": "ARG",
+                                    "status": 3,
+                                    "cstatus": 1
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "TITA Ruggero / BANTI Caterina",
+                                    "country_domain": "ITA",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "John GIMSON / Anna BURNET",
+                                    "country_domain": "GBR",
+                                    "status": 1,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "Sinem KURTBAY / Akseli KESKINEN",
+                                    "country_domain": "FIN",
+                                    "status": 1,
+                                    "cstatus": 1
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
@@ -43244,22 +43292,22 @@
             "sex": {
                 "mixed": {
                     "date": "2024/08/07",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Jordi XAMMAR HERNANDEZ / Nora BRUGMAN CABOT",
                             "country_domain": "ESP",
-                            "status": 0
+                            "status": 1
                         },
                         "2": {
                             "name": "OKADA Keiju / YOSHIOKA Miho",
                             "country_domain": "JPN",
-                            "status": 0
+                            "status": 2
                         },
                         "3": {
                             "name": "Lara VADLAU / Lukas MAEHR",
                             "country_domain": "AUT",
-                            "status": 0
+                            "status": 4
                         },
                         "4": {
                             "name": "DIESCH Simon / MARKFORT Anna",
@@ -43269,12 +43317,12 @@
                         "5": {
                             "name": "Camille LECOINTRE / Jeremie MION",
                             "country_domain": "FRA",
-                            "status": 0
+                            "status": 1
                         },
                         "6": {
                             "name": "HASSON Nitai / LASRY Noa",
                             "country_domain": "ISR",
-                            "status": 0
+                            "status": 1
                         },
                         "7": {
                             "name": "Giacomo  FERRARI / Bianca CARUSO",
@@ -43290,53 +43338,101 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Lara VADLAU / Lukas MAEHR",
+                                "country_domain": "AUT"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "OKADA Keiju / YOSHIOKA Miho",
+                                "country_domain": "JPN"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "DAHLBERG Anton / KARLSSON Lovisa",
+                                "country_domain": "SWE"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Jordi XAMMAR HERNANDEZ / Nora BRUGMAN CABOT",
+                                "country_domain": "ESP"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "COSTA Diogo / JOAO Carolina",
+                                "country_domain": "POR"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Camille LECOINTRE / Jeremie MION",
+                                "country_domain": "FRA"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "HASSON Nitai / LASRY Noa",
+                                "country_domain": "ISR"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "MERMOD Yves / SIEGENTHALER Maja",
+                                "country_domain": "SUI"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Jordi XAMMAR HERNANDEZ / Nora BRUGMAN CABOT",
+                                    "country_domain": "ESP",
+                                    "status": 1,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "OKADA Keiju / YOSHIOKA Miho",
+                                    "country_domain": "JPN",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "Camille LECOINTRE / Jeremie MION",
+                                    "country_domain": "FRA",
+                                    "status": 1,
+                                    "cstatus": 1
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Jordi XAMMAR HERNANDEZ / Nora BRUGMAN CABOT",
+                                    "country_domain": "ESP",
+                                    "status": 1,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Camille LECOINTRE / Jeremie MION",
+                                    "country_domain": "FRA",
+                                    "status": 1,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "DAHLBERG Anton / KARLSSON Lovisa",
+                                    "country_domain": "SWE",
+                                    "status": 2,
+                                    "cstatus": 0
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
