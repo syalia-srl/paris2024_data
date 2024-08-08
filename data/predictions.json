@@ -43683,22 +43683,22 @@
             "sex": {
                 "female": {
                     "date": "2024/08/08",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "NOLOT Lauriane",
                             "country_domain": "FRA",
-                            "status": 0
+                            "status": 3
                         },
                         "2": {
                             "name": "ALDRIDGE Eleanor",
                             "country_domain": "GBR",
-                            "status": 0
+                            "status": 4
                         },
                         "3": {
                             "name": "MOROZ Daniela",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 1
                         },
                         "4": {
                             "name": "WHITEHEAD Breiana",
@@ -43708,7 +43708,7 @@
                         "5": {
                             "name": "LENGWILER Elena",
                             "country_domain": "SUI",
-                            "status": 0
+                            "status": 1
                         },
                         "6": {
                             "name": "Maggie Pescetto",
@@ -43718,64 +43718,112 @@
                         "7": {
                             "name": "LAMMERTS Annelous",
                             "country_domain": "NED",
-                            "status": 0
+                            "status": 3
                         },
                         "8": {
                             "name": "ZUKERMAN Gal",
                             "country_domain": "ISR",
-                            "status": 0
+                            "status": 2
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "ALDRIDGE Eleanor",
+                                "country_domain": "GBR"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "NOLOT Lauriane",
+                                "country_domain": "FRA"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "LAMMERTS Annelous",
+                                "country_domain": "NED"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "MOROZ Daniela",
+                                "country_domain": "USA"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "MEYER Leonie",
+                                "country_domain": "GER"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "LENGWILER Elena",
+                                "country_domain": "SUI"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "DAMASIEWICZ Julia",
+                                "country_domain": "POL"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "ZUKERMAN Gal",
+                                "country_domain": "ISR"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "NOLOT Lauriane",
+                                    "country_domain": "FRA",
+                                    "status": 3,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "ALDRIDGE Eleanor",
+                                    "country_domain": "GBR",
+                                    "status": 4,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "MOROZ Daniela",
+                                    "country_domain": "USA",
+                                    "status": 1,
+                                    "cstatus": 1
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "NOLOT Lauriane",
+                                    "country_domain": "FRA",
+                                    "status": 3,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "ALDRIDGE Eleanor",
+                                    "country_domain": "GBR",
+                                    "status": 4,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "MOROZ Daniela",
+                                    "country_domain": "USA",
+                                    "status": 1,
+                                    "cstatus": 1
+                                }
+                            }
+                        }
+                    ]
                 },
                 "male": {
                     "date": "2024/08/08",
