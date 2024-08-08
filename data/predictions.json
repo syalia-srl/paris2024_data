@@ -10810,17 +10810,17 @@
             "sex": {
                 "female": {
                     "date": "2024/08/08",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Ellesse Andrews",
                             "country_domain": "NZL",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "Lea Sophie Friedrich",
                             "country_domain": "GER",
-                            "status": 0
+                            "status": 1
                         },
                         "3": {
                             "name": "Martha Bayona Pineda",
@@ -10845,64 +10845,112 @@
                         "7": {
                             "name": "Mathilde Gros",
                             "country_domain": "FRA",
-                            "status": 0
+                            "status": 1
                         },
                         "8": {
                             "name": "Emma Hinze",
                             "country_domain": "GER",
-                            "status": 0
+                            "status": 1
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Ellesse Andrews",
+                                "country_domain": "NZL"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Hetty van de Wouw ",
+                                "country_domain": "NED"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Emma Finucane",
+                                "country_domain": "GBR"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Katy Marchant",
+                                "country_domain": "GBR"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Emma Hinze",
+                                "country_domain": "GER"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Daniela Gaxiola",
+                                "country_domain": "MEX"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Lea Friedrich",
+                                "country_domain": "GER"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Mathilde Gros",
+                                "country_domain": "FRA"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Ellesse Andrews",
+                                    "country_domain": "NZL",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Lea Friedrich",
+                                    "country_domain": "GER",
+                                    "status": 0,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "Martha Bayona Pineda",
+                                    "country_domain": "COL",
+                                    "status": 0,
+                                    "cstatus": 2
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Emma Hinze",
+                                    "country_domain": "GER",
+                                    "status": 1,
+                                    "cstatus": 1
+                                },
+                                "2": {
+                                    "name": "Hetty van de Wouw ",
+                                    "country_domain": "NED",
+                                    "status": 2,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "Martha Bayona Pineda",
+                                    "country_domain": "COL",
+                                    "status": 0,
+                                    "cstatus": 2
+                                }
+                            }
+                        }
+                    ]
                 },
                 "male": {
                     "date": "2024/08/11",
@@ -11400,7 +11448,7 @@
                 },
                 "male": {
                     "date": "2024/08/08",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Ethan Edward Hayter",
@@ -11410,7 +11458,7 @@
                         "2": {
                             "name": "Benjamin Thomas",
                             "country_domain": "FRA",
-                            "status": 0
+                            "status": 4
                         },
                         "3": {
                             "name": "Niklas Larsen",
@@ -11420,12 +11468,12 @@
                         "4": {
                             "name": "Iuri Leitao",
                             "country_domain": "POR",
-                            "status": 0
+                            "status": 3
                         },
                         "5": {
                             "name": "Aaron Murray Gate",
                             "country_domain": "NZL",
-                            "status": 0
+                            "status": 2
                         },
                         "6": {
                             "name": "Shunsuke Imamura",
@@ -11440,59 +11488,107 @@
                         "8": {
                             "name": "Tim Torn Teutenberg",
                             "country_domain": "GER",
-                            "status": 0
+                            "status": 1
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Benjamin Thomas",
+                                "country_domain": "FRA"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Iuri Leitao",
+                                "country_domain": "POR"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Fabio van den Bossche",
+                                "country_domain": "BEL"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Albert Torres",
+                                "country_domain": "ESP"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Aaron Murray Gate",
+                                "country_domain": "NZL"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Kazushige Kuboki",
+                                "country_domain": "JPN"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Tim Torn Teutenberg",
+                                "country_domain": "GER"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Ethan Edward Hayter",
+                                "country_domain": "GBR"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Benjamin Thomas",
+                                    "country_domain": "FRA",
+                                    "status": 2,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Iuri Leitao",
+                                    "country_domain": "POR",
+                                    "status": 2,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "Ethan Edward Hayter",
+                                    "country_domain": "GBR",
+                                    "status": 1,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Benjamin Thomas",
+                                    "country_domain": "FRA",
+                                    "status": 2,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Ethan Edward Hayter",
+                                    "country_domain": "GBR",
+                                    "status": 1,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "Elia Viviani",
+                                    "country_domain": "ITA",
+                                    "status": 0,
+                                    "cstatus": 1
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
