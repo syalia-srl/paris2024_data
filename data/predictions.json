@@ -31357,37 +31357,37 @@
                 },
                 "male": {
                     "date": "2024/08/08",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Alemania",
                             "country_domain": "GER",
-                            "status": 0
+                            "status": 1
                         },
                         "2": {
                             "name": "China",
                             "country_domain": "CHN",
-                            "status": 0
+                            "status": 4
                         },
                         "3": {
                             "name": "España",
                             "country_domain": "ESP",
-                            "status": 0
+                            "status": 2
                         },
                         "4": {
                             "name": "Italia",
                             "country_domain": "ITA",
-                            "status": 0
+                            "status": 3
                         },
                         "5": {
                             "name": "Hungría",
                             "country_domain": "HUN",
-                            "status": 0
+                            "status": 1
                         },
                         "6": {
                             "name": "Republica Checa",
                             "country_domain": "CZE",
-                            "status": 0
+                            "status": 1
                         },
                         "7": {
                             "name": "Francia",
@@ -31403,53 +31403,101 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "China",
+                                "country_domain": "CHN"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Italia",
+                                "country_domain": "ITA"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "España",
+                                "country_domain": "ESP"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Equipo de Atletas Independientes",
+                                "country_domain": "AIN"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Alemania",
+                                "country_domain": "GER"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Hungría",
+                                "country_domain": "HUN"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Republica Checa",
+                                "country_domain": "CZE"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Brasil",
+                                "country_domain": "BRA"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Alemania",
+                                    "country_domain": "GER",
+                                    "status": 1,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "China",
+                                    "country_domain": "CHN",
+                                    "status": 4,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "Francia",
+                                    "country_domain": "FRA",
+                                    "status": 0,
+                                    "cstatus": 1
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Equipo de Atletas Independientes",
+                                    "country_domain": "AIN",
+                                    "status": 1,
+                                    "cstatus": 0
+                                },
+                                "2": {
+                                    "name": "China",
+                                    "country_domain": "CHN",
+                                    "status": 4,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "Francia",
+                                    "country_domain": "FRA",
+                                    "status": 0,
+                                    "cstatus": 1
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
@@ -31666,42 +31714,42 @@
             "sex": {
                 "female": {
                     "date": "2024/08/08",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Polonia",
                             "country_domain": "POL",
-                            "status": 0
+                            "status": 1
                         },
                         "2": {
                             "name": "Nueva Zelanda",
                             "country_domain": "NZL",
-                            "status": 0
+                            "status": 4
                         },
                         "3": {
                             "name": "Alemania",
                             "country_domain": "GER",
-                            "status": 0
+                            "status": 3
                         },
                         "4": {
                             "name": "España",
                             "country_domain": "ESP",
-                            "status": 0
+                            "status": 1
                         },
                         "5": {
                             "name": "China",
                             "country_domain": "CHN",
-                            "status": 0
+                            "status": 2
                         },
                         "6": {
                             "name": "Noruega",
                             "country_domain": "NOR",
-                            "status": 0
+                            "status": 1
                         },
                         "7": {
                             "name": "Australia",
                             "country_domain": "AUS",
-                            "status": 0
+                            "status": 1
                         },
                         "8": {
                             "name": "Servia",
@@ -31712,57 +31760,105 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Nueva Zelanda",
+                                "country_domain": "NZL"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Alemania",
+                                "country_domain": "GER"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Hungría",
+                                "country_domain": "HUN"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Polonia",
+                                "country_domain": "POL"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "China",
+                                "country_domain": "CHN"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Noruega",
+                                "country_domain": "NOR"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "España",
+                                "country_domain": "ESP"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Australia",
+                                "country_domain": "AUS"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Nueva Zelanda",
+                                    "country_domain": "NZL",
+                                    "status": 2,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "España",
+                                    "country_domain": "ESP",
+                                    "status": 1,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "Polonia",
+                                    "country_domain": "POL",
+                                    "status": 1,
+                                    "cstatus": 4
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Nueva Zelanda",
+                                    "country_domain": "NZL",
+                                    "status": 2,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "España",
+                                    "country_domain": "ESP",
+                                    "status": 1,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "Polonia",
+                                    "country_domain": "POL",
+                                    "status": 1,
+                                    "cstatus": 4
+                                }
+                            }
+                        }
+                    ]
                 },
                 "male": {
                     "date": "2024/08/08",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Portugal",
@@ -31772,22 +31868,22 @@
                         "2": {
                             "name": "Alemania",
                             "country_domain": "GER",
-                            "status": 0
+                            "status": 4
                         },
                         "3": {
                             "name": "Hungría",
                             "country_domain": "HUN",
-                            "status": 0
+                            "status": 1
                         },
                         "4": {
                             "name": "España",
                             "country_domain": "ESP",
-                            "status": 0
+                            "status": 3
                         },
                         "5": {
                             "name": "Ukrania",
                             "country_domain": "UKR",
-                            "status": 0
+                            "status": 1
                         },
                         "6": {
                             "name": "Dinamarca",
@@ -31797,64 +31893,112 @@
                         "7": {
                             "name": "Lituania ",
                             "country_domain": "LTU",
-                            "status": 0
+                            "status": 1
                         },
                         "8": {
                             "name": "Australia",
                             "country_domain": "AUS",
-                            "status": 0
+                            "status": 3
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Alemania",
+                                "country_domain": "GER"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Australia",
+                                "country_domain": "AUS"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "España",
+                                "country_domain": "ESP"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Ukrania",
+                                "country_domain": "UKR"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Lituania ",
+                                "country_domain": "LTU"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Serbia",
+                                "country_domain": "SRB"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Hungría",
+                                "country_domain": "HUN"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Nueva Zelanda",
+                                "country_domain": "NZL"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Alemania",
+                                    "country_domain": "GER",
+                                    "status": 2,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Ucrania",
+                                    "country_domain": "UKR",
+                                    "status": 1,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "Hungria",
+                                    "country_domain": "HUN",
+                                    "status": 1,
+                                    "cstatus": 1
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Alemania",
+                                    "country_domain": "GER",
+                                    "status": 2,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Australia",
+                                    "country_domain": "AUS",
+                                    "status": 2,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "España",
+                                    "country_domain": "ESP",
+                                    "status": 2,
+                                    "cstatus": 1
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
