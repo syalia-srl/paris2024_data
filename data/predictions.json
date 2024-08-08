@@ -22565,17 +22565,17 @@
             "sex": {
                 "male": {
                     "date": "2024/08/08",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Luis Alberto ORTA SANCHEZ",
                             "country_domain": "CUB",
-                            "status": 0
+                            "status": 3
                         },
                         "2": {
                             "name": "Mohammadreza Abdolhamid GERAEI",
                             "country_domain": "IRI",
-                            "status": 0
+                            "status": 4
                         },
                         "3": {
                             "name": "Mate NEMES",
@@ -22585,22 +22585,22 @@
                         "4": {
                             "name": "Parviz NASIBOV",
                             "country_domain": "UKR",
-                            "status": 0
+                            "status": 3
                         },
                         "5": {
                             "name": "Hasrat JAFAROV ",
                             "country_domain": "AZE",
-                            "status": 0
+                            "status": 3
                         },
                         "6": {
                             "name": "Slavik Galstyan ",
                             "country_domain": "ARM",
-                            "status": 0
+                            "status": 2
                         },
                         "7": {
                             "name": "Mamadassa SYLLA",
                             "country_domain": "FRA",
-                            "status": 0
+                            "status": 1
                         },
                         "8": {
                             "name": "Kyotaro SOGABE ",
@@ -22611,53 +22611,113 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Mohammadreza Abdolhamid GERAEI",
+                                "country_domain": "IRI"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Parviz NASIBOV",
+                                "country_domain": "UKR"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Luis Alberto ORTA SANCHEZ",
+                                "country_domain": "CUB"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Hasrat JAFAROV ",
+                                "country_domain": "AZE"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Amantur ISMAILOV",
+                                "country_domain": "KGZ"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Slavik Galstyan ",
+                                "country_domain": "ARM"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Valentin PETIC ",
+                                "country_domain": "MDA"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Mamadassa SYLLA",
+                                "country_domain": "FRA"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Hasrat JAFAROV ",
+                                    "country_domain": "AZE",
+                                    "status": 3,
+                                    "cstatus": 1
+                                },
+                                "2": {
+                                    "name": "Luis Alberto ORTA SANCHEZ",
+                                    "country_domain": "CUB",
+                                    "status": 3,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "Mate NEMES",
+                                    "country_domain": "SRB",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "4": {
+                                    "name": "Amantur ISMAILOV",
+                                    "country_domain": "KGZ",
+                                    "status": 1,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Hasrat JAFAROV ",
+                                    "country_domain": "AZE",
+                                    "status": 3,
+                                    "cstatus": 1
+                                },
+                                "2": {
+                                    "name": "Luis Alberto ORTA SANCHEZ",
+                                    "country_domain": "CUB",
+                                    "status": 3,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "Mate NEMES",
+                                    "country_domain": "SRB",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "4": {
+                                    "name": "",
+                                    "country_domain": "",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
@@ -22831,22 +22891,22 @@
             "sex": {
                 "male": {
                     "date": "2024/08/08",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Semen Sergeevich NOVIKOV",
                             "country_domain": "BUL",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "David LOSONCZI",
                             "country_domain": "HUN",
-                            "status": 0
+                            "status": 1
                         },
                         "3": {
                             "name": "Aleksandr Andreevitch KOMAROV",
                             "country_domain": "SRB",
-                            "status": 0
+                            "status": 1
                         },
                         "4": {
                             "name": "Ali CENGIZ",
@@ -22856,7 +22916,7 @@
                         "5": {
                             "name": "Nursultan TURSYNOV",
                             "country_domain": "KAZ",
-                            "status": 0
+                            "status": 1
                         },
                         "6": {
                             "name": "Bachir Sid Azara ",
@@ -22877,53 +22937,113 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Semen Sergeevich NOVIKOV",
+                                "country_domain": "BUL"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Alireza MOHMADIPIANI",
+                                "country_domain": "IRI"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Zhan BELENIUK",
+                                "country_domain": "UKR"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
+                                "name": "Turpal Ali BISULTANOV",
                                 "country_domain": ""
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "David LOSONCZI",
+                                "country_domain": "HUN"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "KULYNYCZ Arkadiusz Marcin",
+                                "country_domain": "POL"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Nursultan TURSYNOV",
+                                "country_domain": "KAZ"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Aleksandr Andreevitch KOMAROV",
+                                "country_domain": "SRB"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Ali CENGIZ",
+                                    "country_domain": "TUR",
+                                    "status": 0,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Semen Sergeevich NOVIKOV",
+                                    "country_domain": "BUL",
+                                    "status": 4,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "Zhan BELENIUK",
+                                    "country_domain": "UKR",
+                                    "status": 2,
+                                    "cstatus": 0
+                                },
+                                "4": {
+                                    "name": "David LOSONCZI",
+                                    "country_domain": "HUN",
+                                    "status": 1,
+                                    "cstatus": 3
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Ali CENGIZ",
+                                    "country_domain": "TUR",
+                                    "status": 0,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "David LOSONCZI",
+                                    "country_domain": "HUN",
+                                    "status": 1,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "Zhan BELENIUK",
+                                    "country_domain": "UKR",
+                                    "status": 2,
+                                    "cstatus": 0
+                                },
+                                "4": {
+                                    "name": "",
+                                    "country_domain": "",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
@@ -24041,12 +24161,12 @@
             "sex": {
                 "female": {
                     "date": "2024/08/08",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Akari FUJINAMI",
                             "country_domain": "JPN",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "Vanesa KALADZINSKAYA",
@@ -24056,17 +24176,17 @@
                         "3": {
                             "name": "Emma Jonna Denise MALMGREN",
                             "country_domain": "SWE",
-                            "status": 0
+                            "status": 1
                         },
                         "4": {
-                            "name": "Antim ANTIM",
+                            "name": "Antim PANGHAL",
                             "country_domain": "IND",
                             "status": 0
                         },
                         "5": {
                             "name": "Lucia Yamileth YEPEZ GUZMAN",
                             "country_domain": "ECU",
-                            "status": 0
+                            "status": 3
                         },
                         "6": {
                             "name": "Andreea Beatrice ANA",
@@ -24081,59 +24201,119 @@
                         "8": {
                             "name": "Khulan BATKHUYAG",
                             "country_domain": "MGL",
-                            "status": 0
+                            "status": 1
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Akari FUJINAMI",
+                                "country_domain": "JPN"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Lucia Yamileth YEPEZ GUZMAN",
+                                "country_domain": "ECU"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Hyo Gyong CHOE",
+                                "country_domain": "PRK"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "PANG Qianyu",
+                                "country_domain": "CHN"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "WENDLE Annika",
+                                "country_domain": "GER"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "BATKHUYAG Khulan",
+                                "country_domain": "MGL"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Emma Jonna Denise MALMGREN",
+                                "country_domain": "SWE"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "YETGIL Zeynep",
+                                "country_domain": "TUR"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Akari FUJINAMI",
+                                    "country_domain": "JPN",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Lucia Yamileth YEPEZ GUZMAN",
+                                    "country_domain": "ECU",
+                                    "status": 2,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "Antim PANGHAL",
+                                    "country_domain": "IND",
+                                    "status": 0,
+                                    "cstatus": 1
+                                },
+                                "4": {
+                                    "name": "Emma Jonna Denise MALMGREN",
+                                    "country_domain": "SWE",
+                                    "status": 1,
+                                    "cstatus": 3
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Akari FUJINAMI",
+                                    "country_domain": "JPN",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Lucia Yamileth YEPEZ GUZMAN",
+                                    "country_domain": "ECU",
+                                    "status": 2,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "Antim PANGHAL",
+                                    "country_domain": "IND",
+                                    "status": 0,
+                                    "cstatus": 1
+                                },
+                                "4": {
+                                    "name": "",
+                                    "country_domain": "",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
