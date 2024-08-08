@@ -35208,22 +35208,22 @@
                 },
                 "male": {
                     "date": "2024/08/08",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Zongyuan WANG",
                             "country_domain": "CHN",
-                            "status": 0
+                            "status": 3
                         },
                         "2": {
                             "name": "Siyi XIE",
                             "country_domain": "CHN",
-                            "status": 0
+                            "status": 4
                         },
                         "3": {
                             "name": "Jordan Christopher  HOULDEN  ",
                             "country_domain": "GBR",
-                            "status": 0
+                            "status": 1
                         },
                         "4": {
                             "name": "Haram  WOO ",
@@ -35254,53 +35254,101 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Zongyuan WANG",
+                                "country_domain": "CHN"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Siyi XIE",
+                                "country_domain": "CHN"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Osmar OLVERA IBARRA",
+                                "country_domain": "MEX"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Carson TYLER",
+                                "country_domain": "USA"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Jordan Christopher  HOULDEN  ",
+                                "country_domain": "GBR"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Luis Felipe URIBE BERMUDEZ",
+                                "country_domain": "COL"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Jack LAUGHER",
+                                "country_domain": "GBR"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
+                                "name": "Jules BOUYER",
                                 "country_domain": ""
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Zongyuan WANG",
+                                    "country_domain": "CHN",
+                                    "status": 3,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Osmar OLVERA IBARRA",
+                                    "country_domain": "MEX",
+                                    "status": 3,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "Siyi XIE",
+                                    "country_domain": "CHN",
+                                    "status": 4,
+                                    "cstatus": 3
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Zongyuan WANG",
+                                    "country_domain": "CHN",
+                                    "status": 3,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Siyi XIE",
+                                    "country_domain": "CHN",
+                                    "status": 4,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "LAUGHER Jack",
+                                    "country_domain": "GBR",
+                                    "status": 1,
+                                    "cstatus": 0
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
