@@ -122,7 +122,9 @@
         "esa": "sv",
         "fij": "fj",
         "ksa": "sa",
-        "tjk": "tjk"
+        "tjk": "tj",
+        "cyp": "cy",
+        "cpv": "cv"
     },
     "to_names": {
         "": "None",
@@ -247,7 +249,9 @@
         "esa": "El Salvador",
         "fij": "Fiji",
         "ksa": "Arabia Saudita",
-        "tjk": "Tayikistán"
+        "tjk": "Tayikistán",
+        "cyp": "Chipre",
+        "cpv": "Cabo Verde"
     }
 }
 
