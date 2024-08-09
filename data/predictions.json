@@ -35892,17 +35892,17 @@
             "sex": {
                 "female": {
                     "date": "2024/08/09",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Yiwen CHEN",
                             "country_domain": "CHN",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "Yani CHANG",
                             "country_domain": "CHN",
-                            "status": 0
+                            "status": 3
                         },
                         "3": {
                             "name": "Alison  GIBSON",
@@ -35912,7 +35912,7 @@
                         "4": {
                             "name": "Chiara Pellacani",
                             "country_domain": "ITA",
-                            "status": 0
+                            "status": 2
                         },
                         "5": {
                             "name": "Aranza  VAZQUEZ MONTANO",
@@ -35932,59 +35932,107 @@
                         "8": {
                             "name": "Saskia  OETTINGHAUS ",
                             "country_domain": "GER",
-                            "status": 0
+                            "status": 1
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "China",
+                                "country_domain": "CHN"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Maddison KEENEY",
+                                "country_domain": "AUS"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Yani CHANG",
+                                "country_domain": "CHN"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Chiara Pellacani",
+                                "country_domain": "ITA"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Yasmin HARPER",
+                                "country_domain": "GBR"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Alejandra ESTUDILLO",
+                                "country_domain": "MEX"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Saskia OETTINGHAUS",
+                                "country_domain": "GER"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Valeria ANTOLINO",
+                                "country_domain": "ESP"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Yiwen CHEN",
+                                    "country_domain": "CHN",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Maddison KEENEY",
+                                    "country_domain": "AUS",
+                                    "status": 2,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "Yani CHANG",
+                                    "country_domain": "CHN",
+                                    "status": 2,
+                                    "cstatus": 3
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Yani CHANG",
+                                    "country_domain": "CHN",
+                                    "status": 3,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Yiwen CHEN",
+                                    "country_domain": "CHN",
+                                    "status": 4,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "Maddison KEENEY",
+                                    "country_domain": "AUS",
+                                    "status": 3,
+                                    "cstatus": 0
+                                }
+                            }
+                        }
+                    ]
                 },
                 "male": {
                     "date": "2024/08/08",
