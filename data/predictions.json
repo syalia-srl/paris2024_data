@@ -12844,7 +12844,7 @@
                 },
                 "male": {
                     "date": "2024/08/09",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "tomoa narasaki",
@@ -12854,7 +12854,7 @@
                         "2": {
                             "name": "sorato anraku",
                             "country_domain": "JPN",
-                            "status": 0
+                            "status": 2
                         },
                         "3": {
                             "name": "mel janse van rensburg",
@@ -12864,12 +12864,12 @@
                         "4": {
                             "name": "adam ondra",
                             "country_domain": "CZE",
-                            "status": 0
+                            "status": 1
                         },
                         "5": {
                             "name": "toby roberts",
                             "country_domain": "GBR",
-                            "status": 0
+                            "status": 4
                         },
                         "6": {
                             "name": "yannick flohé",
@@ -12879,7 +12879,7 @@
                         "7": {
                             "name": "jakob schubert",
                             "country_domain": "AUT",
-                            "status": 0
+                            "status": 3
                         },
                         "8": {
                             "name": "sam avezou",
@@ -12890,53 +12890,101 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "toby roberts",
+                                "country_domain": "GBR"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "sorato anraku",
+                                "country_domain": "JPN"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "jakob schubert",
+                                "country_domain": "AUT"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "colin duffy",
+                                "country_domain": "USA"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "hamish mcarthur",
+                                "country_domain": "GBR"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "adam ondra",
+                                "country_domain": "CZE"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "alberto gines",
+                                "country_domain": "ESP"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "paul jenf",
+                                "country_domain": "FRA"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "jakob schubert",
+                                    "country_domain": "AUT",
+                                    "status": 3,
+                                    "cstatus": 1
+                                },
+                                "2": {
+                                    "name": "sorato anraku",
+                                    "country_domain": "JPN",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "alexander megos",
+                                    "country_domain": "GER",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "toby roberts",
+                                    "country_domain": "GBR",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "sorato anraku",
+                                    "country_domain": "JPN",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "jakob schubert",
+                                    "country_domain": "AUT",
+                                    "status": 2,
+                                    "cstatus": 2
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
@@ -40113,7 +40161,7 @@
                                 },
                                 "3": {
                                     "name": "Francia",
-                                    "country_domain": "FRa",
+                                    "country_domain": "FRA",
                                     "status": 2,
                                     "cstatus": 2
                                 }
