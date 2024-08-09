@@ -18642,22 +18642,22 @@
             "sex": {
                 "male": {
                     "date": "2024/08/09",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Karlos May Nasar",
                             "country_domain": "BUL",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "Yeison López",
                             "country_domain": "COL",
-                            "status": 0
+                            "status": 2
                         },
                         "3": {
                             "name": "Antonino Pizzolato",
                             "country_domain": "ITA",
-                            "status": 0
+                            "status": 2
                         },
                         "4": {
                             "name": "Karim Abokahla",
@@ -18667,12 +18667,12 @@
                         "5": {
                             "name": "Andranik Karapetyan",
                             "country_domain": "ARM",
-                            "status": 0
+                            "status": 1
                         },
                         "6": {
                             "name": "Marin Robu",
                             "country_domain": "MDA",
-                            "status": 0
+                            "status": 1
                         },
                         "7": {
                             "name": "Petr Asayonak",
@@ -18688,53 +18688,101 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Karlos May Nasar",
+                                "country_domain": "BUL"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Yeison López",
+                                "country_domain": "COL"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Antonino Pizzolato",
+                                "country_domain": "ITA"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Marin Robu",
+                                "country_domain": "MDA"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Mir Mostafa Javadi",
+                                "country_domain": "IRI"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Dongju Yu",
+                                "country_domain": "KOR"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Andranik Karapetyan",
+                                "country_domain": "ARM"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Keydomar Vallenilla",
+                                "country_domain": "VEN"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Karlos May Nasar",
+                                    "country_domain": "BUL",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Yeison López",
+                                    "country_domain": "COL",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "Mir Mostafa Javadi",
+                                    "country_domain": "IRI",
+                                    "status": 1,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Karlos May Nasar",
+                                    "country_domain": "BUL",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Yeison López",
+                                    "country_domain": "COL",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "Li Dayin",
+                                    "country_domain": "CHN",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
