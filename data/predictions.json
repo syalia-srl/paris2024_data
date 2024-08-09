@@ -44727,42 +44727,42 @@
                 },
                 "male": {
                     "date": "2024/08/08",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "PIANOSI Riccardo",
                             "country_domain": "ITA",
-                            "status": 0
+                            "status": 1
                         },
                         "2": {
                             "name": "MAEDER Max",
                             "country_domain": "SGP",
-                            "status": 0
+                            "status": 3
                         },
                         "3": {
                             "name": "VODISEK Toni",
                             "country_domain": "SLO",
-                            "status": 0
+                            "status": 3
                         },
                         "4": {
                             "name": "BONTUS Valentin",
                             "country_domain": "AUT",
-                            "status": 0
+                            "status": 4
                         },
                         "5": {
                             "name": "MAUS Jannis",
                             "country_domain": "GER",
-                            "status": 0
+                            "status": 2
                         },
                         "6": {
                             "name": "MAZELLA Axel",
                             "country_domain": "FRA",
-                            "status": 0
+                            "status": 2
                         },
                         "7": {
                             "name": "LOBO Bruno",
                             "country_domain": "BRA",
-                            "status": 0
+                            "status": 2
                         },
                         "8": {
                             "name": "DOLENC Martin",
@@ -44773,53 +44773,101 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "BONTUS Valentin",
+                                "country_domain": "AUT"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "VODISEK Toni",
+                                "country_domain": "SLO"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "MAEDER Max",
+                                "country_domain": "SGP"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "PIANOSI Riccardo",
+                                "country_domain": "ITA"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "MAUS Jannis",
+                                "country_domain": "GER"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "MAZELLA Axel",
+                                "country_domain": "FRA"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "LOBO Bruno",
+                                "country_domain": "BRA"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "BAINBRIDGE Connor",
+                                "country_domain": "GBR"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "MAEDER Max",
+                                    "country_domain": "SGP",
+                                    "status": 3,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "MAZELLA Axel",
+                                    "country_domain": "FRA",
+                                    "status": 1,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "VODISEK Toni",
+                                    "country_domain": "SLO",
+                                    "status": 3,
+                                    "cstatus": 2
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "MAEDER Max",
+                                    "country_domain": "SGP",
+                                    "status": 3,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "MAZELLA Axel",
+                                    "country_domain": "FRA",
+                                    "status": 1,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "VODISEK Toni",
+                                    "country_domain": "SLO",
+                                    "status": 3,
+                                    "cstatus": 2
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
