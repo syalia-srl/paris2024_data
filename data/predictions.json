@@ -1480,12 +1480,12 @@
             "sex": {
                 "female": {
                     "date": "2024/08/10",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Faith Kipyegon",
                             "country_domain": "KEN",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "Gudaf Tsegay",
@@ -1495,7 +1495,7 @@
                         "3": {
                             "name": "Diribe Welteji",
                             "country_domain": "ETH",
-                            "status": 0
+                            "status": 1
                         },
                         "4": {
                             "name": "Birke Haylom",
@@ -1505,17 +1505,17 @@
                         "5": {
                             "name": "Laura Muir",
                             "country_domain": "GBR",
-                            "status": 0
+                            "status": 2
                         },
                         "6": {
                             "name": "Jessica Hull",
                             "country_domain": "AUS",
-                            "status": 0
+                            "status": 3
                         },
                         "7": {
                             "name": "Elle St. Pierre",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 1
                         },
                         "8": {
                             "name": "Nelly Chepchirchir",
@@ -1526,53 +1526,101 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Faith Kipyegon",
+                                "country_domain": "KEN"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Jessica Hull",
+                                "country_domain": "AUS"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Georgia Bell",
+                                "country_domain": "GBR"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Diribe Welteji",
+                                "country_domain": "ETH"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Laura Muir",
+                                "country_domain": "GBR"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Susan Ejore",
+                                "country_domain": "KEN"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Nikki Hiltz",
+                                "country_domain": "USA"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Elle St. Pierre",
+                                "country_domain": "USA"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Ejgayehu Taye",
+                                    "country_domain": "ETH",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "2": {
+                                    "name": "Faith Kipyegon",
+                                    "country_domain": "KEN",
+                                    "status": 4,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "Sifan Hassan",
+                                    "country_domain": "NED",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Faith Kipyegon",
+                                    "country_domain": "KEN",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Jessica Hull",
+                                    "country_domain": "AUS",
+                                    "status": 2,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "Gudaf Tsegay",
+                                    "country_domain": "ETH",
+                                    "status": 0,
+                                    "cstatus": 3
+                                }
+                            }
+                        }
+                    ]
                 },
                 "male": {
                     "date": "2024/08/06",
