@@ -8928,7 +8928,7 @@
             "sex": {
                 "male": {
                     "date": "2024/08/09",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Julio César La Cruz",
@@ -8943,17 +8943,17 @@
                         "3": {
                             "name": "Enmanuel Reyes",
                             "country_domain": "ESP",
-                            "status": 0
+                            "status": 2
                         },
                         "4": {
                             "name": "Lazizbek Mullojonov",
                             "country_domain": "UZB",
-                            "status": 0
+                            "status": 4
                         },
                         "5": {
                             "name": "Aibek Oralbay",
                             "country_domain": "KAZ",
-                            "status": 0
+                            "status": 1
                         },
                         "6": {
                             "name": "Han Xuezhen",
@@ -8963,7 +8963,7 @@
                         "7": {
                             "name": "Keno Machado",
                             "country_domain": "BRA",
-                            "status": 0
+                            "status": 1
                         },
                         "8": {
                             "name": "Olaitan Olaore",
@@ -8974,53 +8974,113 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Lazizbek Mullojonov",
+                                "country_domain": "UZB"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Loren Alfonso",
+                                "country_domain": "AZE"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Enmanuel Reyes",
+                                "country_domain": "ESP"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Davlat Boltaev",
+                                "country_domain": "TJK"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Keno Machado ",
+                                "country_domain": "BRA"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Aibek Oralbay ",
+                                "country_domain": "KAZ"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Jack Marley",
+                                "country_domain": "IRL"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Victor Schelstraete",
+                                "country_domain": "BEL"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Julio César La Cruz",
+                                    "country_domain": "CUB",
+                                    "status": 0,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Aziz Abbes Mouhiidine",
+                                    "country_domain": "ITA",
+                                    "status": 0,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "Keno Machado",
+                                    "country_domain": "BRA",
+                                    "status": 1,
+                                    "cstatus": 1
+                                },
+                                "4": {
+                                    "name": "Lazizbek Mullojonov",
+                                    "country_domain": "UZB",
+                                    "status": 4,
+                                    "cstatus": 2
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Lazizbek Mullojonov",
+                                    "country_domain": "UZB",
+                                    "status": 2,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Enmanuel Reyes",
+                                    "country_domain": "ESP",
+                                    "status": 3,
+                                    "cstatus": 3
+                                },
+                                "3": {
+                                    "name": "Julio César La Cruz",
+                                    "country_domain": "CUB",
+                                    "status": 0,
+                                    "cstatus": 4
+                                },
+                                "4": {
+                                    "name": "Aibek Oralbay",
+                                    "country_domain": "KAZ",
+                                    "status": 1,
+                                    "cstatus": 1
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
@@ -9134,12 +9194,12 @@
             "sex": {
                 "female": {
                     "date": "2024/08/09",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Ingrit Valencia",
                             "country_domain": "COL",
-                            "status": 0
+                            "status": 1
                         },
                         "2": {
                             "name": "Caroline de Almeida",
@@ -9180,53 +9240,113 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Wu Yu",
+                                "country_domain": "CHN"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Buse Naz Çakiroğlu ",
+                                "country_domain": "TUR"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Nazym Kyzaibay",
+                                "country_domain": "KAZ"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Aira Villegas",
+                                "country_domain": "PHI"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Chuthamat Raksat",
+                                "country_domain": "THA"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Pihla Kaivo-oja",
+                                "country_domain": "FIN"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Ingrit Valencia",
+                                "country_domain": "COL"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Wassila Lkhadiri ",
+                                "country_domain": "FRA"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Buse Naz Çakiroğlu ",
+                                    "country_domain": "TUR",
+                                    "status": 3,
+                                    "cstatus": 0
+                                },
+                                "2": {
+                                    "name": "Wu Yu",
+                                    "country_domain": "CHN",
+                                    "status": 3,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "Nikhat Zareen",
+                                    "country_domain": "IND",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "4": {
+                                    "name": "Giordana Sorrentino",
+                                    "country_domain": "ITA",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Wu Yu",
+                                    "country_domain": "CHN",
+                                    "status": 2,
+                                    "cstatus": 0
+                                },
+                                "2": {
+                                    "name": "Chuthamat Raksat",
+                                    "country_domain": "THA",
+                                    "status": 1,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "Buse Naz Çakiroğlu ",
+                                    "country_domain": "TUR",
+                                    "status": 3,
+                                    "cstatus": 0
+                                },
+                                "4": {
+                                    "name": "Sabina Bobokulova",
+                                    "country_domain": "UZB",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
@@ -9762,12 +9882,12 @@
             "sex": {
                 "female": {
                     "date": "2024/08/09",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Busenaz Sürmeneli",
                             "country_domain": "TUR",
-                            "status": 0
+                            "status": 1
                         },
                         "2": {
                             "name": "Rosie Eccles",
@@ -9797,64 +9917,124 @@
                         "7": {
                             "name": "Yang Liu",
                             "country_domain": "CHN",
-                            "status": 0
+                            "status": 3
                         },
                         "8": {
                             "name": "Oshin Derieuw",
                             "country_domain": "BEL",
-                            "status": 0
+                            "status": 1
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Imane Khelif",
+                                "country_domain": "ALG"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Yang Liu",
+                                "country_domain": "CHN"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Janjaem Suwannapheng",
+                                "country_domain": "THA"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Chen Nien-chin",
+                                "country_domain": "TPE"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Luca Hámori",
+                                "country_domain": "HUN"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Oshin Derieuw",
+                                "country_domain": "BEL"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Busenaz Sürmeneli",
+                                "country_domain": "TUR"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Navbakhor Khamidova",
+                                "country_domain": "UZB"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Yang Liu",
+                                    "country_domain": "CHN",
+                                    "status": 3,
+                                    "cstatus": 1
+                                },
+                                "2": {
+                                    "name": "Janjaem Suwannapheng",
+                                    "country_domain": "THA",
+                                    "status": 2,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "Beatriz Soarez",
+                                    "country_domain": "BRA",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "4": {
+                                    "name": "Busenaz Sürmeneli",
+                                    "country_domain": "TUR",
+                                    "status": 1,
+                                    "cstatus": 4
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Yang Liu",
+                                    "country_domain": "CHN",
+                                    "status": 3,
+                                    "cstatus": 1
+                                },
+                                "2": {
+                                    "name": "Janjaem Suwannapheng",
+                                    "country_domain": "THA",
+                                    "status": 2,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "Busenaz Sürmeneli",
+                                    "country_domain": "TUR",
+                                    "status": 1,
+                                    "cstatus": 4
+                                },
+                                "4": {
+                                    "name": "Bogdanova",
+                                    "country_domain": "KAZ",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
@@ -11203,27 +11383,27 @@
                 },
                 "male": {
                     "date": "2024/08/09",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Harrie Lavreysen",
                             "country_domain": "NED",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "Jack Carlin",
                             "country_domain": "GBR",
-                            "status": 0
+                            "status": 3
                         },
                         "3": {
                             "name": "Matheusz Rudyk",
                             "country_domain": "POL",
-                            "status": 0
+                            "status": 1
                         },
                         "4": {
                             "name": "Matthew Richardson",
                             "country_domain": "AUS",
-                            "status": 0
+                            "status": 3
                         },
                         "5": {
                             "name": "Nicholas Paul",
@@ -11233,12 +11413,12 @@
                         "6": {
                             "name": "Jeffrey Hoogland",
                             "country_domain": "NED",
-                            "status": 0
+                            "status": 1
                         },
                         "7": {
                             "name": "Kaiya Ota",
                             "country_domain": "JPN",
-                            "status": 0
+                            "status": 2
                         },
                         "8": {
                             "name": "Rayan Helal",
@@ -11249,53 +11429,100 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Harrie Lavreysen",
+                                "country_domain": "NED"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Matthew Richardson",
+                                "country_domain": "AUS"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Jack Carlin",
+                                "country_domain": "GBR"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Jeffrey Hoogland",
+                                "country_domain": "NED"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Matheusz Rudyk",
+                                "country_domain": "POL"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Yuta Obara",
+                                "country_domain": "JPN"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Kaiya Ota",
+                                "country_domain": "JPN"
+                            },
+                            {
+                                "name": "Hamish Turnbull",
+                                "country_domain": "GBR"
                             }
                         ],
-                        "8": [
-                            {
-                                "name": "",
-                                "country_domain": ""
+                        "8": []
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Harrie Lavreysen",
+                                    "country_domain": "NED",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Nicholas Paul ",
+                                    "country_domain": "TTO",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "Matheusz Rudyk",
+                                    "country_domain": "POL",
+                                    "status": 1,
+                                    "cstatus": 2
+                                }
                             }
-                        ]
-                    }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Harrie Lavreysen",
+                                    "country_domain": "NED",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Jack Carlin",
+                                    "country_domain": "GBR",
+                                    "status": 3,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "Matheusz Rudyk",
+                                    "country_domain": "POL",
+                                    "status": 1,
+                                    "cstatus": 2
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
