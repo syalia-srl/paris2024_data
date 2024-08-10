@@ -1332,43 +1332,43 @@
                     "finished": false,
                     "prediction": {
                         "1": {
-                            "name": "Gabriel Tual",
-                            "country_domain": "FRA",
-                            "status": 0
-                        },
-                        "2": {
-                            "name": "Andreas Kramer",
-                            "country_domain": "SWE",
-                            "status": 0
-                        },
-                        "3": {
                             "name": "Emmanuel Wanyonyi",
                             "country_domain": "KEN",
                             "status": 0
                         },
-                        "4": {
-                            "name": "Marco Arop",
-                            "country_domain": "CAN",
-                            "status": 0
-                        },
-                        "5": {
-                            "name": "Djamel Sedjati",
-                            "country_domain": "ALG",
-                            "status": 0
-                        },
-                        "6": {
+                        "2": {
                             "name": "Wyclife Kinyamal",
                             "country_domain": "KEN",
                             "status": 0
                         },
+                        "3": {
+                            "name": "Gabriel Tual",
+                            "country_domain": "FRA",
+                            "status": 0
+                        },
+                        "4": {
+                            "name": "Djamel Sedjati",
+                            "country_domain": "ALG",
+                            "status": 0
+                        },
+                        "5": {
+                            "name": "Marco Arop",
+                            "country_domain": "CAN",
+                            "status": 0
+                        },
+                        "6": {
+                            "name": "Andres Kramer",
+                            "country_domain": "SWE",
+                            "status": 0
+                        },
                         "7": {
-                            "name": "Bryce Hoppel",
-                            "country_domain": "USA",
+                            "name": "Ben Pattinsom",
+                            "country_domain": "GBR",
                             "status": 0
                         },
                         "8": {
-                            "name": "Mohamed Attaoui",
-                            "country_domain": "ESP",
+                            "name": "Bryce Hoppel",
+                            "country_domain": "USA",
                             "status": 0
                         }
                     },
@@ -3161,12 +3161,12 @@
                 },
                 "male": {
                     "date": "2024/08/10",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Benson Kipruto",
                             "country_domain": "KEN",
-                            "status": 0
+                            "status": 3
                         },
                         "2": {
                             "name": "Eliud Kipchoge",
@@ -3181,7 +3181,7 @@
                         "4": {
                             "name": "Deresa Geleta",
                             "country_domain": "ETH",
-                            "status": 0
+                            "status": 1
                         },
                         "5": {
                             "name": "Kenenisa Bekele",
@@ -3196,64 +3196,112 @@
                         "7": {
                             "name": "Bashir Abdi",
                             "country_domain": "BEL",
-                            "status": 0
+                            "status": 3
                         },
                         "8": {
                             "name": "Tamirat Tola",
                             "country_domain": "ETH",
-                            "status": 0
+                            "status": 4
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Tamirat Tola",
+                                "country_domain": "ETH"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Bashir Abdi",
+                                "country_domain": "BEL"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Benson Kipruto",
+                                "country_domain": "KEN"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Emile Cairess",
+                                "country_domain": "GBR"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Deresa Geleta",
+                                "country_domain": "ETH"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Akira Akasaki",
+                                "country_domain": "JPN"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Terbello Ramakongoana",
+                                "country_domain": "LES"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Conner Mantz",
+                                "country_domain": "USA"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Benson Kipruto",
+                                    "country_domain": "KEN",
+                                    "status": 3,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": " Sisay Lemma",
+                                    "country_domain": "ETH",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "Eliud Kipchoge",
+                                    "country_domain": "KEN",
+                                    "status": 0,
+                                    "cstatus": 3
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Benson Kipruto",
+                                    "country_domain": "KEN",
+                                    "status": 3,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Deresa Geleta",
+                                    "country_domain": "ETH",
+                                    "status": 1,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "Timothy Kiplagat",
+                                    "country_domain": "KEN",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
@@ -3701,12 +3749,12 @@
                 },
                 "male": {
                     "date": "2024/08/10",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Mutaz Essa Barshim",
                             "country_domain": "QAT",
-                            "status": 0
+                            "status": 3
                         },
                         "2": {
                             "name": "Juvaughn Harrison",
@@ -3716,7 +3764,7 @@
                         "3": {
                             "name": "Sanghyeok Woo",
                             "country_domain": "KOR",
-                            "status": 0
+                            "status": 1
                         },
                         "4": {
                             "name": "Gianmarco Tamberi",
@@ -3726,12 +3774,12 @@
                         "5": {
                             "name": "Hamish_Kerr",
                             "country_domain": "NZL",
-                            "status": 0
+                            "status": 4
                         },
                         "6": {
                             "name": "Shelby McEwen",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 3
                         },
                         "7": {
                             "name": "Luis Enrique Zayas",
@@ -3747,53 +3795,101 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Hamish_Kerr",
+                                "country_domain": "NZL"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Shelby McEwen",
+                                "country_domain": "USA"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Mutaz Essa Barshim",
+                                "country_domain": "QAT"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Steffano Sottile",
+                                "country_domain": "ITA"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Ryoichi Akamatsu",
+                                "country_domain": "JPN"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Oleh Doroshchuk",
+                                "country_domain": "UKR"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Sanghyeok Woo",
+                                "country_domain": "KOR"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Tihomir Ivanov",
+                                "country_domain": "BUL"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Gianmarco Tamberi",
+                                    "country_domain": "ITA",
+                                    "status": 0,
+                                    "cstatus": 1
+                                },
+                                "2": {
+                                    "name": "Mutaz Essa Barshim",
+                                    "country_domain": "QAT",
+                                    "status": 3,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "Juvaughn Harrison",
+                                    "country_domain": "USA",
+                                    "status": 0,
+                                    "cstatus": 3
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Gianmarco Tamberi",
+                                    "country_domain": "ITA",
+                                    "status": 0,
+                                    "cstatus": 1
+                                },
+                                "2": {
+                                    "name": "Hamish_Kerr",
+                                    "country_domain": "NZL",
+                                    "status": 4,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "Mutaz Essa Barshim",
+                                    "country_domain": "QAT",
+                                    "status": 2,
+                                    "cstatus": 3
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
