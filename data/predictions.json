@@ -8662,7 +8662,7 @@
             "sex": {
                 "male": {
                     "date": "2024/08/09",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Sewon Okazawa",
@@ -8672,7 +8672,7 @@
                         "2": {
                             "name": "Omari Jones",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 3
                         },
                         "3": {
                             "name": "Makan Traoré",
@@ -8697,64 +8697,124 @@
                         "7": {
                             "name": "Zeyad Ishaish",
                             "country_domain": "JOR",
-                            "status": 0
+                            "status": 1
                         },
                         "8": {
                             "name": "Nikolai Terteryan",
                             "country_domain": "DEN",
-                            "status": 0
+                            "status": 1
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Asadkhuja Muydinkhujaev",
+                                "country_domain": "UZB"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Marco Verde",
+                                "country_domain": "MEX"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Omari Jones",
+                                "country_domain": "USA"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Lewis Richardson",
+                                "country_domain": "GBR"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Nikolai Terteryan",
+                                "country_domain": "DEN"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Nishant Dev ",
+                                "country_domain": "IND"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Rami Mofid Kiwan",
+                                "country_domain": "BUL"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Zeyad Ishaish",
+                                "country_domain": "JOR"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Sewon Okazawa",
+                                    "country_domain": "JPN",
+                                    "status": 0,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Asadkhuja Muydinkhujaev",
+                                    "country_domain": "UZB",
+                                    "status": 4,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "Aslanbek Shymbergenov",
+                                    "country_domain": "KAZ",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "4": {
+                                    "name": "Marco Verde",
+                                    "country_domain": "MEX",
+                                    "status": 3,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Aslanbek Shymbergenov",
+                                    "country_domain": "KAZ",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "2": {
+                                    "name": "Rami Mofid Kiwan",
+                                    "country_domain": "BUL",
+                                    "status": 1,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "Asadkhuja Muydinkhujaev",
+                                    "country_domain": "UZB",
+                                    "status": 4,
+                                    "cstatus": 0
+                                },
+                                "4": {
+                                    "name": "Omari Jones",
+                                    "country_domain": "USA",
+                                    "status": 2,
+                                    "cstatus": 3
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
