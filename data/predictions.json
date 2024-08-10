@@ -25348,14 +25348,14 @@
                         "8": {
                             "name": "Bat Erdene BYAMBASUREN",
                             "country_domain": "MGL",
-                            "status": 4
+                            "status": 0
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "Bat Erdene BYAMBASUREN",
-                                "country_domain": "MGL"
+                                "name": "Magomed Ramazanov",
+                                "country_domain": "BUL"
                             }
                         ],
                         "2": [
