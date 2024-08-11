@@ -20432,37 +20432,37 @@
             "sex": {
                 "male": {
                     "date": "2024/08/10",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Akbar Djuraev",
                             "country_domain": "UZB",
-                            "status": 0
+                            "status": 3
                         },
                         "2": {
                             "name": "Liu Huanhua",
                             "country_domain": "CHN",
-                            "status": 0
+                            "status": 4
                         },
                         "3": {
                             "name": "Lesman Paredes",
                             "country_domain": "BRN",
-                            "status": 0
+                            "status": 1
                         },
                         "4": {
                             "name": "Garik Karapetyan",
                             "country_domain": "ARM",
-                            "status": 0
+                            "status": 2
                         },
                         "5": {
                             "name": "Yauheni Tsikhantsou",
                             "country_domain": "AIN",
-                            "status": 0
+                            "status": 3
                         },
                         "6": {
                             "name": "Irakli Chkheidze",
                             "country_domain": "GEO",
-                            "status": 0
+                            "status": 1
                         },
                         "7": {
                             "name": "Don Opeloge",
@@ -20472,59 +20472,107 @@
                         "8": {
                             "name": "Wesley Kitts",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 2
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Liu Huanhua",
+                                "country_domain": "CHN"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Akbar Djuraev",
+                                "country_domain": "UZB"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Yauheni Tsikhantsou",
+                                "country_domain": "AIN"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Garik Karapetyan",
+                                "country_domain": "ARM"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Irakli Chkheidze",
+                                "country_domain": "GEO"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Lesman Paredes",
+                                "country_domain": "BRN"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Ramiro Mora Romero",
+                                "country_domain": "EOR"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Wesley Kitts",
+                                "country_domain": "USA"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Liu Huanhua",
+                                    "country_domain": "CHN",
+                                    "status": 2,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Feres El-Bakh",
+                                    "country_domain": "QAT",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "Garik Karapetyan",
+                                    "country_domain": "ARM",
+                                    "status": 1,
+                                    "cstatus": 1
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Liu Huanhua",
+                                    "country_domain": "CHN",
+                                    "status": 2,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Garik Karapetyan",
+                                    "country_domain": "ARM",
+                                    "status": 1,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "Tsikhantsou",
+                                    "country_domain": "BLR",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
@@ -20535,22 +20583,22 @@
             "sex": {
                 "female": {
                     "date": "2024/08/10",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Solfrid Koanda",
                             "country_domain": "NOR",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "Neisi Dajomes",
                             "country_domain": "ECU",
-                            "status": 0
+                            "status": 3
                         },
                         "3": {
                             "name": "Eileen Cikamatana",
                             "country_domain": "AUS",
-                            "status": 0
+                            "status": 1
                         },
                         "4": {
                             "name": "Ayamey Medina",
@@ -20560,74 +20608,122 @@
                         "5": {
                             "name": "Sara Ahmed",
                             "country_domain": "EGY",
-                            "status": 0
+                            "status": 3
                         },
                         "6": {
                             "name": "Kim Su-hyeon",
                             "country_domain": "KOR",
-                            "status": 0
+                            "status": 2
                         },
                         "7": {
                             "name": "Laura Amaro",
                             "country_domain": "BRA",
-                            "status": 0
+                            "status": 2
                         },
                         "8": {
                             "name": "Yudelina Mejía",
                             "country_domain": "DOM",
-                            "status": 0
+                            "status": 1
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Solfrid Koanda",
+                                "country_domain": "NOR"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Sara Ahmed",
+                                "country_domain": "EGY"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Neisi Dajomes",
+                                "country_domain": "ECU"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Eileen Cikamatana",
+                                "country_domain": "AUS"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Yudelina Mejía",
+                                "country_domain": "DOM"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Kim Su-hyeon",
+                                "country_domain": "KOR"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Laura Amaro",
+                                "country_domain": "BRA"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Rigina Adashbaeva",
+                                "country_domain": "UZB"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Solfrid Koanda",
+                                    "country_domain": "NOR",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Eileen Cikamatana",
+                                    "country_domain": "AUS",
+                                    "status": 1,
+                                    "cstatus": 3
+                                },
+                                "3": {
+                                    "name": "Sara Ahmed",
+                                    "country_domain": "EGY",
+                                    "status": 3,
+                                    "cstatus": 1
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Neisi Dajomes",
+                                    "country_domain": "ECU",
+                                    "status": 3,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Wang Zhouyu",
+                                    "country_domain": "CHN",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "Eileen Cikamatana",
+                                    "country_domain": "AUS",
+                                    "status": 1,
+                                    "cstatus": 2
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
