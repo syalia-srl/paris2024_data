@@ -19181,32 +19181,32 @@
             "sex": {
                 "female": {
                     "date": "2024/08/10",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Italia",
                             "country_domain": "ITA",
-                            "status": 0
+                            "status": 3
                         },
                         "2": {
                             "name": "Israel",
                             "country_domain": "ISR",
-                            "status": 0
+                            "status": 2
                         },
                         "3": {
                             "name": "China",
                             "country_domain": "CHN",
-                            "status": 0
+                            "status": 4
                         },
                         "4": {
                             "name": "Bulgaria",
                             "country_domain": "BUL",
-                            "status": 0
+                            "status": 2
                         },
                         "5": {
                             "name": "Ucrania",
                             "country_domain": "UKR",
-                            "status": 0
+                            "status": 1
                         },
                         "6": {
                             "name": "Brasil",
@@ -19216,64 +19216,112 @@
                         "7": {
                             "name": "Azerbaiyán",
                             "country_domain": "AZE",
-                            "status": 0
+                            "status": 1
                         },
                         "8": {
                             "name": "Francia",
                             "country_domain": "FRA",
-                            "status": 0
+                            "status": 1
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "China",
+                                "country_domain": "CHN"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Israel",
+                                "country_domain": "ISR"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Italia",
+                                "country_domain": "ITA"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Bulgaria",
+                                "country_domain": "BUL"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Azerbaiyán",
+                                "country_domain": "AZE"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Francia",
+                                "country_domain": "FRA"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Ucrania",
+                                "country_domain": "UKR"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Uzbekistan",
+                                "country_domain": "UZB"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Bulgaria",
+                                    "country_domain": "BUL",
+                                    "status": 1,
+                                    "cstatus": 1
+                                },
+                                "2": {
+                                    "name": "España",
+                                    "country_domain": "ESP",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "Israel",
+                                    "country_domain": "ISR",
+                                    "status": 3,
+                                    "cstatus": 3
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Bulgaria",
+                                    "country_domain": "BUL",
+                                    "status": 1,
+                                    "cstatus": 1
+                                },
+                                "2": {
+                                    "name": "Italia",
+                                    "country_domain": "ITA",
+                                    "status": 3,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "Israel",
+                                    "country_domain": "ISR",
+                                    "status": 3,
+                                    "cstatus": 3
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
