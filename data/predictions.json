@@ -11127,7 +11127,7 @@
             "sex": {
                 "male": {
                     "date": "2024/08/10",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "B-Boy Phil Wizard",
