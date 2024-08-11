@@ -38966,12 +38966,12 @@
                 },
                 "male": {
                     "date": "2024/08/06",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Yuan CAO",
                             "country_domain": "CHN",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "Hao YANG",
@@ -38986,79 +38986,127 @@
                         "4": {
                             "name": "Rylan  WIENS",
                             "country_domain": "CAN",
-                            "status": 0
+                            "status": 1
                         },
                         "5": {
                             "name": "Oleksii  SEREDA",
                             "country_domain": "UKR",
-                            "status": 0
+                            "status": 1
                         },
                         "6": {
                             "name": "Noah  WILLIAMS",
                             "country_domain": "GBR",
-                            "status": 0
+                            "status": 3
                         },
                         "7": {
                             "name": "Cassiel  ROUSSEAU",
                             "country_domain": "AUS",
-                            "status": 0
+                            "status": 1
                         },
                         "8": {
                             "name": "Rikuto  TAMAI",
                             "country_domain": "JPN",
-                            "status": 0
+                            "status": 3
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Yuan CAO",
+                                "country_domain": "CHN"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Rikuto  TAMAI",
+                                "country_domain": "JPN"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Noah  WILLIAMS",
+                                "country_domain": "GBR"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Cassiel  ROUSSEAU",
+                                "country_domain": "AUS"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Randal WILLARS",
+                                "country_domain": "MEX"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Timo BARTHEL",
+                                "country_domain": "GER"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Rylan  WIENS",
+                                "country_domain": "CAN"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Oleksii  SEREDA",
+                                "country_domain": "UKR"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Cassiel  ROUSSEAU",
+                                    "country_domain": "AUS",
+                                    "status": 1,
+                                    "cstatus": 1
+                                },
+                                "2": {
+                                    "name": "Hao YANG",
+                                    "country_domain": "CHN",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "Yuan CAO",
+                                    "country_domain": "CHN",
+                                    "status": 4,
+                                    "cstatus": 4
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Hao YANG",
+                                    "country_domain": "CHN",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "2": {
+                                    "name": "Yuan CAO",
+                                    "country_domain": "CHN",
+                                    "status": 4,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "Rikuto  TAMAI",
+                                    "country_domain": "JPN",
+                                    "status": 3,
+                                    "cstatus": 1
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
