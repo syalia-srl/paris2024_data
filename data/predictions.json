@@ -26070,12 +26070,12 @@
             "sex": {
                 "male": {
                     "date": "2024/08/10",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Kyle DAKE",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 3
                         },
                         "2": {
                             "name": "Zaurbek SIDAKOV",
@@ -26085,7 +26085,7 @@
                         "3": {
                             "name": "Hetik CABOLOV",
                             "country_domain": "SRB",
-                            "status": 0
+                            "status": 1
                         },
                         "4": {
                             "name": "Mahamedkhabib KADZIMAHAMEDAU",
@@ -26095,7 +26095,7 @@
                         "5": {
                             "name": "Yones Aliakbar EMAMICHOGHAEI",
                             "country_domain": "IRI",
-                            "status": 0
+                            "status": 1
                         },
                         "6": {
                             "name": "Geandry GARZON CABALLERO",
@@ -26116,53 +26116,113 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Razambek Salambekovitch JAMALOV",
+                                "country_domain": "UZB"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Daichi TAKATANI",
+                                "country_domain": "JPN"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Kyle DAKE",
+                                "country_domain": "USA"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Chermen VALIEV",
+                                "country_domain": "ALB"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Hetik CABOLOV",
+                                "country_domain": "SRB"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Viktor RASSADIN",
+                                "country_domain": "TJK"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Yones Aliakbar EMAMICHOGHAEI",
+                                "country_domain": "IRI"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Feng LU",
+                                "country_domain": "CHN"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Kyle DAKE",
+                                    "country_domain": "USA",
+                                    "status": 3,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Georgios KOUGIOUMTSIDIS",
+                                    "country_domain": "GRE",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "Turan BAYRAMOV",
+                                    "country_domain": "AZE",
+                                    "status": 0,
+                                    "cstatus": 1
+                                },
+                                "4": {
+                                    "name": "Daichi TAKATANI",
+                                    "country_domain": "JPN",
+                                    "status": 3,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Kyle DAKE",
+                                    "country_domain": "USA",
+                                    "status": 3,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Georgios KOUGIOUMTSIDIS",
+                                    "country_domain": "GRE",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "Daichi TAKATANI",
+                                    "country_domain": "JPN",
+                                    "status": 3,
+                                    "cstatus": 0
+                                },
+                                "4": {
+                                    "name": "",
+                                    "country_domain": "",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
@@ -26439,7 +26499,7 @@
             "sex": {
                 "male": {
                     "date": "2024/08/10",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Mason Mark PARRIS",
@@ -26449,17 +26509,17 @@
                         "2": {
                             "name": "Amir Hossein Abbas ZARE",
                             "country_domain": "IRI",
-                            "status": 0
+                            "status": 2
                         },
                         "3": {
                             "name": "Taha AKGUL",
                             "country_domain": "TUR",
-                            "status": 0
+                            "status": 2
                         },
                         "4": {
                             "name": "Geno PETRIASHVILI",
                             "country_domain": "GEO",
-                            "status": 0
+                            "status": 4
                         },
                         "5": {
                             "name": "Yusup BATIRMURZAEV",
@@ -26479,59 +26539,119 @@
                         "8": {
                             "name": "Aiaal LAZAREV",
                             "country_domain": "KGZ",
-                            "status": 0
+                            "status": 1
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Geno PETRIASHVILI",
+                                "country_domain": "GEO"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Amir Hossein Abbas ZARE",
+                                "country_domain": "IRI"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Taha AKGUL",
+                                "country_domain": "TUR"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Giorgi MESHVILDISHVILI",
+                                "country_domain": "AZE"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Robert BARAN",
+                                "country_domain": "POL"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Aiaal LAZAREV",
+                                "country_domain": "KGZ"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Daniel LIGETI",
+                                "country_domain": "HUN"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Lkhagvagerel MUNKHTUR",
+                                "country_domain": "MGL"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Amir Hossein Abbas ZARE",
+                                    "country_domain": "IRI",
+                                    "status": 3,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Geno PETRIASHVILI",
+                                    "country_domain": "GEO",
+                                    "status": 4,
+                                    "cstatus": 3
+                                },
+                                "3": {
+                                    "name": "Taha AKGUL",
+                                    "country_domain": "TUR",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "4": {
+                                    "name": "Mason Mark PARRIS",
+                                    "country_domain": "USA",
+                                    "status": 0,
+                                    "cstatus": 4
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Amir Hossein Abbas ZARE",
+                                    "country_domain": "IRI",
+                                    "status": 3,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Geno PETRIASHVILI",
+                                    "country_domain": "GEO",
+                                    "status": 4,
+                                    "cstatus": 3
+                                },
+                                "3": {
+                                    "name": "Taha AKGUL",
+                                    "country_domain": "TUR",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "4": {
+                                    "name": "",
+                                    "country_domain": "",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
@@ -27031,32 +27151,32 @@
             "sex": {
                 "female": {
                     "date": "2024/08/10",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Sakura MOTOKI",
                             "country_domain": "JPN",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "Aisuluu TYNYBEKOVA",
                             "country_domain": "KGZ",
-                            "status": 0
+                            "status": 3
                         },
                         "3": {
                             "name": "Iryna KOLIADENKO",
                             "country_domain": "UKR",
-                            "status": 0
+                            "status": 3
                         },
                         "4": {
                             "name": "Grace Jacob BULLEN",
                             "country_domain": "NOR",
-                            "status": 0
+                            "status": 2
                         },
                         "5": {
                             "name": "Kayla Colleen Kiyoko MIRACLE",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 1
                         },
                         "6": {
                             "name": "Alina KASABIEVA",
@@ -27077,53 +27197,113 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Sakura MOTOKI",
+                                "country_domain": "JPN"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Iryna KOLIADENKO",
+                                "country_domain": "UKR"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Aisuluu TYNYBEKOVA",
+                                "country_domain": "KGZ"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Grace Jacob BULLEN",
+                                "country_domain": "NOR"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Ana Paula GODINEZ GONZALEZ",
+                                "country_domain": "CAN"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Orkhon PUREVDORJ",
+                                "country_domain": "MGL"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Kayla Colleen Kiyoko MIRACLE",
+                                "country_domain": "USA"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Bilyana Zhivkova DUDOVA",
+                                "country_domain": "BUL"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Aisuluu TYNYBEKOVA",
+                                    "country_domain": "KGZ",
+                                    "status": 3,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Mun HYON-GYONG",
+                                    "country_domain": "PRK",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "Iryna KOLIADENKO",
+                                    "country_domain": "UKR",
+                                    "status": 3,
+                                    "cstatus": 3
+                                },
+                                "4": {
+                                    "name": "Sakura MOTOKI",
+                                    "country_domain": "JPN",
+                                    "status": 4,
+                                    "cstatus": 4
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Aisuluu TYNYBEKOVA",
+                                    "country_domain": "KGZ",
+                                    "status": 3,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Sakura MOTOKI",
+                                    "country_domain": "JPN",
+                                    "status": 4,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "Iryna KOLIADENKO",
+                                    "country_domain": "UKR",
+                                    "status": 3,
+                                    "cstatus": 2
+                                },
+                                "4": {
+                                    "name": "",
+                                    "country_domain": "",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
