@@ -21509,37 +21509,37 @@
             "sex": {
                 "female": {
                     "date": "2024/08/11",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Li Wenwen",
                             "country_domain": "CHN",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "Emily Campbell",
                             "country_domain": "GBR",
-                            "status": 0
+                            "status": 3
                         },
                         "3": {
                             "name": "Duangaksorn Chaidee",
                             "country_domain": "THA",
-                            "status": 0
+                            "status": 1
                         },
                         "4": {
                             "name": "Mary Theisen-Lappen",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 1
                         },
                         "5": {
                             "name": "Lisseth Ayoví",
                             "country_domain": "ECU",
-                            "status": 0
+                            "status": 1
                         },
                         "6": {
                             "name": "Halima Abbas",
                             "country_domain": "EGY",
-                            "status": 0
+                            "status": 1
                         },
                         "7": {
                             "name": "Iuniarra Sipaia",
@@ -21555,50 +21555,50 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Li Wenwen",
+                                "country_domain": "CHN"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Park Hye-jeong",
+                                "country_domain": "KOR"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Emily Campbell",
+                                "country_domain": "GBR"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Lisseth Ayoví",
+                                "country_domain": "ECU"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Mary Theisen-Lappen",
+                                "country_domain": "USA"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Duangaksorn Chaidee",
+                                "country_domain": "THA"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Halima Abbas",
+                                "country_domain": "EGY"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Naryury Pérez",
+                                "country_domain": "VEN"
                             }
                         ]
                     },
@@ -21607,22 +21607,22 @@
                             "name": "Sports Illustrated",
                             "prediction": {
                                 "1": {
-                                    "name": "FRY Charlotte",
-                                    "country_domain": "GBR",
-                                    "status": 3,
-                                    "cstatus": 0
+                                    "name": "Li Wenwen",
+                                    "country_domain": "CHN",
+                                    "status": 2,
+                                    "cstatus": 2
                                 },
                                 "2": {
-                                    "name": "LAUDRUP-DUFOUR, Cathrine",
-                                    "country_domain": "DEN",
-                                    "status": 0,
-                                    "cstatus": 1
+                                    "name": "Park Hye-jeong",
+                                    "country_domain": "KOR",
+                                    "status": 2,
+                                    "cstatus": 0
                                 },
                                 "3": {
-                                    "name": "WERTH, Isabell",
-                                    "country_domain": "GER",
-                                    "status": 3,
-                                    "cstatus": 4
+                                    "name": "Mary Theisen-Lappen",
+                                    "country_domain": "USA",
+                                    "status": 1,
+                                    "cstatus": 1
                                 }
                             }
                         },
@@ -21630,22 +21630,22 @@
                             "name": "L'Equipe",
                             "prediction": {
                                 "1": {
-                                    "name": "FRY Charlotte",
-                                    "country_domain": "GBR",
-                                    "status": 3,
-                                    "cstatus": 0
+                                    "name": "Li Wenwen",
+                                    "country_domain": "CHN",
+                                    "status": 2,
+                                    "cstatus": 2
                                 },
                                 "2": {
-                                    "name": "VON BREDOW-WERNDL, Jessica",
-                                    "country_domain": "GER",
-                                    "status": 4,
-                                    "cstatus": 3
+                                    "name": "Park Hye-jeong",
+                                    "country_domain": "KOR",
+                                    "status": 2,
+                                    "cstatus": 0
                                 },
                                 "3": {
-                                    "name": "WERTH, Isabell",
-                                    "country_domain": "GER",
-                                    "status": 3,
-                                    "cstatus": 4
+                                    "name": "Eileen Cikamatana",
+                                    "country_domain": "AUS",
+                                    "status": 0,
+                                    "cstatus": 0
                                 }
                             }
                         }
