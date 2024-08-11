@@ -40863,37 +40863,37 @@
             "sex": {
                 "female": {
                     "date": "2024/08/10",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Lee Da-Bin",
                             "country_domain": "KOR",
-                            "status": 0
+                            "status": 3
                         },
                         "2": {
                             "name": "Althea Laurin",
                             "country_domain": "FRA",
-                            "status": 0
+                            "status": 4
                         },
                         "3": {
                             "name": "Rebecca McGowan",
                             "country_domain": "GBR",
-                            "status": 0
+                            "status": 1
                         },
                         "4": {
                             "name": "Nafia Kus",
                             "country_domain": "TUR",
-                            "status": 0
+                            "status": 2
                         },
                         "5": {
                             "name": "Lorena Brandl",
                             "country_domain": "GER",
-                            "status": 0
+                            "status": 2
                         },
                         "6": {
                             "name": "Svetlana Osipova",
                             "country_domain": "UZB",
-                            "status": 0
+                            "status": 3
                         },
                         "7": {
                             "name": "Fatima-Ezzahra Aboufaras",
@@ -40909,53 +40909,113 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Althea Laurin",
+                                "country_domain": "FRA"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Svetlana Osipova",
+                                "country_domain": "UZB"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Lee Da-Bin",
+                                "country_domain": "KOR"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Nafia Kus",
+                                "country_domain": "TUR"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Lorena Brandl",
+                                "country_domain": "GER"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Rebecca McGowan",
+                                "country_domain": "GBR"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Munira Abdusalomova",
+                                "country_domain": "TJK"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Astan Bathily",
+                                "country_domain": "CIV"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Nafia Kus",
+                                    "country_domain": "TUR",
+                                    "status": 3,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Svetlana Osipova",
+                                    "country_domain": "UZB",
+                                    "status": 2,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "Lee Da-Bin",
+                                    "country_domain": "KOR",
+                                    "status": 3,
+                                    "cstatus": 4
+                                },
+                                "4": {
+                                    "name": "Bianca Cook ",
+                                    "country_domain": "GBR",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Althea Laurin",
+                                    "country_domain": "FRA",
+                                    "status": 2,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Nafia Kus",
+                                    "country_domain": "TUR",
+                                    "status": 3,
+                                    "cstatus": 3
+                                },
+                                "3": {
+                                    "name": "Lee Da-Bin",
+                                    "country_domain": "KOR",
+                                    "status": 3,
+                                    "cstatus": 4
+                                },
+                                "4": {
+                                    "name": "Rebecca McGowan",
+                                    "country_domain": "GBR",
+                                    "status": 1,
+                                    "cstatus": 3
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
@@ -41455,22 +41515,22 @@
             "sex": {
                 "male": {
                     "date": "2024/08/10",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Caden Cunningham",
                             "country_domain": "GBR",
-                            "status": 0
+                            "status": 3
                         },
                         "2": {
                             "name": "Cheick Sallah Cisse",
                             "country_domain": "CIV",
-                            "status": 0
+                            "status": 3
                         },
                         "3": {
                             "name": "Carlos Sansores",
                             "country_domain": "MEX",
-                            "status": 0
+                            "status": 1
                         },
                         "4": {
                             "name": "Richard Andre Ordemann",
@@ -41480,12 +41540,12 @@
                         "5": {
                             "name": "Rafael Alba Castillo",
                             "country_domain": "CUB",
-                            "status": 0
+                            "status": 3
                         },
                         "6": {
                             "name": "Ivan Sapina",
                             "country_domain": "CRO",
-                            "status": 0
+                            "status": 2
                         },
                         "7": {
                             "name": "Emre Kutalmis Atesli",
@@ -41501,53 +41561,113 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Arian Salimi",
+                                "country_domain": "IRI"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Caden Cunningham",
+                                "country_domain": "GBR"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Rafael Alba",
+                                "country_domain": "CUB"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Cheick Sallah Cissé ",
+                                "country_domain": "CIV"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Carlos Sansores",
+                                "country_domain": "MEX"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Ivan Sapina",
+                                "country_domain": "CRO"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Abdoul Razak Issoufou",
+                                "country_domain": "NIG"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Nikita Rafalovich",
+                                "country_domain": "UZB"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Carlos Sansores",
+                                    "country_domain": "MEX",
+                                    "status": 1,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Cheick Sallah Cisse",
+                                    "country_domain": "CIV",
+                                    "status": 3,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "Zhaoxiang Song",
+                                    "country_domain": "CHN",
+                                    "status": 0,
+                                    "cstatus": 1
+                                },
+                                "4": {
+                                    "name": "Emre Kutalmis Atesli",
+                                    "country_domain": "TUR",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Cheick Sallah Cisse",
+                                    "country_domain": "CIV",
+                                    "status": 3,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Carlos Sansores",
+                                    "country_domain": "MEX",
+                                    "status": 1,
+                                    "cstatus": 3
+                                },
+                                "3": {
+                                    "name": "Ivan Sapina",
+                                    "country_domain": "CRO",
+                                    "status": 1,
+                                    "cstatus": 1
+                                },
+                                "4": {
+                                    "name": "Richard Andre Ordemann",
+                                    "country_domain": "NOR",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
