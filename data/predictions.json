@@ -33813,7 +33813,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/11",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "sotero alice",
@@ -33828,27 +33828,27 @@
                         "3": {
                             "name": "clouvel elodie",
                             "country_domain": "FRA",
-                            "status": 0
+                            "status": 3
                         },
                         "4": {
                             "name": "kim sunwoo",
                             "country_domain": "KOR",
-                            "status": 0
+                            "status": 1
                         },
                         "5": {
                             "name": "janse van rensburg genevieve",
-                            "country_domain": "obj",
+                            "country_domain": "AUS",
                             "status": 0
                         },
                         "6": {
                             "name": "gulyas michelle",
                             "country_domain": "HUN",
-                            "status": 0
+                            "status": 4
                         },
                         "7": {
                             "name": "seong seungmin",
                             "country_domain": "KOR",
-                            "status": 0
+                            "status": 3
                         },
                         "8": {
                             "name": "oteiza marie",
@@ -33859,53 +33859,101 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "gulyas michelle",
+                                "country_domain": "HUN"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "clouvel elodie",
+                                "country_domain": "FRA"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "seong seungmin",
+                                "country_domain": "KOR"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "blanka guzi",
+                                "country_domain": "HUN"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "elena micheli",
+                                "country_domain": "ITA"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "ílke özyüksel",
+                                "country_domain": "TUR"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "gintarė venčkauskaitė",
+                                "country_domain": "LTU"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "kim sunwoo",
+                                "country_domain": "KOR"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "elena micheli",
+                                    "country_domain": "ITA",
+                                    "status": 1,
+                                    "cstatus": 0
+                                },
+                                "2": {
+                                    "name": "gulyas michelle",
+                                    "country_domain": "HUN",
+                                    "status": 4,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "sotero alice",
+                                    "country_domain": "ITA",
+                                    "status": 0,
+                                    "cstatus": 4
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "seong seungmin",
+                                    "country_domain": "KOR",
+                                    "status": 3,
+                                    "cstatus": 1
+                                },
+                                "2": {
+                                    "name": "malak ismail",
+                                    "country_domain": "EGY",
+                                    "status": 0,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "gintarė venčkauskaitė",
+                                    "country_domain": "LTU",
+                                    "status": 1,
+                                    "cstatus": 0
+                                }
+                            }
+                        }
+                    ]
                 },
                 "male": {
                     "date": "2024/08/10",
