@@ -34340,27 +34340,27 @@
             "sex": {
                 "female": {
                     "date": "2024/08/09",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Yarisleidi Cirilos",
                             "country_domain": "CUB",
-                            "status": 0
+                            "status": 3
                         },
                         "2": {
                             "name": "Antia Jacome",
                             "country_domain": "ESP",
-                            "status": 0
+                            "status": 1
                         },
                         "3": {
                             "name": "Harrison Nevin",
                             "country_domain": "USA",
-                            "status": 0
+                            "status": 3
                         },
                         "4": {
                             "name": "Lin Wenjun",
                             "country_domain": "CHN",
-                            "status": 0
+                            "status": 1
                         },
                         "5": {
                             "name": "Borowska Dorota",
@@ -34380,59 +34380,107 @@
                         "8": {
                             "name": "Sophia Jensen",
                             "country_domain": "CAN",
-                            "status": 0
+                            "status": 1
                         }
                     },
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Katie Vincent",
+                                "country_domain": "CAN"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Harrison Nevin",
+                                "country_domain": "USA"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Yarisleidi Cirilos",
+                                "country_domain": "CUB"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Antia Jacome",
+                                "country_domain": "ESP"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Yuliya Trushkina",
+                                "country_domain": "AIN"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Sophia Jensen",
+                                "country_domain": "CAN"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Lin Wenjun",
+                                "country_domain": "CHN"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Kincso Takacs",
+                                "country_domain": "HUN"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Yarisleidi Cirilos",
+                                    "country_domain": "CUB",
+                                    "status": 3,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Harrison Nevin",
+                                    "country_domain": "USA",
+                                    "status": 3,
+                                    "cstatus": 3
+                                },
+                                "3": {
+                                    "name": "Lin Wenjun",
+                                    "country_domain": "CHN",
+                                    "status": 1,
+                                    "cstatus": 1
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Yarisleidi Cirilos",
+                                    "country_domain": "CUB",
+                                    "status": 3,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Katie Vincent",
+                                    "country_domain": "CAN",
+                                    "status": 4,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "Antia Jacome",
+                                    "country_domain": "ESP",
+                                    "status": 1,
+                                    "cstatus": 3
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
@@ -35184,22 +35232,22 @@
             "sex": {
                 "female": {
                     "date": "2024/08/10",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Lisa Carrington",
                             "country_domain": "NZL",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "Emma Jorgensen",
                             "country_domain": "DEN",
-                            "status": 0
+                            "status": 3
                         },
                         "3": {
                             "name": "Tamara Csipes",
                             "country_domain": "HUN",
-                            "status": 0
+                            "status": 3
                         },
                         "4": {
                             "name": "Milica Novakovic",
@@ -35230,53 +35278,101 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Lisa Carrington",
+                                "country_domain": "NZL"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Tamara Csipes",
+                                "country_domain": "HUN"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Emma Jorgensen",
+                                "country_domain": "DEN"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Aimee Fisher",
+                                "country_domain": "NZL"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Wang Nan",
+                                "country_domain": "CHN"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Alida Dóra Gazsó",
+                                "country_domain": "HUN"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Hermien Peters",
+                                "country_domain": "BEL"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Michelle Russell",
+                                "country_domain": "CAN"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Lisa Carrington",
+                                    "country_domain": "NZL",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Emma Jorgensen",
+                                    "country_domain": "DEN",
+                                    "status": 3,
+                                    "cstatus": 2
+                                },
+                                "3": {
+                                    "name": "Tamara Csipes",
+                                    "country_domain": "HUN",
+                                    "status": 3,
+                                    "cstatus": 2
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Lisa Carrington",
+                                    "country_domain": "NZL",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Hermien Peters",
+                                    "country_domain": "BEL",
+                                    "status": 1,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "Tamara Csipes",
+                                    "country_domain": "HUN",
+                                    "status": 3,
+                                    "cstatus": 2
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
@@ -35287,22 +35383,22 @@
             "sex": {
                 "male": {
                     "date": "2024/08/10",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Fernando Pimenta",
                             "country_domain": "POR",
-                            "status": 0
+                            "status": 1
                         },
                         "2": {
                             "name": "Balint Kopasz",
                             "country_domain": "HUN",
-                            "status": 0
+                            "status": 3
                         },
                         "3": {
                             "name": "Jakob Thordsen",
                             "country_domain": "GER",
-                            "status": 0
+                            "status": 1
                         },
                         "4": {
                             "name": "Green Thomas",
@@ -35317,12 +35413,12 @@
                         "6": {
                             "name": "Dostal Josef",
                             "country_domain": "CZE",
-                            "status": 0
+                            "status": 4
                         },
                         "7": {
                             "name": "Martin Nathell",
                             "country_domain": "SWE",
-                            "status": 0
+                            "status": 2
                         },
                         "8": {
                             "name": "Francisco Cubelos",
@@ -35333,53 +35429,101 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Dostal Josef",
+                                "country_domain": "CZE"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Adam Varga",
+                                "country_domain": "HUN"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Balint Kopasz",
+                                "country_domain": "HUN"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Uladzislau Kravets",
+                                "country_domain": "AIN"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Agustín Vernice",
+                                "country_domain": "ARG"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Fernando Pimenta",
+                                "country_domain": "POR"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Martin Nathell",
+                                "country_domain": "SWE"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Jakob Thordsen",
+                                "country_domain": "GER"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Fernando Pimenta",
+                                    "country_domain": "POR",
+                                    "status": 1,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Green Thomas",
+                                    "country_domain": "AUS",
+                                    "status": 0,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "Adam Varga",
+                                    "country_domain": "HUN",
+                                    "status": 3,
+                                    "cstatus": 0
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Adam Varga",
+                                    "country_domain": "HUN",
+                                    "status": 3,
+                                    "cstatus": 0
+                                },
+                                "2": {
+                                    "name": "Fernando Pimenta",
+                                    "country_domain": "POR",
+                                    "status": 1,
+                                    "cstatus": 4
+                                },
+                                "3": {
+                                    "name": "Balint Kopasz",
+                                    "country_domain": "HUN",
+                                    "status": 3,
+                                    "cstatus": 3
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
