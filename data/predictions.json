@@ -20926,37 +20926,37 @@
             "sex": {
                 "male": {
                     "date": "2024/08/10",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Lasha Talakhadze",
                             "country_domain": "GEO",
-                            "status": 0
+                            "status": 2
                         },
                         "2": {
                             "name": "Varazdat Lalayan",
                             "country_domain": "ARM",
-                            "status": 0
+                            "status": 2
                         },
                         "3": {
                             "name": "Gor Minasyan",
                             "country_domain": "BRN",
-                            "status": 0
+                            "status": 2
                         },
                         "4": {
                             "name": "Ali Davoudi",
                             "country_domain": "IRI",
-                            "status": 0
+                            "status": 2
                         },
                         "5": {
                             "name": "Man Asaad",
                             "country_domain": "SYR",
-                            "status": 0
+                            "status": 2
                         },
                         "6": {
                             "name": "Abdelrahman El-Sayed",
                             "country_domain": "EGY",
-                            "status": 0
+                            "status": 1
                         },
                         "7": {
                             "name": "Eduard Ziaziulin",
@@ -20972,53 +20972,101 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Lasha Talakhadze",
+                                "country_domain": "GEO"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Varazdat Lalayan",
+                                "country_domain": "ARM"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Gor Minasyan",
+                                "country_domain": "BRN"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Ali Davoudi",
+                                "country_domain": "IRI"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Man Asaad",
+                                "country_domain": "SYR"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Ali Ammar Yusur",
+                                "country_domain": "IRQ"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Abdelrahman El-Sayed",
+                                "country_domain": "EGY"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "David Liti",
+                                "country_domain": "NZL"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Lasha Talakhadze",
+                                    "country_domain": "GEO",
+                                    "status": 2,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Gor Minasyan",
+                                    "country_domain": "BRN",
+                                    "status": 3,
+                                    "cstatus": 3
+                                },
+                                "3": {
+                                    "name": "Varazdat Lalayan",
+                                    "country_domain": "ARM",
+                                    "status": 3,
+                                    "cstatus": 3
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Varazdat Lalayan",
+                                    "country_domain": "ARM",
+                                    "status": 3,
+                                    "cstatus": 3
+                                },
+                                "2": {
+                                    "name": "Ali Davoudi",
+                                    "country_domain": "IRI",
+                                    "status": 1,
+                                    "cstatus": 1
+                                },
+                                "3": {
+                                    "name": "Sharifikelarijani",
+                                    "country_domain": "IRN",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        }
+                    ]
                 }
             }
         },
