@@ -3257,17 +3257,17 @@
             "sex": {
                 "female": {
                     "date": "2024/08/11",
-                    "finished": false,
+                    "finished": true,
                     "prediction": {
                         "1": {
                             "name": "Tigst Assefa",
                             "country_domain": "ETH",
-                            "status": 0
+                            "status": 3
                         },
                         "2": {
                             "name": "Sifan Hassan",
                             "country_domain": "NED",
-                            "status": 0
+                            "status": 4
                         },
                         "3": {
                             "name": "Peres Jepchirchir",
@@ -3282,7 +3282,7 @@
                         "5": {
                             "name": "Amane Beriso Shankule",
                             "country_domain": "ETH",
-                            "status": 0
+                            "status": 2
                         },
                         "6": {
                             "name": "Joan Chelimo Melly",
@@ -3303,53 +3303,101 @@
                     "result": {
                         "1": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Sifan Hassan",
+                                "country_domain": "NED"
                             }
                         ],
                         "2": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Tigst Assefa",
+                                "country_domain": "ETH"
                             }
                         ],
                         "3": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Hellen Obiri",
+                                "country_domain": "KEN"
                             }
                         ],
                         "4": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Sharon Lokedi",
+                                "country_domain": "KEN"
                             }
                         ],
                         "5": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Amane Beriso Shankule",
+                                "country_domain": "ETH"
                             }
                         ],
                         "6": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Yuka Suzuki",
+                                "country_domain": "JPN"
                             }
                         ],
                         "7": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Delvine Relin Meringor",
+                                "country_domain": "ROU"
                             }
                         ],
                         "8": [
                             {
-                                "name": "",
-                                "country_domain": ""
+                                "name": "Stella Chesang",
+                                "country_domain": "UGA"
                             }
                         ]
-                    }
+                    },
+                    "others": [
+                        {
+                            "name": "Sports Illustrated",
+                            "prediction": {
+                                "1": {
+                                    "name": "Tigst Assefa",
+                                    "country_domain": "ETH",
+                                    "status": 3,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Hellen Obiri",
+                                    "country_domain": "KEN",
+                                    "status": 3,
+                                    "cstatus": 0
+                                },
+                                "3": {
+                                    "name": "Peres Jepchirchir",
+                                    "country_domain": "KEN",
+                                    "status": 0,
+                                    "cstatus": 2
+                                }
+                            }
+                        },
+                        {
+                            "name": "L'Equipe",
+                            "prediction": {
+                                "1": {
+                                    "name": "Tigst Assefa",
+                                    "country_domain": "ETH",
+                                    "status": 3,
+                                    "cstatus": 2
+                                },
+                                "2": {
+                                    "name": "Peres Jepchirchir",
+                                    "country_domain": "KEN",
+                                    "status": 0,
+                                    "cstatus": 3
+                                },
+                                "3": {
+                                    "name": "B. Kosgei",
+                                    "country_domain": "KEN",
+                                    "status": 0,
+                                    "cstatus": 0
+                                }
+                            }
+                        }
+                    ]
                 },
                 "male": {
                     "date": "2024/08/10",
@@ -49072,7 +49120,7 @@
                             "status": 0
                         },
                         "6": {
-                            "name": "Austrialia",
+                            "name": "Australia",
                             "country_domain": "AUS",
                             "status": 0
                         },
@@ -49083,7 +49131,7 @@
                         },
                         "8": {
                             "name": "Serbia",
-                            "country_domain": "SCG",
+                            "country_domain": "SRB",
                             "status": 0
                         }
                     },
